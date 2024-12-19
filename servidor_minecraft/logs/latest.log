@@ -1182,3 +1182,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 03:56:29.150] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
 [19Dec2024 03:56:29.150] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
 [19Dec2024 03:56:33.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[19Dec2024 03:57:51.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:33241] logged in with entity id 4954 at (0.5, 99.0, -6.5)
+[19Dec2024 03:57:51.395] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[19Dec2024 03:57:51.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[19Dec2024 03:57:51.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[19Dec2024 03:57:51.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[19Dec2024 03:57:51.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[19Dec2024 03:57:51.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[19Dec2024 03:57:51.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[19Dec2024 03:57:51.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[19Dec2024 03:57:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Christmas]
+[19Dec2024 03:57:51.514] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[19Dec2024 03:57:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Eternal Tales]
+[19Dec2024 03:57:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Critters n' Crawlers]
+[19Dec2024 03:57:53.273] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kiri080 (18)
+[19Dec2024 03:57:53.275] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kiri080
+[19Dec2024 03:59:23.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Alex's Mobs]
+[19Dec2024 04:00:09.505] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[19Dec2024 04:00:09.505] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[19Dec2024 04:01:02.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Sweet Dreams]
+[19Dec2024 04:01:46.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Sweet Dreams]
+[19Dec2024 04:03:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Stone Age]
+[19Dec2024 04:04:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Experienced Survivor ]
+[19Dec2024 04:05:09.504] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[19Dec2024 04:05:09.505] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[19Dec2024 04:05:21.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Getting an Upgrade]
+[19Dec2024 04:05:23.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Getting an Upgrade]
+[19Dec2024 04:05:27.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Stone Age]
+[19Dec2024 04:07:04.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
