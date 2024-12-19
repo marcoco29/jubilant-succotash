@@ -3616,3 +3616,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 04:53:25.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
 [19Dec2024 04:53:46.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
 [19Dec2024 04:54:04.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Dec2024 04:54:22.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[19Dec2024 04:54:25.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Alex's Mobs]
+[19Dec2024 04:54:41.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19Dec2024 04:55:00.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4605ms or 92 ticks behind
+[19Dec2024 04:55:20.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4779ms or 95 ticks behind
+[19Dec2024 04:55:38.264] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=50, y=4, z=-240}
+[19Dec2024 04:55:46.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11035ms or 220 ticks behind
+[19Dec2024 04:55:57.428] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=222, y=-8, z=-156}
+[19Dec2024 04:55:57.429] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=222, y=-8, z=-156}
+[19Dec2024 04:55:57.429] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=221, y=-8, z=-156}
+[19Dec2024 04:55:57.429] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=221, y=-8, z=-156}
+[19Dec2024 04:55:57.429] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=220, y=-8, z=-156}
+[19Dec2024 04:55:57.429] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=220, y=-8, z=-156}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-160}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-160}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-159}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-159}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-158}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-158}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=222, y=-8, z=-156}
+[19Dec2024 04:55:57.430] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=221, y=-8, z=-156}
+[19Dec2024 04:55:57.431] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=220, y=-8, z=-156}
+[19Dec2024 04:55:57.431] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-160}
+[19Dec2024 04:55:57.434] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-159}
+[19Dec2024 04:55:57.434] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=218, y=-8, z=-158}
+[19Dec2024 04:56:10.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8581ms or 171 ticks behind
+[19Dec2024 04:56:32.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7531ms or 150 ticks behind
+[19Dec2024 04:56:57.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10236ms or 204 ticks behind
+[19Dec2024 04:57:19.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6258ms or 125 ticks behind
+[19Dec2024 04:57:19.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Stone Age]
+[19Dec2024 04:57:23.607] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=274, y=-36, z=-82}
+[19Dec2024 04:57:23.608] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=274, y=-35, z=-82}
+[19Dec2024 04:57:41.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7098ms or 141 ticks behind
+[19Dec2024 04:58:03.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
+[19Dec2024 04:58:24.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6028ms or 120 ticks behind
+[19Dec2024 04:58:28.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ari_fl08> ni siquiera se donde andan
+[19Dec2024 04:58:30.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ari_fl08> imbeciles
+[19Dec2024 04:58:43.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[19Dec2024 04:59:01.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2930ms or 58 ticks behind
+[19Dec2024 04:59:13.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Truth in Legend]
+[19Dec2024 04:59:19.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[19Dec2024 04:59:36.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[19Dec2024 04:59:59.539] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[19Dec2024 04:59:59.539] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[19Dec2024 05:01:10.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Getting an Upgrade]
+[19Dec2024 05:01:32.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Isn't It Iron Pick]
+[19Dec2024 05:01:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [False Water]
+[19Dec2024 05:02:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ari_fl08> que

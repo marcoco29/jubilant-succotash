@@ -1703,21 +1703,58 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-19 04:46:36 +0000"
     },
     "done": false
   },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000",
       "has_the_recipe": "2024-12-19 04:46:54 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-19 04:46:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000"
     },
     "done": false
   },
@@ -1733,8 +1770,15 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/chainmail_helmet2": {
     "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000",
       "has_wheat_seeds": "2024-12-19 04:42:58 +0000"
     },
     "done": false
@@ -1742,6 +1786,18 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-19 04:47:42 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/path_boots": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
     },
     "done": false
   },
@@ -1764,9 +1820,21 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/path_leggings": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/cooked_porkchop": {
     "criteria": {
       "has_cooked_porkchop": "2024-12-19 04:46:54 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000"
     },
     "done": false
   },
@@ -1788,6 +1856,30 @@
     },
     "done": false
   },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/path_helmet": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/path_chestplate": {
+    "criteria": {
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2024-12-19 04:41:56 +0000"
@@ -1797,6 +1889,12 @@
   "divinerpg:recipes/shaped/donut": {
     "criteria": {
       "has_wheat": "2024-12-19 04:47:42 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000"
     },
     "done": false
   },
@@ -1812,15 +1910,87 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
   "cnc:giant_boaradvancement": {
     "criteria": {
       "giant_boaradvancement_0": "2024-12-19 04:40:53 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-19 04:47:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "cnc:chupacabraadvancement": {
+    "criteria": {
+      "chupacabraadvancement_0": "2024-12-19 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2024-12-19 04:54:52 +0000"
     },
     "done": false
   },
