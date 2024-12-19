@@ -156,6 +156,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-19 04:01:46 +0000"
@@ -206,7 +212,8 @@
   },
   "knightquest:recipes/misc/zombie_helmet": {
     "criteria": {
-      "has_rotten_flesh": "2024-12-19 04:03:35 +0000"
+      "has_rotten_flesh": "2024-12-19 04:03:35 +0000",
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
     },
     "done": false
   },
@@ -240,6 +247,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/misc/cherry_jam": {
     "criteria": {
       "has_cherry": "2024-12-19 04:10:56 +0000"
@@ -261,7 +274,8 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "marsh": "2024-12-19 04:14:38 +0000"
+      "marsh": "2024-12-19 04:14:38 +0000",
+      "spider_nest": "2024-12-19 04:20:39 +0000"
     },
     "done": false
   },
@@ -562,6 +576,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-19 04:22:21 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/strawhat_leggings": {
     "criteria": {
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
@@ -839,6 +859,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/strawhat_boots": {
     "criteria": {
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
@@ -889,7 +915,8 @@
   },
   "knightquest:recipes/misc/zombie_leggings": {
     "criteria": {
-      "has_rotten_flesh": "2024-12-19 04:03:35 +0000"
+      "has_rotten_flesh": "2024-12-19 04:03:35 +0000",
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
     },
     "done": false
   },
@@ -1184,7 +1211,8 @@
   },
   "knightquest:recipes/misc/zombie_boots": {
     "criteria": {
-      "has_rotten_flesh": "2024-12-19 04:03:35 +0000"
+      "has_rotten_flesh": "2024-12-19 04:03:35 +0000",
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
     },
     "done": false
   },
@@ -1321,6 +1349,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2024-12-19 04:02:35 +0000"
@@ -1431,7 +1465,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "marsh": "2024-12-19 04:14:38 +0000"
+      "marsh": "2024-12-19 04:14:38 +0000",
+      "spider_nest": "2024-12-19 04:20:39 +0000"
     },
     "done": false
   },
@@ -1456,6 +1491,12 @@
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-19 04:06:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-19 04:19:29 +0000"
     },
     "done": false
   },
@@ -1503,7 +1544,8 @@
   },
   "knightquest:recipes/misc/zombie_chestplate": {
     "criteria": {
-      "has_rotten_flesh": "2024-12-19 04:03:35 +0000"
+      "has_rotten_flesh": "2024-12-19 04:03:35 +0000",
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
     },
     "done": false
   },
@@ -1539,9 +1581,10 @@
   },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_stone_pickaxe": "2024-12-19 04:05:23 +0000"
+      "has_stone_pickaxe": "2024-12-19 04:05:23 +0000",
+      "has_the_recipe": "2024-12-19 04:19:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
