@@ -735,9 +735,10 @@
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_log": "2024-12-19 03:54:40 +0000"
+      "has_log": "2024-12-19 03:54:40 +0000",
+      "has_the_recipe": "2024-12-19 05:02:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
     "criteria": {
@@ -773,6 +774,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-19 04:46:59 +0000",
       "baked_potato": "2024-12-19 04:05:29 +0000",
+      "apple": "2024-12-19 05:00:43 +0000",
       "potato": "2024-12-19 03:56:55 +0000",
       "cookie": "2024-12-19 03:57:06 +0000"
     },
@@ -1058,6 +1060,7 @@
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
+      "has_coal": "2024-12-19 05:02:29 +0000",
       "has_stick": "2024-12-19 03:57:43 +0000"
     },
     "done": false
@@ -1497,9 +1500,10 @@
   },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_stone_pickaxe": "2024-12-19 04:05:21 +0000"
+      "has_stone_pickaxe": "2024-12-19 04:05:21 +0000",
+      "has_the_recipe": "2024-12-19 05:03:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
@@ -1651,9 +1655,10 @@
   },
   "divinerpg:recipes/shapeless/divine_planks": {
     "criteria": {
-      "has_log": "2024-12-19 04:25:53 +0000"
+      "has_log": "2024-12-19 04:25:53 +0000",
+      "has_the_recipe": "2024-12-19 05:03:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "divinerpg:recipes/shaped/stripped_divine_wood": {
     "criteria": {
@@ -1715,6 +1720,18 @@
     },
     "done": false
   },
+  "divinerpg:recipes/shaped/kraken_scale": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/conquistador_leggings": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-19 04:46:36 +0000"
@@ -1764,6 +1781,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/conquistador_boots": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/ham_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2024-12-19 04:46:54 +0000"
@@ -1801,9 +1824,27 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/cooked_cod": {
     "criteria": {
       "has_cooked_cod": "2024-12-19 04:44:38 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/conquistador_helmet": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/skeleton_torch": {
+    "criteria": {
+      "has_coal": "2024-12-19 05:02:29 +0000"
     },
     "done": false
   },
@@ -1826,15 +1867,39 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_charcoal": "2024-12-19 05:02:29 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bat_boots": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/cooked_porkchop": {
     "criteria": {
       "has_cooked_porkchop": "2024-12-19 04:46:54 +0000"
     },
     "done": false
   },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_porkchop": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
   },
@@ -1856,15 +1921,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-19 05:09:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
       "has_apple": "2024-12-19 04:54:52 +0000"
     },
     "done": false
   },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-19 05:09:57 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
       "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
   },
@@ -1877,6 +1972,12 @@
   "knightquest:recipes/misc/path_chestplate": {
     "criteria": {
       "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
   },
@@ -1898,6 +1999,12 @@
     },
     "done": false
   },
+  "eternal_tales:upgrade_skill_with_notice_board": {
+    "criteria": {
+      "upgrade_skill_with_notice_board_0": "2024-12-19 05:09:21 +0000"
+    },
+    "done": true
+  },
   "cnc:mouseadvancement": {
     "criteria": {
       "mouseadvancement_0": "2024-12-19 04:42:06 +0000"
@@ -1916,6 +2023,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_charcoal": "2024-12-19 05:02:29 +0000"
+    },
+    "done": false
+  },
   "cnc:giant_boaradvancement": {
     "criteria": {
       "giant_boaradvancement_0": "2024-12-19 04:40:53 +0000"
@@ -1931,6 +2044,18 @@
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_pork": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/conquistador_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
   },
@@ -1976,9 +2101,27 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-19 05:03:54 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2024-12-19 04:58:57 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
   },
@@ -1991,6 +2134,18 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-19 04:54:52 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_ink_sac": "2024-12-19 05:09:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-19 05:09:57 +0000"
     },
     "done": false
   },

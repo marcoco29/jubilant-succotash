@@ -3664,3 +3664,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 05:01:32.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Isn't It Iron Pick]
 [19Dec2024 05:01:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [False Water]
 [19Dec2024 05:02:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ari_fl08> que
+[19Dec2024 05:04:34.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> DUERME MRDA
+[19Dec2024 05:04:59.513] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[19Dec2024 05:04:59.513] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[19Dec2024 05:05:01.248] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[19Dec2024 05:05:01.248] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[19Dec2024 05:05:01.248] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[19Dec2024 05:05:01.248] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[19Dec2024 05:05:01.248] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[19Dec2024 05:05:01.249] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[19Dec2024 05:05:01.249] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[19Dec2024 05:05:01.249] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[19Dec2024 05:05:05.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> kill ariana
+[19Dec2024 05:05:11.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 lost connection: Disconnected
+[19Dec2024 05:05:11.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 left the game
+[19Dec2024 05:05:11.926] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ari_fl08
+[19Dec2024 05:09:21.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Is this RPG game?]
+[19Dec2024 05:09:59.500] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[19Dec2024 05:09:59.501] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

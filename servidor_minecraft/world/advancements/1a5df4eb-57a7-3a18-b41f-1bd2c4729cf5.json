@@ -1681,6 +1681,7 @@
       "cooked_porkchop": "2024-12-19 04:48:13 +0000",
       "sweet_berries": "2024-12-19 04:58:12 +0000",
       "baked_potato": "2024-12-19 04:10:31 +0000",
+      "tropical_fish": "2024-12-19 05:00:46 +0000",
       "apple": "2024-12-19 04:57:51 +0000",
       "cooked_cod": "2024-12-19 04:44:48 +0000",
       "carrot": "2024-12-19 04:13:45 +0000"
@@ -2174,9 +2175,10 @@
   },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
+      "has_the_recipe": "2024-12-19 05:01:31 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/iron_gate": {
     "criteria": {
@@ -2761,10 +2763,22 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-19 05:01:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-19 04:40:58 +0000",
       "has_the_recipe": "2024-12-19 04:46:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-19 05:01:37 +0000"
     },
     "done": true
   },
@@ -2786,9 +2800,21 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-19 05:01:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-19 05:04:04 +0000"
     },
     "done": false
   },
@@ -2831,6 +2857,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_pickaxe": "2024-12-19 05:01:32 +0000",
       "has_chainmail_helmet": "2024-12-19 04:44:49 +0000"
     },
     "done": false
@@ -2840,6 +2867,12 @@
       "has_amethyst_block": "2024-12-19 04:50:07 +0000"
     },
     "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-19 05:01:32 +0000"
+    },
+    "done": true
   },
   "knightquest:recipes/misc/path_boots": {
     "criteria": {
@@ -3005,6 +3038,12 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-19 05:01:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000"
@@ -3091,6 +3130,12 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-19 05:01:37 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2024-12-19 04:54:54 +0000"
@@ -3154,6 +3199,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_pickaxe": "2024-12-19 05:01:32 +0000",
       "has_chainmail_helmet": "2024-12-19 04:44:49 +0000"
     },
     "done": false
