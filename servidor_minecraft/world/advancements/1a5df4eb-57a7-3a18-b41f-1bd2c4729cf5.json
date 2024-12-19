@@ -1675,7 +1675,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-19 04:48:13 +0000",
       "baked_potato": "2024-12-19 04:10:31 +0000",
+      "cooked_cod": "2024-12-19 04:44:48 +0000",
       "carrot": "2024-12-19 04:13:45 +0000"
     },
     "done": false
@@ -1751,7 +1753,10 @@
       "shrubland": "2024-12-19 04:26:13 +0000",
       "highland": "2024-12-19 04:26:35 +0000",
       "marsh": "2024-12-19 04:14:38 +0000",
-      "spider_nest": "2024-12-19 04:20:39 +0000"
+      "maple_woods": "2024-12-19 04:42:50 +0000",
+      "overgrown_greens": "2024-12-19 04:44:09 +0000",
+      "spider_nest": "2024-12-19 04:20:39 +0000",
+      "grassland": "2024-12-19 04:43:22 +0000"
     },
     "done": false
   },
@@ -1760,7 +1765,10 @@
       "shrubland": "2024-12-19 04:26:13 +0000",
       "highland": "2024-12-19 04:26:35 +0000",
       "marsh": "2024-12-19 04:14:38 +0000",
-      "spider_nest": "2024-12-19 04:20:39 +0000"
+      "maple_woods": "2024-12-19 04:42:50 +0000",
+      "overgrown_greens": "2024-12-19 04:44:09 +0000",
+      "spider_nest": "2024-12-19 04:20:39 +0000",
+      "grassland": "2024-12-19 04:43:22 +0000"
     },
     "done": false
   },
@@ -1863,13 +1871,17 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "blackwood_taiga": "2024-12-19 04:26:19 +0000"
+      "muddy_river": "2024-12-19 04:52:38 +0000",
+      "blackwood_taiga": "2024-12-19 04:26:19 +0000",
+      "boreal_forest": "2024-12-19 04:52:35 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "blackwood_taiga": "2024-12-19 04:26:19 +0000"
+      "muddy_river": "2024-12-19 04:52:38 +0000",
+      "blackwood_taiga": "2024-12-19 04:26:19 +0000",
+      "boreal_forest": "2024-12-19 04:52:35 +0000"
     },
     "done": false
   },
@@ -2666,6 +2678,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 04:49:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000"
@@ -2684,11 +2702,42 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
-      "has_porkchop": "2024-12-19 04:40:58 +0000"
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
     },
     "done": false
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-19 04:40:58 +0000",
+      "has_the_recipe": "2024-12-19 04:46:15 +0000"
+    },
+    "done": true
   },
   "divinerpg:recipes/shapeless/bacon": {
     "criteria": {
@@ -2708,9 +2757,39 @@
     },
     "done": false
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-19 04:46:16 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/tunic_green_leggings": {
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-12-19 04:44:49 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
     },
     "done": false
   },
@@ -2720,9 +2799,63 @@
     },
     "done": false
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 04:49:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-19 04:49:20 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2024-12-19 04:44:43 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 04:49:20 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
     },
     "done": false
   },
@@ -2732,15 +2865,51 @@
     },
     "done": false
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_porkchop": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-19 04:46:16 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_porkchop": "2024-12-19 04:40:58 +0000"
     },
     "done": false
   },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
+    },
+    "done": false
+  },
   "cnc:giant_boar_killed": {
     "criteria": {
       "giant_boar_killed_0": "2024-12-19 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 04:43:10 +0000"
     },
     "done": true
   },
@@ -2798,6 +2967,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-19 04:43:59 +0000"
+    },
+    "done": false
+  },
   "cnc:giant_boaradvancement": {
     "criteria": {
       "giant_boaradvancement_0": "2024-12-19 04:39:43 +0000"
@@ -2822,6 +2997,12 @@
     },
     "done": false
   },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2024-12-19 04:40:58 +0000"
@@ -2831,6 +3012,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-19 04:40:58 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-19 04:50:13 +0000"
     },
     "done": false
   },
@@ -2852,9 +3039,51 @@
     },
     "done": false
   },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 04:49:20 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-12-19 04:44:49 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-19 04:50:07 +0000"
     },
     "done": false
   },

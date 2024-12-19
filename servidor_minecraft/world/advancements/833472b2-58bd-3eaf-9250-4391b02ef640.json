@@ -1,10 +1,4 @@
 {
-  "ancient_elements:ancient_elements": {
-    "criteria": {
-      "ancient_elements": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
@@ -16,24 +10,6 @@
       "has_items": "2024-12-19 04:40:22 +0000"
     },
     "done": false
-  },
-  "pizzacraft:root": {
-    "criteria": {
-      "tick": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-19 04:40:23 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
   },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
@@ -53,12 +29,6 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-19 04:40:22 +0000"
@@ -77,12 +47,6 @@
     },
     "done": false
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
@@ -95,21 +59,9 @@
     },
     "done": false
   },
-  "divinerpg:overworld/root": {
-    "criteria": {
-      "divinerpg": "2024-12-19 04:40:25 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
     },
     "done": false
   },
@@ -157,12 +109,6 @@
     },
     "done": false
   },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
@@ -172,12 +118,6 @@
   "eternal_tales:eternal_tales_ach": {
     "criteria": {
       "eternal_tales_ach_0": "2024-12-19 04:40:22 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-19 04:40:23 +0000"
     },
     "done": true
   },
@@ -198,12 +138,6 @@
     },
     "done": false
   },
-  "cnc:cnc": {
-    "criteria": {
-      "cnc_0": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
@@ -223,12 +157,6 @@
     },
     "done": false
   },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
@@ -240,18 +168,6 @@
       "has_items": "2024-12-19 04:40:22 +0000"
     },
     "done": false
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-19 04:40:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2024-12-19 04:40:25 +0000"
-    },
-    "done": true
   },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
@@ -277,12 +193,6 @@
     },
     "done": false
   },
-  "divinerpg:overworld/patchouli": {
-    "criteria": {
-      "tick": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
@@ -292,18 +202,6 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
-    },
-    "done": false
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-19 04:40:23 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
     },
     "done": false
   },
@@ -350,12 +248,6 @@
     },
     "done": false
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2024-12-19 04:40:22 +0000"
@@ -374,6 +266,132 @@
       "has_items": "2024-12-19 04:40:22 +0000"
     },
     "done": false
+  },
+  "ancient_elements:ancient_elements": {
+    "criteria": {
+      "ancient_elements": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-19 04:40:23 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "cnc:cnc": {
+    "criteria": {
+      "cnc_0": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/patchouli": {
+    "criteria": {
+      "tick": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-19 04:40:23 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2024-12-19 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-19 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-19 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 04:40:25 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 04:45:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-19 04:51:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-19 04:51:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
