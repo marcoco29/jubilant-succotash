@@ -540,6 +540,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-19 04:06:22 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/food/cooked_calamari_from_calamari": {
     "criteria": {
       "has_calamari": "2024-12-19 04:02:42 +0000"
@@ -663,6 +669,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 04:06:22 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-19 03:57:22 +0000"
@@ -731,9 +743,10 @@
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_cobblestone": "2024-12-19 04:03:57 +0000"
+      "has_cobblestone": "2024-12-19 04:03:57 +0000",
+      "has_the_recipe": "2024-12-19 04:07:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
@@ -749,9 +762,10 @@
   },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_cobblestone": "2024-12-19 04:03:57 +0000"
+      "has_cobblestone": "2024-12-19 04:03:57 +0000",
+      "has_the_recipe": "2024-12-19 04:06:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
@@ -928,6 +942,12 @@
     },
     "done": false
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-19 04:05:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2024-12-19 03:53:30 +0000"
@@ -972,6 +992,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-19 04:05:29 +0000",
       "potato": "2024-12-19 03:56:55 +0000",
       "cookie": "2024-12-19 03:57:06 +0000"
     },
@@ -1007,6 +1028,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-19 04:05:27 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2024-12-19 03:57:43 +0000"
@@ -1016,6 +1043,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-19 04:04:52 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-19 04:05:27 +0000"
     },
     "done": false
   },
@@ -1128,6 +1161,12 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-19 04:10:48 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_food": {
     "criteria": {
       "calamari": "2024-12-19 04:02:42 +0000"
@@ -1142,9 +1181,10 @@
   },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_cobblestone": "2024-12-19 04:03:57 +0000"
+      "has_cobblestone": "2024-12-19 04:03:57 +0000",
+      "has_the_recipe": "2024-12-19 04:05:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
@@ -1205,6 +1245,12 @@
       "has_stick": "2024-12-19 03:57:43 +0000"
     },
     "done": false
+  },
+  "eternal_tales:get_any_skill_boost_effect": {
+    "criteria": {
+      "get_any_skill_boost_effect_0": "2024-12-19 04:09:59 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/clock_block": {
     "criteria": {
@@ -1278,11 +1324,18 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/baked_potato": {
+  "supplementaries:recipes/flower_box": {
     "criteria": {
-      "has_potato": "2024-12-19 03:53:30 +0000"
+      "has_dirt": "2024-12-19 04:10:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-19 03:53:30 +0000",
+      "has_the_recipe": "2024-12-19 04:05:26 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
@@ -1347,6 +1400,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-19 04:04:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-19 04:05:21 +0000"
     },
     "done": false
   },
@@ -1428,9 +1487,16 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-19 04:05:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-12-19 04:02:40 +0000"
+      "minecraft:river": "2024-12-19 04:02:40 +0000",
+      "minecraft:dripstone_caves": "2024-12-19 04:10:14 +0000"
     },
     "done": false
   },
