@@ -3495,5 +3495,107 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skeleton_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/wither_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/wither_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/skeleton_pumpkin": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/pirate_boots": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/skeleton_boots": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/bone_chest": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/wither_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/wither_boots": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/pirate_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/skeleton_helmet": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/pirate_chestplate": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/skeleton_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/pirate_leggings": {
+    "criteria": {
+      "has_bone": "2024-12-20 05:52:44 +0000"
+    },
+    "done": false
+  },
+  "cnc:parcooked_game_advancement": {
+    "criteria": {
+      "parcooked_game_advancement_0": "2024-12-20 05:52:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

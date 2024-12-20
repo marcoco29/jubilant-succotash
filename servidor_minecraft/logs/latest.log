@@ -1189,3 +1189,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 05:44:15.897] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [20Dec2024 05:44:15.897] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [20Dec2024 05:44:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Sprinter
+[20Dec2024 05:48:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Eye of Evil]
+[20Dec2024 05:48:59.439] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 05:48:59.461] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 05:49:02.910] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 05:49:02.915] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 05:49:05.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by The Eye
+[20Dec2024 05:49:10.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 hit the ground too hard
+[20Dec2024 05:49:15.912] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 05:49:15.912] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 05:51:54.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Knight Quest]
+[20Dec2024 05:52:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Bad Cooking!]
+[20Dec2024 05:54:15.886] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 05:54:15.886] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
