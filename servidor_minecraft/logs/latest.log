@@ -1175,3 +1175,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 07:45:39.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Horror Under the Mantle]
 [20Dec2024 07:46:06.237] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [20Dec2024 07:46:06.238] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:51:06.232] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:51:06.232] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:54:12.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Parrots and the Bats]
+[20Dec2024 07:56:06.233] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:56:06.234] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:56:56.195] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 07:56:56.210] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 07:58:12.441] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 07:58:12.454] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 07:58:56.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Exorcism]

@@ -1273,6 +1273,7 @@
     "criteria": {
       "has_cobblestone": "2024-12-19 04:05:27 +0000",
       "minecraft:planks": "2024-12-19 04:06:14 +0000",
+      "has_redstone": "2024-12-20 07:47:14 +0000",
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
@@ -1502,6 +1503,7 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-19 04:06:14 +0000",
+      "has_redstone": "2024-12-20 07:47:14 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
     "done": false
@@ -1715,6 +1717,7 @@
       "bread": "2024-12-19 05:12:49 +0000",
       "rotten_flesh": "2024-12-20 05:31:36 +0000",
       "glow_berries": "2024-12-20 05:46:50 +0000",
+      "beetroot": "2024-12-20 07:50:51 +0000",
       "carrot": "2024-12-19 04:13:45 +0000"
     },
     "done": false
@@ -2614,6 +2617,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
+      "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000"
     },
     "done": false
@@ -2622,6 +2626,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
+      "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000"
     },
     "done": false
@@ -3250,7 +3255,8 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-19 04:54:54 +0000",
-      "has_banana": "2024-12-19 06:21:43 +0000"
+      "has_banana": "2024-12-19 06:21:43 +0000",
+      "has_grapes": "2024-12-20 07:52:55 +0000"
     },
     "done": false
   },
@@ -5526,15 +5532,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2024-12-20 07:01:36 +0000"
     },
     "done": false
   },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/raisins_from_grape": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/red_fence": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
     },
     "done": false
   },
@@ -5582,11 +5612,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2024-12-20 07:01:36 +0000"
     },
     "done": true
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
   },
   "galosphere:recipes/tools/glow_flare": {
     "criteria": {
@@ -5624,9 +5666,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-20 07:28:27 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
     },
     "done": false
   },
@@ -5638,7 +5692,20 @@
   },
   "supplementaries:recipes/altimeter": {
     "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000",
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
     },
     "done": false
   },
@@ -5648,9 +5715,21 @@
     },
     "done": false
   },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-20 07:27:31 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 07:50:21 +0000"
     },
     "done": false
   },
@@ -5660,9 +5739,33 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/polar_leggings": {
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
     },
     "done": false
   },
@@ -5684,6 +5787,24 @@
     },
     "done": false
   },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
@@ -5702,6 +5823,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2024-12-20 07:09:02 +0000"
@@ -5711,6 +5844,18 @@
   "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
     },
     "done": false
   },
@@ -5738,6 +5883,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/polar_chestplate": {
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000"
@@ -5750,9 +5907,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/zucchini_seed": {
+    "criteria": {
+      "has_zucchini": "2024-12-20 07:50:55 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_plains": {
     "criteria": {
       "bellpepper_seed": "2024-12-20 06:49:21 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
     },
     "done": false
   },

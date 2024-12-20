@@ -844,7 +844,8 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:03:57 +0000",
-      "minecraft:planks": "2024-12-19 03:57:22 +0000"
+      "minecraft:planks": "2024-12-19 03:57:22 +0000",
+      "has_redstone": "2024-12-20 07:47:00 +0000"
     },
     "done": false
   },
@@ -917,6 +918,7 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-19 03:57:22 +0000",
+      "has_redstone": "2024-12-20 07:47:00 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
     "done": false
@@ -1111,6 +1113,7 @@
   },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000",
       "has_stick": "2024-12-19 03:57:43 +0000"
     },
     "done": false
@@ -2083,6 +2086,7 @@
   },
   "knightquest:recipes/misc/strawhat_leggings": {
     "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2102,6 +2106,7 @@
   },
   "knightquest:recipes/misc/strawhat_boots": {
     "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2120,6 +2125,7 @@
   },
   "knightquest:recipes/misc/strawhat_helmet": {
     "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2152,6 +2158,7 @@
   },
   "knightquest:recipes/misc/strawhat_chestplate": {
     "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2171,7 +2178,8 @@
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_hay_block": "2024-12-19 05:09:57 +0000"
+      "has_hay_block": "2024-12-19 05:09:57 +0000",
+      "has_redstone": "2024-12-20 07:47:00 +0000"
     },
     "done": false
   },
@@ -2403,9 +2411,10 @@
   },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
-      "has_string": "2024-12-19 05:36:23 +0000"
+      "has_string": "2024-12-19 05:36:23 +0000",
+      "has_the_recipe": "2024-12-20 07:47:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
@@ -4142,6 +4151,24 @@
     },
     "done": false
   },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/red_fence": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-20 07:54:12 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_chestplate": {
     "criteria": {
       "has_sand": "2024-12-20 07:29:02 +0000"
@@ -4157,6 +4184,30 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-20 06:35:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
     },
     "done": false
   },
@@ -4184,6 +4235,30 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2024-12-20 07:11:26 +0000"
@@ -4202,6 +4277,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-12-20 07:54:12 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/misc/roasted_sunflower_seeds": {
     "criteria": {
       "has_sunflower": "2024-12-20 07:12:57 +0000"
@@ -4214,15 +4301,70 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-20 07:09:10 +0000"
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/checker": {
+    "criteria": {
+      "has_wool": "2024-12-20 07:47:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000",
+      "has_the_recipe": "2024-12-20 07:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-20 07:29:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-20 07:47:49 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2024-12-20 07:47:49 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-20 07:47:49 +0000"
     },
     "done": false
   },
