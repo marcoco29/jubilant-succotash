@@ -5529,111 +5529,46 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/polar_boots": {
-    "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/misc/silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
-    },
-    "done": false
-  },
-  "graveyard:graveyard/crypt": {
-    "criteria": {
-      "crypt": "2024-12-20 08:11:49 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/fajitas": {
-    "criteria": {
-      "has_bellpepper": "2024-12-20 08:17:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-20 07:50:21 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/decorations/combustion_table": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/tools/barometer": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/food/raisins_from_grape": {
-    "criteria": {
-      "has_grape": "2024-12-20 07:52:55 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/wrench": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/red_fence": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2024-12-20 07:09:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-20 06:39:23 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/tools/brush": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+      "has_raw_copper": "2024-12-20 06:39:23 +0000"
     },
     "done": false
   },
-  "croptopia:gather_jungle": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "peanut_seed": "2024-12-20 06:49:33 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2024-12-20 07:21:18 +0000"
+      "has_raw_copper": "2024-12-20 06:39:23 +0000",
+      "has_the_recipe": "2024-12-20 06:54:30 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "knightquest:recipes/misc/polar_boots": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
     },
     "done": false
   },
@@ -5653,51 +5588,41 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
+  "croptopia:gather_savanna": {
     "criteria": {
-      "has_beetroot": "2024-12-20 07:50:21 +0000"
+      "zucchini_seed": "2024-12-20 06:49:21 +0000",
+      "kiwi_seed": "2024-12-20 07:58:29 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "croptopia:gather_plains": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+      "bellpepper_seed": "2024-12-20 06:49:21 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "croptopia:gather_forest": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+      "blackbean_seed": "2024-12-20 07:58:29 +0000",
+      "grape_seed": "2024-12-20 06:49:30 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "croptopia:gather_jungle": {
     "criteria": {
-      "has_rail": "2024-12-20 08:12:34 +0000"
+      "peanut_seed": "2024-12-20 06:49:33 +0000"
     },
     "done": false
   },
-  "galosphere:adventure/silver_ingot": {
+  "supplementaries:recipes/wrench": {
     "criteria": {
-      "silver_ingot": "2024-12-20 07:01:36 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_peanut_butter": {
-    "criteria": {
-      "has_peanuts": "2024-12-20 08:17:32 +0000"
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
-  "croptopia:recipes/shaped_ajvar": {
+  "minecraft:recipes/tools/brush": {
     "criteria": {
-      "has_bellpepper": "2024-12-20 08:17:25 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/grape_seed": {
-    "criteria": {
-      "has_grape": "2024-12-20 07:52:55 +0000"
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
@@ -5707,93 +5632,9 @@
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2024-12-20 07:28:59 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2024-12-20 06:55:10 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/redstone/silver_balance": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
-    },
-    "done": false
-  },
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
-    },
-    "done": false
-  },
-  "ancient_elements:hammer_time": {
-    "criteria": {
-      "hammer_time": "2024-12-20 07:16:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2024-12-20 07:28:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/grape_juice": {
-    "criteria": {
-      "has_grape": "2024-12-20 07:52:55 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/bellpepper_seed": {
-    "criteria": {
-      "has_bellpepper": "2024-12-20 08:17:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-20 08:12:34 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/decorations/silver_lattice": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
     },
     "done": false
   },
@@ -5801,115 +5642,6 @@
     "criteria": {
       "has_redstone": "2024-12-20 07:47:14 +0000",
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/sconce_lever": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2024-12-20 07:58:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "croptopia:gather_savanna": {
-    "criteria": {
-      "zucchini_seed": "2024-12-20 06:49:21 +0000",
-      "kiwi_seed": "2024-12-20 07:58:29 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/blasting/arlemite_ingot_from_raw_arlemite": {
-    "criteria": {
-      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/beetroot_salad": {
-    "criteria": {
-      "has_beetroot": "2024-12-20 07:50:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-20 07:27:31 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 07:50:21 +0000"
-    },
-    "done": false
-  },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2024-12-20 08:21:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2024-12-20 06:54:52 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/redstone/redstone_bud": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/food/raisins_from_smoking_grape": {
-    "criteria": {
-      "has_grape": "2024-12-20 07:52:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/polar_leggings": {
-    "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "graveyard:graveyard/craft_coffin": {
-    "criteria": {
-      "coffin": "2024-12-20 08:12:05 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/smelting/arlemite_ingot_from_raw_arlemite": {
-    "criteria": {
-      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
     },
     "done": false
   },
@@ -5931,94 +5663,9 @@
     },
     "done": false
   },
-  "croptopia:recipes/misc/grape_jam": {
-    "criteria": {
-      "has_grape": "2024-12-20 07:52:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-20 08:12:34 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-20 06:39:23 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/peanut_seed": {
-    "criteria": {
-      "has_peanut": "2024-12-20 08:17:32 +0000"
-    },
-    "done": false
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "blackbean_seed": "2024-12-20 07:58:29 +0000",
-      "grape_seed": "2024-12-20 06:49:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-20 07:50:21 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/redstone_illuminator": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:pig": "2024-12-20 07:09:02 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/polar_helmet": {
-    "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/wine": {
-    "criteria": {
-      "has_grapes": "2024-12-20 07:52:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2024-12-20 07:47:14 +0000"
-    },
-    "done": false
-  },
-  "galosphere:recipes/tools/spectre_flare": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
     },
     "done": false
   },
@@ -6028,9 +5675,51 @@
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+      "has_iron_backpack": "2024-12-20 06:54:52 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-20 06:55:10 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
     },
     "done": false
   },
@@ -6040,9 +5729,129 @@
     },
     "done": false
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-20 07:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-12-20 07:09:02 +0000"
+    },
+    "done": false
+  },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2024-12-20 07:16:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-20 07:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-20 07:27:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-20 07:27:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-20 07:28:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-20 07:28:59 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-20 07:45:39 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/red_fence": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-20 07:47:14 +0000"
     },
     "done": false
   },
@@ -6052,45 +5861,39 @@
     },
     "done": false
   },
-  "croptopia:recipes/campfire_raisins": {
-    "criteria": {
-      "has_grapes": "2024-12-20 07:52:55 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/polar_chestplate": {
-    "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
-    },
-    "done": false
-  },
-  "sculkhorde:sculk_tomb_visit": {
-    "criteria": {
-      "requirement": "2024-12-20 08:08:30 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2024-12-20 07:45:39 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-20 07:47:14 +0000"
     },
     "done": false
   },
-  "divinerpg:recipes/shaped/raw_arlemite_block": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:50:21 +0000"
     },
     "done": false
   },
@@ -6100,9 +5903,45 @@
     },
     "done": false
   },
-  "croptopia:gather_plains": {
+  "croptopia:recipes/food/raisins_from_grape": {
     "criteria": {
-      "bellpepper_seed": "2024-12-20 06:49:21 +0000"
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2024-12-20 07:52:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2024-12-20 07:52:55 +0000"
     },
     "done": false
   },
@@ -6112,10 +5951,99 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "has_raw_copper": "2024-12-20 06:39:23 +0000",
-      "has_the_recipe": "2024-12-20 06:54:30 +0000"
+      "exorcism_0": "2024-12-20 07:58:56 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/blasting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smelting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/raw_arlemite_block": {
+    "criteria": {
+      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
+    },
+    "done": false
+  },
+  "sculkhorde:sculk_tomb_visit": {
+    "criteria": {
+      "requirement": "2024-12-20 08:08:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-12-20 08:11:49 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2024-12-20 08:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 08:12:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 08:12:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 08:12:34 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 08:17:25 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 08:17:25 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 08:17:25 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_peanuts": "2024-12-20 08:17:32 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/peanut_seed": {
+    "criteria": {
+      "has_peanut": "2024-12-20 08:17:32 +0000"
+    },
+    "done": false
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-20 08:21:26 +0000"
     },
     "done": true
   },
