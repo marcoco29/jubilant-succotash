@@ -93,7 +93,8 @@
   },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
-      "has_vanilla_rod": "2024-12-18 17:01:15 +0000"
+      "has_vanilla_rod": "2024-12-18 17:01:15 +0000",
+      "has_gold": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4142,6 +4143,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/horn_boots": {
     "criteria": {
       "has_sand": "2024-12-20 07:29:02 +0000"
@@ -4154,9 +4161,39 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_machete_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-20 07:10:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4166,9 +4203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/tools/barometer": {
     "criteria": {
       "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4184,9 +4233,45 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_javelin_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/horn_chestplate": {
     "criteria": {
       "has_sand": "2024-12-20 07:29:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/shinny": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4202,9 +4287,45 @@
     },
     "done": false
   },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-20 06:35:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_battle_axe_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4232,9 +4353,33 @@
     },
     "done": false
   },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/bamboo_green_helmet": {
     "criteria": {
       "has_slime_ball": "2024-12-20 08:07:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_claw_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_round_shield_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4274,6 +4419,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2024-12-20 07:47:00 +0000"
@@ -4286,6 +4443,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/bamboo_green_leggings": {
     "criteria": {
       "has_slime_ball": "2024-12-20 08:07:52 +0000"
@@ -4295,6 +4464,24 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-20 07:47:00 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4313,6 +4500,30 @@
   "knightquest:recipes/misc/horn_helmet": {
     "criteria": {
       "has_sand": "2024-12-20 07:29:02 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/gold_bricks": {
+    "criteria": {
+      "has_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_dagger_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_throwing_axe_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4370,6 +4581,12 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_scythe_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-20 07:47:49 +0000",
@@ -4380,6 +4597,18 @@
   "knightquest:recipes/misc/bamboo_green_chestplate": {
     "criteria": {
       "has_slime_ball": "2024-12-20 08:07:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_hammer_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4432,6 +4661,24 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/gold_lamp": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-20 08:07:52 +0000"
@@ -4441,6 +4688,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-20 07:47:49 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/gold_nunchaku_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
@@ -4456,6 +4709,18 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/horn_leggings": {
     "criteria": {
       "has_sand": "2024-12-20 07:29:02 +0000"
@@ -4465,6 +4730,12 @@
   "croptopia:recipes/misc/ginger_seed": {
     "criteria": {
       "has_ginger": "2024-12-20 06:47:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },

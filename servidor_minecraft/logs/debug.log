@@ -8908,3 +8908,33 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [20Dec2024 08:16:25.192] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
 [20Dec2024 08:16:25.209] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [20Dec2024 08:19:29.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:19:49.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:19:52.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:20:06.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:21:06.257] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 08:21:06.257] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 08:21:06.258] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 08:21:06.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 08:21:06.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 08:21:06.523] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 08:26:06.240] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 08:26:06.240] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 08:26:06.240] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 08:26:06.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 08:26:06.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 08:26:06.515] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 08:26:10.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 08:26:56.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:26:58.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 08:27:58.395] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 08:27:58.407] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 08:28:37.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 08:28:45.197] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 08:28:45.209] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 08:28:46.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:28:46.796] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 08:28:46.804] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 08:29:06.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Miner Zombie
+[20Dec2024 08:29:06.656] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:28, y:63, z:495, dim:minecraft:overworld]
+[20Dec2024 08:29:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Miner Zombie
+[20Dec2024 08:29:45.157] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:11, y:62, z:411, dim:minecraft:overworld]
