@@ -1314,7 +1314,8 @@
       "minecraft:forest": "2024-12-20 21:26:02 +0000",
       "minecraft:lush_caves": "2024-12-20 08:03:37 +0000",
       "minecraft:ocean": "2024-12-20 21:27:50 +0000",
-      "minecraft:windswept_savanna": "2024-12-19 05:40:11 +0000"
+      "minecraft:windswept_savanna": "2024-12-19 05:40:11 +0000",
+      "minecraft:plains": "2024-12-20 22:03:41 +0000"
     },
     "done": false
   },
@@ -1739,6 +1740,7 @@
       "shrubland": "2024-12-20 05:27:11 +0000",
       "bayou": "2024-12-20 20:06:54 +0000",
       "muddy_river": "2024-12-19 04:52:46 +0000",
+      "autumnal_maple_forest": "2024-12-20 22:03:54 +0000",
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "boreal_forest": "2024-12-19 04:52:45 +0000",
@@ -1753,6 +1755,7 @@
       "shrubland": "2024-12-20 05:27:11 +0000",
       "bayou": "2024-12-20 20:06:54 +0000",
       "muddy_river": "2024-12-19 04:52:46 +0000",
+      "autumnal_maple_forest": "2024-12-20 22:03:54 +0000",
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "boreal_forest": "2024-12-19 04:52:45 +0000",
@@ -5429,6 +5432,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2024-12-20 21:08:57 +0000"
@@ -5438,6 +5447,12 @@
   "soulsweapons:recipes/building_blocks/infused_blackstone": {
     "criteria": {
       "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
     },
     "done": false
   },
@@ -5463,6 +5478,12 @@
   "croptopia:gather_jungle": {
     "criteria": {
       "peanut_seed": "2024-12-20 21:05:59 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
     },
     "done": false
   },
@@ -5798,6 +5819,13 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 21:59:50 +0000",
+      "has_the_recipe": "2024-12-20 22:08:58 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/life_mending": {
     "criteria": {
       "has_book": "2024-12-20 21:22:09 +0000"
@@ -5900,6 +5928,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5980,6 +6014,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
+    },
+    "done": false
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
     "criteria": {
       "has_item": "2024-12-20 20:17:50 +0000"
@@ -6040,6 +6080,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 21:59:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-20 21:06:55 +0000"
@@ -6094,6 +6140,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 21:47:50 +0000"
@@ -6127,6 +6179,12 @@
   "croptopia:recipes/food/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
     },
     "done": false
   },
@@ -6228,6 +6286,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-20 21:31:51 +0000"
@@ -6319,6 +6383,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
+    },
+    "done": false
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2024-12-20 21:22:09 +0000"
@@ -6358,6 +6428,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2024-12-20 21:31:51 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 22:08:58 +0000"
     },
     "done": false
   },
