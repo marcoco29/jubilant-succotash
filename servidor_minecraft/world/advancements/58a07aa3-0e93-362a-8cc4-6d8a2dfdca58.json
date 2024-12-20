@@ -1860,6 +1860,7 @@
   },
   "divinerpg:recipes/shaped/donut": {
     "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000",
       "has_wheat": "2024-12-19 04:47:42 +0000",
       "has_egg": "2024-12-20 20:12:06 +0000"
     },
@@ -3037,6 +3038,7 @@
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_piston": "2024-12-20 21:09:37 +0000",
       "has_spider_eye": "2024-12-19 05:37:52 +0000"
     },
     "done": false
@@ -3050,6 +3052,7 @@
   "knightquest:recipes/misc/spider_helmet": {
     "criteria": {
       "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_piston": "2024-12-20 21:09:37 +0000",
       "has_spider_eye": "2024-12-19 05:37:52 +0000"
     },
     "done": false
@@ -3057,6 +3060,7 @@
   "knightquest:recipes/misc/spider_boots": {
     "criteria": {
       "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_piston": "2024-12-20 21:09:37 +0000",
       "has_spider_eye": "2024-12-19 05:37:52 +0000"
     },
     "done": false
@@ -3070,6 +3074,7 @@
   "knightquest:recipes/misc/spider_chestplate": {
     "criteria": {
       "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_piston": "2024-12-20 21:09:37 +0000",
       "has_spider_eye": "2024-12-19 05:37:52 +0000"
     },
     "done": false
@@ -5083,7 +5088,8 @@
   },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
-      "forge:eggs": "2024-12-20 20:12:06 +0000"
+      "forge:eggs": "2024-12-20 20:12:06 +0000",
+      "has_sugar": "2024-12-20 21:08:57 +0000"
     },
     "done": false
   },
@@ -5326,6 +5332,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/building_blocks/infused_blackstone": {
     "criteria": {
       "has_item": "2024-12-20 20:17:49 +0000"
@@ -5383,6 +5395,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-20 21:06:55 +0000"
@@ -5404,6 +5422,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
     },
     "done": false
   },
@@ -5446,6 +5470,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-20 20:57:19 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_3": "2024-12-20 21:08:02 +0000"
     },
     "done": false
   },
@@ -5575,6 +5605,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_savanna": {
     "criteria": {
       "zucchini_seed": "2024-12-20 20:24:35 +0000"
@@ -5631,9 +5667,10 @@
   },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_smooth_stone": "2024-12-20 21:07:36 +0000"
+      "has_smooth_stone": "2024-12-20 21:07:36 +0000",
+      "has_the_recipe": "2024-12-20 21:07:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/polar_leggings": {
     "criteria": {
@@ -5681,6 +5718,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
     },
     "done": false
   },
@@ -5756,6 +5799,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
       "has_iron_axe": "2024-12-20 20:47:02 +0000",
@@ -5769,6 +5818,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5778,6 +5833,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:08:57 +0000"
     },
     "done": false
   },
@@ -5870,6 +5931,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2024-12-20 21:09:37 +0000"
     },
     "done": false
   },

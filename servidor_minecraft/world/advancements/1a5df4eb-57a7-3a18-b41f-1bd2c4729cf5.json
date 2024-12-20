@@ -6116,6 +6116,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_3": "2024-12-20 21:07:55 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "has_sugar": "2024-12-20 21:07:14 +0000"
