@@ -8680,3 +8680,97 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 06:46:06.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 06:46:06.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 06:46:06.657] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 06:49:16.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 06:49:21.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [An Extra Seedy Place]
+[20Dec2024 06:50:16.282] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Dec2024 06:50:16.283] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Dec2024 06:50:16.283] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Dec2024 06:50:16.283] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[20Dec2024 06:50:16.283] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[20Dec2024 06:50:16.284] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Dec2024 06:50:16.284] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Dec2024 06:50:16.284] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Dec2024 06:51:06.259] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 06:51:06.259] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 06:51:06.259] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 06:51:06.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 06:51:06.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 06:51:06.578] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 06:51:38.842] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 06:51:38.869] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 06:52:02.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[20Dec2024 06:52:02.815] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:140, y:95, z:123, dim:minecraft:overworld]
+[20Dec2024 06:55:14.456] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 06:55:14.470] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 06:55:23.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[20Dec2024 06:55:23.466] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:159, y:79, z:89, dim:minecraft:overworld]
+[20Dec2024 06:56:06.242] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 06:56:06.242] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 06:56:06.242] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 06:56:06.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 06:56:06.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 06:56:06.544] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 06:59:19.453] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 06:59:19.464] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 06:59:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[20Dec2024 06:59:25.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:134, y:96, z:146, dim:minecraft:overworld]
+[20Dec2024 07:01:06.241] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 07:01:06.241] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:01:06.242] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:01:06.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:01:06.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:01:06.530] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 07:01:14.227] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 07:01:14.251] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 07:01:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Farmer Zombie
+[20Dec2024 07:01:20.412] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:120, y:93, z:126, dim:minecraft:overworld]
+[20Dec2024 07:01:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Multi-Disciplined]
+[20Dec2024 07:06:06.249] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 07:06:06.249] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:06:06.250] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:06:06.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:06:06.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:06:06.528] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 07:08:34.589] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 07:08:34.609] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 07:08:43.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Pig
+[20Dec2024 07:08:43.223] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-47, y:64, z:136, dim:minecraft:overworld]
+[20Dec2024 07:09:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [The Parrots and the Bats]
+[20Dec2024 07:09:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [A Fast Comeback]
+[20Dec2024 07:11:06.239] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 07:11:06.239] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:11:06.240] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:11:06.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:11:06.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:11:06.526] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 07:16:06.231] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 07:16:06.232] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:16:06.232] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:16:06.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:16:06.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:16:06.502] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 07:16:14.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Hammer Time!]
+[20Dec2024 07:18:43.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 07:21:06.235] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 07:21:06.235] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:21:06.235] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:21:06.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:21:06.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:21:06.514] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 07:21:18.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Good Demoman]
+[20Dec2024 07:21:54.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Fury of The Frost]
+[20Dec2024 07:21:56.217] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 07:21:56.229] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 07:22:05.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Wechuge
+[20Dec2024 07:22:05.072] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:39, y:111, z:-74, dim:minecraft:overworld]
+[20Dec2024 07:22:05.895] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 07:22:05.915] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 07:22:41.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Adventurer Zombie
+[20Dec2024 07:22:41.613] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-40, y:64, z:130, dim:minecraft:overworld]
+[20Dec2024 07:26:06.237] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 07:26:06.237] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 07:26:06.237] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 07:26:06.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 07:26:06.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 07:26:06.515] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 07:28:07.184] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

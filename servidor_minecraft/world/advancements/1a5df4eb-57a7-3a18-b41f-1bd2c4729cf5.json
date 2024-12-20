@@ -536,9 +536,10 @@
   },
   "l2weaponry:recipes/misc/misc/reinforced_handle": {
     "criteria": {
-      "has_stick": "2024-12-19 04:00:52 +0000"
+      "has_stick": "2024-12-19 04:00:52 +0000",
+      "has_the_recipe": "2024-12-20 07:03:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
@@ -1271,7 +1272,8 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:05:27 +0000",
-      "minecraft:planks": "2024-12-19 04:06:14 +0000"
+      "minecraft:planks": "2024-12-19 04:06:14 +0000",
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
@@ -1419,9 +1421,10 @@
   },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 06:48:39 +0000",
       "has_planks": "2024-12-19 04:06:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
@@ -2143,9 +2146,10 @@
   },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 07:04:42 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/iron_spear_enchanted": {
     "criteria": {
@@ -2168,7 +2172,8 @@
   },
   "galosphere:recipes/decorations/chandelier": {
     "criteria": {
-      "has_iron_nugget": "2024-12-19 04:28:21 +0000"
+      "has_iron_nugget": "2024-12-19 04:28:21 +0000",
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
@@ -2269,9 +2274,10 @@
   },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 06:51:05 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
@@ -2416,9 +2422,10 @@
   },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 07:20:02 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "divinerpg:recipes/shaped/black_steel": {
     "criteria": {
@@ -2503,9 +2510,10 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2024-12-20 05:45:08 +0000",
+      "has_the_recipe": "2024-12-20 07:06:43 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
@@ -2570,25 +2578,29 @@
   },
   "knightquest:recipes/misc/shield_chestplate": {
     "criteria": {
-      "has_shield": "2024-12-19 04:28:37 +0000"
+      "has_shield": "2024-12-19 04:28:37 +0000",
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/shield_leggings": {
     "criteria": {
-      "has_shield": "2024-12-19 04:28:37 +0000"
+      "has_shield": "2024-12-19 04:28:37 +0000",
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/shield_helmet": {
     "criteria": {
-      "has_shield": "2024-12-19 04:28:37 +0000"
+      "has_shield": "2024-12-19 04:28:37 +0000",
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/shield_boots": {
     "criteria": {
-      "has_shield": "2024-12-19 04:28:37 +0000"
+      "has_shield": "2024-12-19 04:28:37 +0000",
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
   },
@@ -2989,6 +3001,7 @@
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000",
       "has_iron_boots": "2024-12-19 05:12:15 +0000",
+      "has_iron_shovel": "2024-12-20 07:20:03 +0000",
       "has_iron_leggings": "2024-12-19 06:17:57 +0000",
       "has_iron_pickaxe": "2024-12-19 05:01:32 +0000",
       "has_chainmail_helmet": "2024-12-19 04:44:49 +0000",
@@ -3002,6 +3015,7 @@
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000",
       "has_iron_boots": "2024-12-19 05:12:15 +0000",
+      "has_iron_shovel": "2024-12-20 07:20:03 +0000",
       "has_iron_leggings": "2024-12-19 06:17:57 +0000",
       "has_iron_pickaxe": "2024-12-19 05:01:32 +0000",
       "has_chainmail_helmet": "2024-12-19 04:44:49 +0000",
@@ -3741,9 +3755,10 @@
   },
   "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 07:06:53 +0000",
       "has_diamond": "2024-12-19 06:18:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/diamond_spear_enchanted": {
     "criteria": {
@@ -3955,9 +3970,10 @@
   },
   "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_raw_silver": "2024-12-19 06:19:59 +0000"
+      "has_raw_silver": "2024-12-19 06:19:59 +0000",
+      "has_the_recipe": "2024-12-20 07:01:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
@@ -5480,9 +5496,125 @@
     },
     "done": false
   },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-20 07:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-20 06:39:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "peanut_seed": "2024-12-20 06:49:33 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-20 07:21:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-20 06:49:21 +0000",
+      "grape_seed": "2024-12-20 06:49:30 +0000",
+      "zucchini_seed": "2024-12-20 06:49:21 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-20 06:49:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-20 06:55:10 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2024-12-20 07:16:14 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "zucchini_seed": "2024-12-20 06:49:21 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-20 06:54:52 +0000"
     },
     "done": false
   },
@@ -5492,9 +5624,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-20 06:39:23 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "grape_seed": "2024-12-20 06:49:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-12-20 07:09:02 +0000"
     },
     "done": false
   },
@@ -5504,17 +5672,42 @@
     },
     "done": false
   },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-20 06:54:45 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/polar_chestplate": {
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "croptopia:gather_plains": {
     "criteria": {
-      "has_raw_copper": "2024-12-20 06:39:23 +0000"
+      "bellpepper_seed": "2024-12-20 06:49:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 06:39:23 +0000",
+      "has_the_recipe": "2024-12-20 06:54:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

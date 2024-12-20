@@ -781,6 +781,7 @@
       "potato": "2024-12-19 03:56:55 +0000",
       "bread": "2024-12-19 05:10:21 +0000",
       "cookie": "2024-12-19 03:57:06 +0000",
+      "beetroot": "2024-12-20 07:13:25 +0000",
       "carrot": "2024-12-20 06:32:16 +0000"
     },
     "done": false
@@ -2044,6 +2045,7 @@
   },
   "knightquest:recipes/misc/steel_sword": {
     "criteria": {
+      "has_iron_sword": "2024-12-20 07:11:26 +0000",
       "has_charcoal": "2024-12-19 05:02:29 +0000"
     },
     "done": false
@@ -3105,6 +3107,7 @@
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
       "has_iron_hoe": "2024-12-20 06:01:01 +0000",
+      "has_iron_sword": "2024-12-20 07:11:26 +0000",
       "has_iron_chestplate": "2024-12-20 05:57:25 +0000"
     },
     "done": false
@@ -3121,6 +3124,7 @@
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
       "has_iron_hoe": "2024-12-20 06:01:01 +0000",
+      "has_iron_sword": "2024-12-20 07:11:26 +0000",
       "has_iron_chestplate": "2024-12-20 05:57:25 +0000"
     },
     "done": false
@@ -4106,9 +4110,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:10:34 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:10:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-20 06:35:25 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:10:34 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 07:10:34 +0000"
+    },
+    "done": false
+  },
+  "cnc:wechugeadvancement": {
+    "criteria": {
+      "wechugeadvancement_0": "2024-12-20 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2024-12-20 07:11:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-20 07:10:34 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2024-12-20 07:12:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-20 07:12:57 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 07:09:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/ginger_seed": {
+    "criteria": {
+      "has_ginger": "2024-12-20 06:47:43 +0000"
     },
     "done": false
   },
