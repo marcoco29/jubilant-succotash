@@ -2188,6 +2188,7 @@
   },
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
+      "has_white_candle": "2024-12-20 08:12:13 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
     "done": false
@@ -5532,6 +5533,12 @@
     },
     "done": false
   },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-12-20 08:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-20 07:50:21 +0000"
@@ -5601,6 +5608,8 @@
   "croptopia:gather_all": {
     "criteria": {
       "bellpepper_seed": "2024-12-20 06:49:21 +0000",
+      "blackbean_seed": "2024-12-20 07:58:29 +0000",
+      "kiwi_seed": "2024-12-20 07:58:29 +0000",
       "grape_seed": "2024-12-20 06:49:30 +0000",
       "zucchini_seed": "2024-12-20 06:49:21 +0000"
     },
@@ -5615,6 +5624,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 08:12:34 +0000"
     },
     "done": false
   },
@@ -5684,6 +5699,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 08:12:34 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/decorations/silver_lattice": {
     "criteria": {
       "has_silver_ingot": "2024-12-20 07:01:36 +0000"
@@ -5703,6 +5724,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-20 07:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-20 07:47:14 +0000"
@@ -5711,7 +5738,14 @@
   },
   "croptopia:gather_savanna": {
     "criteria": {
-      "zucchini_seed": "2024-12-20 06:49:21 +0000"
+      "zucchini_seed": "2024-12-20 06:49:21 +0000",
+      "kiwi_seed": "2024-12-20 07:58:29 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/blasting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
     },
     "done": false
   },
@@ -5769,6 +5803,18 @@
     },
     "done": false
   },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2024-12-20 08:12:05 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smelting/arlemite_ingot_from_raw_arlemite": {
+    "criteria": {
+      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
@@ -5799,6 +5845,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-20 08:12:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-20 07:47:14 +0000"
@@ -5819,6 +5871,7 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "blackbean_seed": "2024-12-20 07:58:29 +0000",
       "grape_seed": "2024-12-20 06:49:30 +0000"
     },
     "done": false
@@ -5901,6 +5954,12 @@
     },
     "done": false
   },
+  "sculkhorde:sculk_tomb_visit": {
+    "criteria": {
+      "requirement": "2024-12-20 08:08:30 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2024-12-20 07:45:39 +0000"
@@ -5910,6 +5969,12 @@
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-20 07:47:14 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/raw_arlemite_block": {
+    "criteria": {
+      "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
     },
     "done": false
   },
