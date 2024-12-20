@@ -1510,9 +1510,10 @@
   },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 06:33:10 +0000",
       "has_planks": "2024-12-19 04:06:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
@@ -1552,9 +1553,10 @@
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 06:32:58 +0000",
       "has_planks": "2024-12-19 04:06:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
@@ -1968,9 +1970,10 @@
   },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_furnace": "2024-12-19 04:28:05 +0000"
+      "has_furnace": "2024-12-19 04:28:05 +0000",
+      "has_the_recipe": "2024-12-20 06:21:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/iron_plate_shield_enchanted": {
     "criteria": {
@@ -2612,7 +2615,8 @@
   },
   "knightquest:recipes/misc/skeleton_chestplate": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_bone_meal": "2024-12-20 06:14:17 +0000"
     },
     "done": false
   },
@@ -2669,7 +2673,8 @@
   },
   "knightquest:recipes/misc/skeleton_boots": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_bone_meal": "2024-12-20 06:14:17 +0000"
     },
     "done": false
   },
@@ -2705,7 +2710,8 @@
   },
   "knightquest:recipes/misc/skeleton_helmet": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_bone_meal": "2024-12-20 06:14:17 +0000"
     },
     "done": false
   },
@@ -2724,7 +2730,8 @@
   },
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_bone_meal": "2024-12-20 06:14:17 +0000"
     },
     "done": false
   },
@@ -3241,7 +3248,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2024-12-19 04:55:58 +0000"
+      "sweet_berries": "2024-12-19 04:55:58 +0000",
+      "wheat": "2024-12-20 06:34:01 +0000"
     },
     "done": false
   },
@@ -3564,7 +3572,8 @@
   },
   "knightquest:recipes/misc/steel_sword": {
     "criteria": {
-      "has_iron_sword": "2024-12-19 05:47:51 +0000"
+      "has_iron_sword": "2024-12-19 05:47:51 +0000",
+      "has_charcoal": "2024-12-20 06:21:48 +0000"
     },
     "done": false
   },
@@ -4288,6 +4297,7 @@
   },
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
       "has_spider_eye": "2024-12-19 06:30:57 +0000"
     },
     "done": false
@@ -4300,12 +4310,14 @@
   },
   "knightquest:recipes/misc/spider_helmet": {
     "criteria": {
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
       "has_spider_eye": "2024-12-19 06:30:57 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/spider_boots": {
     "criteria": {
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
       "has_spider_eye": "2024-12-19 06:30:57 +0000"
     },
     "done": false
@@ -4318,6 +4330,7 @@
   },
   "knightquest:recipes/misc/spider_chestplate": {
     "criteria": {
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
       "has_spider_eye": "2024-12-19 06:30:57 +0000"
     },
     "done": false
@@ -4735,15 +4748,367 @@
     },
     "done": false
   },
-  "knightquest:recipes/misc/bamboo_blue_leggings": {
+  "ancient_elements:youdidnt_thinked_fast": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 05:58:02 +0000"
+      "youdidnt_thinked_fast": "2024-12-20 05:36:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-20 05:38:55 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-20 05:38:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-20 05:38:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-20 05:38:55 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/donut": {
+    "criteria": {
+      "has_wheat": "2024-12-20 05:38:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-20 05:38:55 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-20 05:38:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-20 05:40:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-20 05:42:10 +0000",
+      "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-20 05:42:10 +0000",
+      "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 05:43:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:overworld/eye_of_evil": {
+    "criteria": {
+      "look_into_the_eye": "2024-12-20 05:48:54 +0000"
+    },
+    "done": true
   },
   "divinerpg:recipes/shaped/rupee_block": {
     "criteria": {
       "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_helmet": {
+    "criteria": {
+      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/shadow_bar": {
+    "criteria": {
+      "has_rupee": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_pickaxe": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_leggings": {
+    "criteria": {
+      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_boots": {
+    "criteria": {
+      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_axe": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/rupee_nugget": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_chestplate": {
+    "criteria": {
+      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_rapier": {
+    "criteria": {
+      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_minibricks": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_lamp": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_shield": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_hoe": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/rupee_shovel": {
+    "criteria": {
+      "has_ingot": "2024-12-20 05:49:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-20 05:50:25 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2024-12-20 05:50:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/stonecutter/minibricks_from_stone_bricks": {
+    "criteria": {
+      "has_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/minibricks": {
+    "criteria": {
+      "has_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 05:51:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 05:51:54 +0000"
+    },
+    "done": false
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2024-12-20 05:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 05:51:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/slime_sword": {
+    "criteria": {
+      "has_slime": "2024-12-20 05:51:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-20 05:53:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-20 05:57:17 +0000",
+      "diamond_helmet": "2024-12-20 05:57:20 +0000",
+      "diamond_chestplate": "2024-12-20 05:57:14 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 05:58:02 +0000"
     },
     "done": false
   },
@@ -4777,41 +5142,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-20 06:06:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-20 05:57:17 +0000",
-      "diamond_helmet": "2024-12-20 05:57:20 +0000",
-      "diamond_chestplate": "2024-12-20 05:57:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_helmet": {
-    "criteria": {
-      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-20 05:53:39 +0000"
     },
     "done": false
   },
@@ -4839,12 +5172,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
@@ -4857,51 +5184,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-20 05:40:26 +0000"
-    },
-    "done": false
-  },
-  "eternal_tales:get_any_quest": {
-    "criteria": {
-      "get_any_quest_0": "2024-12-20 06:04:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 05:51:54 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/stonecutter/minibricks_from_stone_bricks": {
-    "criteria": {
-      "has_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-20 05:58:02 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2024-12-20 05:38:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
     },
     "done": false
   },
@@ -4916,24 +5207,6 @@
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2024-12-20 05:42:10 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2024-12-20 05:38:55 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:overworld/eye_of_evil": {
-    "criteria": {
-      "look_into_the_eye": "2024-12-20 05:48:54 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
@@ -4953,69 +5226,15 @@
     },
     "done": false
   },
-  "divinerpg:recipes/shapeless/shadow_bar": {
-    "criteria": {
-      "has_rupee": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_pickaxe": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 05:51:54 +0000"
-    },
-    "done": false
-  },
-  "ancient_elements:youdidnt_thinked_fast": {
-    "criteria": {
-      "youdidnt_thinked_fast": "2024-12-20 05:36:26 +0000"
-    },
-    "done": true
-  },
-  "knightquest:knightquest": {
-    "criteria": {
-      "requirement": "2024-12-20 05:51:54 +0000"
-    },
-    "done": true
-  },
-  "divinerpg:recipes/shaped/rupee_leggings": {
-    "criteria": {
-      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 06:12:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
     },
     "done": false
   },
@@ -5043,12 +5262,6 @@
     },
     "done": false
   },
-  "divinerpg:recipes/shaped/rupee_boots": {
-    "criteria": {
-      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
@@ -5060,30 +5273,6 @@
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:25 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_axe": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_helmet": "2024-12-20 05:42:10 +0000"
-    },
-    "done": false
-  },
-  "eternal_tales:get_starter_kit": {
-    "criteria": {
-      "get_starter_kit_0": "2024-12-20 06:04:14 +0000"
-    },
-    "done": true
   },
   "knightquest:recipes/misc/bamboo_blue_helmet": {
     "criteria": {
@@ -5097,45 +5286,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-12-20 05:38:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2024-12-20 05:38:55 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 05:43:41 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shapeless/rupee_nugget": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
     },
     "done": false
   },
@@ -5163,51 +5316,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:25 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_chestplate": {
-    "criteria": {
-      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/donut": {
-    "criteria": {
-      "has_wheat": "2024-12-20 05:38:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-20 05:59:10 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/gold_scythe_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/flour": {
-    "criteria": {
-      "has_grain": "2024-12-20 05:38:55 +0000"
     },
     "done": false
   },
@@ -5217,87 +5328,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
-    },
-    "done": false
-  },
   "knightquest:recipes/misc/warlord_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_rapier": {
-    "criteria": {
-      "has_rupee_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-20 05:50:25 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/minibricks": {
-    "criteria": {
-      "has_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/conquistador2_helmet": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_minibricks": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2024-12-20 05:38:55 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_lamp": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_shield": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
     },
     "done": false
   },
@@ -5307,51 +5340,15 @@
     },
     "done": false
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_cracked_stone_bricks": "2024-12-20 05:50:25 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/aqua_lamp": {
-    "criteria": {
-      "has_water": "2024-12-20 05:59:10 +0000"
-    },
-    "done": false
-  },
   "divinerpg:recipes/shaped/gold_lamp": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 05:51:54 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/tools/generated/craft/gold_nunchaku_enchanted": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/slime_sword": {
-    "criteria": {
-      "has_slime": "2024-12-20 05:51:54 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_hoe": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/shaped_water_bottle": {
-    "criteria": {
-      "has_water": "2024-12-20 05:59:10 +0000"
     },
     "done": false
   },
@@ -5367,35 +5364,108 @@
     },
     "done": false
   },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/stonecutting/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:48 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/rupee_shovel": {
-    "criteria": {
-      "has_ingot": "2024-12-20 05:49:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-20 05:51:13 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 05:58:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 05:59:10 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/aqua_lamp": {
+    "criteria": {
+      "has_water": "2024-12-20 05:59:10 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-20 05:59:10 +0000"
+    },
+    "done": false
+  },
+  "eternal_tales:get_starter_kit": {
+    "criteria": {
+      "get_starter_kit_0": "2024-12-20 06:04:14 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_any_quest": {
+    "criteria": {
+      "get_any_quest_0": "2024-12-20 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 06:06:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 06:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 06:14:17 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 06:14:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-20 06:14:17 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-20 06:14:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_charcoal": "2024-12-20 06:21:48 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-20 06:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "pitcher_pod": "2024-12-20 06:23:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pitcher_pod": "2024-12-20 06:23:34 +0000",
+      "wheat": "2024-12-20 06:34:01 +0000"
+    },
+    "done": false
+  },
+  "cnc:whitetail_advancement": {
+    "criteria": {
+      "whitetail_advancement_0": "2024-12-20 06:24:07 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
