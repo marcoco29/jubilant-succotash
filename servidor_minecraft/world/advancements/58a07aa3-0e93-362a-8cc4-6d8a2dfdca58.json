@@ -677,6 +677,7 @@
   },
   "croptopia:recipes/documentation": {
     "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000",
       "has_crop": "2024-12-19 03:53:30 +0000"
     },
     "done": false
@@ -897,7 +898,8 @@
   },
   "supplementaries:recipes/notice_board": {
     "criteria": {
-      "minecraft:planks": "2024-12-19 03:57:22 +0000"
+      "minecraft:planks": "2024-12-19 03:57:22 +0000",
+      "has_paper": "2024-12-20 21:27:58 +0000"
     },
     "done": false
   },
@@ -1306,8 +1308,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-19 04:02:40 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-20 21:27:07 +0000",
       "minecraft:dripstone_caves": "2024-12-19 04:10:14 +0000",
+      "minecraft:forest": "2024-12-20 21:26:02 +0000",
       "minecraft:lush_caves": "2024-12-20 08:03:37 +0000",
+      "minecraft:ocean": "2024-12-20 21:27:50 +0000",
       "minecraft:windswept_savanna": "2024-12-19 05:40:11 +0000"
     },
     "done": false
@@ -1585,6 +1590,7 @@
       "maple_woods": "2024-12-19 04:42:12 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
       "redwood_forest": "2024-12-20 08:26:06 +0000",
+      "dune_beach": "2024-12-20 21:26:06 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
       "crag": "2024-12-20 08:33:43 +0000"
     },
@@ -1598,6 +1604,7 @@
       "maple_woods": "2024-12-19 04:42:12 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
       "redwood_forest": "2024-12-20 08:26:06 +0000",
+      "dune_beach": "2024-12-20 21:26:06 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
       "crag": "2024-12-20 08:33:43 +0000"
     },
@@ -1708,6 +1715,7 @@
   },
   "divinerpg:recipes/shapeless/guide_book": {
     "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000",
       "has_divine_sapling": "2024-12-19 04:25:57 +0000"
     },
     "done": false
@@ -5266,9 +5274,21 @@
     },
     "done": false
   },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5290,9 +5310,21 @@
     },
     "done": false
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-20 21:27:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5375,6 +5407,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000",
@@ -5437,9 +5475,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/safeguard": {
+    "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/tools/glow_flare": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5455,9 +5511,21 @@
     },
     "done": false
   },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "ad_astra:recipes/misc/red_flag": {
     "criteria": {
       "has_red_flag": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-20 21:28:00 +0000"
     },
     "done": false
   },
@@ -5470,6 +5538,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-20 20:57:19 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5488,6 +5562,12 @@
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5575,6 +5655,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-12-20 20:19:12 +0000"
@@ -5590,6 +5676,12 @@
   "knightquest:recipes/misc/shield_helmet": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/life_mending": {
+    "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5638,6 +5730,12 @@
   "soulsweapons:recipes/decorations/soul_lamp": {
     "criteria": {
       "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5715,6 +5813,12 @@
     },
     "done": false
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-20 21:28:01 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5739,6 +5843,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
       "has_item": "2024-12-20 20:17:50 +0000"
@@ -5748,6 +5858,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5781,9 +5897,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5792,6 +5932,12 @@
       "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-20 21:22:40 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/misc/peanut_seed": {
     "criteria": {
@@ -5820,7 +5966,14 @@
   },
   "supplementaries:recipes/candy": {
     "criteria": {
-      "has_sugar": "2024-12-20 21:08:57 +0000"
+      "has_sugar": "2024-12-20 21:08:57 +0000",
+      "has_paper": "2024-12-20 21:27:58 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -5839,6 +5992,12 @@
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-20 21:27:58 +0000"
     },
     "done": false
   },
@@ -5866,9 +6025,27 @@
     },
     "done": false
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-20 21:27:58 +0000"
     },
     "done": false
   },
@@ -5890,6 +6067,12 @@
     },
     "done": false
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-20 21:27:58 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_leggings": {
     "criteria": {
       "has_grass_block": "2024-12-20 20:46:35 +0000"
@@ -5903,11 +6086,29 @@
     },
     "done": false
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-12-20 21:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-20 20:36:32 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
+    },
+    "done": false
+  },
+  "cnc:ringtailadvancement": {
+    "criteria": {
+      "ringtailadvancement_0": "2024-12-20 21:23:17 +0000"
+    },
+    "done": true
   },
   "divinerpg:recipes/shapeless/rainbow_wool": {
     "criteria": {
@@ -5937,6 +6138,18 @@
   "croptopia:recipes/misc/food_press": {
     "criteria": {
       "has_piston": "2024-12-20 21:09:37 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-20 21:27:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-20 21:22:09 +0000"
     },
     "done": false
   },
@@ -6022,6 +6235,12 @@
   "croptopia:gather_plains": {
     "criteria": {
       "bellpepper_seed": "2024-12-20 20:26:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-20 21:27:58 +0000"
     },
     "done": false
   },

@@ -10308,3 +10308,91 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 21:20:47.006] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
 [20Dec2024 21:20:47.006] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
 [20Dec2024 21:20:47.007] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[20Dec2024 21:20:55.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 21:21:24.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[20Dec2024 21:21:26.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:21:26.645] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[20Dec2024 21:21:37.020] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[20Dec2024 21:21:42.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+[20Dec2024 21:22:03.925] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=436, y=-58, z=476}
+[20Dec2024 21:22:03.926] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=435, y=-58, z=484}
+[20Dec2024 21:22:03.926] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=434, y=-58, z=484}
+[20Dec2024 21:22:03.947] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=431, y=-58, z=484}
+[20Dec2024 21:22:03.947] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=432, y=-58, z=484}
+[20Dec2024 21:22:09.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Light Up The World!]
+[20Dec2024 21:22:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [This Must be a Sign!]
+[20Dec2024 21:22:51.010] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 21:22:51.010] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:22:51.011] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:22:51.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 21:22:51.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 21:22:51.314] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 21:22:58.670] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[20Dec2024 21:23:17.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Furry Feind]
+[20Dec2024 21:25:40.659] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 21:25:58.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20Dec2024 21:26:11.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:26:17.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
+[20Dec2024 21:26:59.796] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[20Dec2024 21:27:01.975] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[20Dec2024 21:27:10.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20Dec2024 21:27:15.203] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[20Dec2024 21:27:15.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:27:17.146] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[20Dec2024 21:27:19.042] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[20Dec2024 21:27:20.236] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[20Dec2024 21:27:28.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
+[20Dec2024 21:27:52.858] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[20Dec2024 21:27:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Where Is The Stone Pen?]
+[20Dec2024 21:28:02.826] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 21:28:02.826] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:28:02.827] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:28:02.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 21:28:03.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 21:28:03.156] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 21:29:14.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:29:18.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20Dec2024 21:29:19.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:29:34.846] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[20Dec2024 21:29:34.847] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[20Dec2024 21:29:34.847] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[20Dec2024 21:29:35.118] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=431, y=-58, z=484}
+[20Dec2024 21:29:35.118] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=432, y=-58, z=484}
+[20Dec2024 21:29:36.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[20Dec2024 21:29:41.609] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=435, y=-58, z=484}
+[20Dec2024 21:29:41.610] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=434, y=-58, z=484}
+[20Dec2024 21:29:41.623] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=436, y=-58, z=476}
+[20Dec2024 21:29:46.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:29:54.157] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (964 | 40 | -556).
+[20Dec2024 21:29:54.159] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[20Dec2024 21:29:54.161] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[20Dec2024 21:29:54.161] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[20Dec2024 21:29:54.162] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 4(0) Rooms
+[20Dec2024 21:29:54.162] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[20Dec2024 21:29:54.162] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 6(0) Rooms
+[20Dec2024 21:29:54.162] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[20Dec2024 21:29:54.162] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(2) Nodes and 5(0) Rooms
+[20Dec2024 21:29:54.162] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[20Dec2024 21:29:54.163] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[20Dec2024 21:29:59.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7780ms or 155 ticks behind
+[20Dec2024 21:30:21.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6637ms or 132 ticks behind
+[20Dec2024 21:30:35.779] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1050 | 21 | -416)
+[20Dec2024 21:30:35.781] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1050 | 21 | -416)
+[20Dec2024 21:30:35.781] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (1050 | 12 | -416)
+[20Dec2024 21:30:35.782] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (1050 | 12 | -416)
+[20Dec2024 21:30:35.782] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1050 | 12 | -416)
+[20Dec2024 21:30:35.783] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1050 | 12 | -416)
+[20Dec2024 21:30:35.989] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1050 | 21 | -416)
+[20Dec2024 21:30:35.990] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_90 at (1050 | 21 | -416)
+[20Dec2024 21:30:35.990] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (1050 | 12 | -416)
+[20Dec2024 21:30:35.990] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (1050 | 12 | -416)
+[20Dec2024 21:30:35.990] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1050 | 12 | -416)
+[20Dec2024 21:30:35.991] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1050 | 12 | -416)
+[20Dec2024 21:30:36.107] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (1077 | 21 | -416)
+[20Dec2024 21:30:36.107] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (1077 | 21 | -416)
+[20Dec2024 21:30:36.114] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (1077 | 21 | -416)
+[20Dec2024 21:30:36.114] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_straight with rotation CLOCKWISE_90 at (1077 | 21 | -416)
+[20Dec2024 21:30:41.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5309ms or 106 ticks behind
+[20Dec2024 21:30:56.621] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[20Dec2024 21:30:56.622] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[20Dec2024 21:31:00.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4068ms or 81 ticks behind
