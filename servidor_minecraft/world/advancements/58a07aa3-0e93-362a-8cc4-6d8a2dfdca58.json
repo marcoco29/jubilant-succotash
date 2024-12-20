@@ -2237,6 +2237,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2024-12-19 06:42:16 +0000",
+      "beetroot": "2024-12-20 06:05:37 +0000",
       "wheat": "2024-12-19 05:28:48 +0000",
       "carrot": "2024-12-20 06:00:21 +0000"
     },
@@ -2244,6 +2245,7 @@
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
+      "beetroots": "2024-12-20 06:05:37 +0000",
       "wheat": "2024-12-19 05:28:48 +0000"
     },
     "done": false
