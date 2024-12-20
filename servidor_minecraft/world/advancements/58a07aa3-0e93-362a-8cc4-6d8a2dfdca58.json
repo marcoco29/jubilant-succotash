@@ -2095,6 +2095,7 @@
   },
   "knightquest:recipes/misc/bat_boots": {
     "criteria": {
+      "has_dripstone_block": "2024-12-20 07:39:27 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2125,6 +2126,7 @@
   },
   "knightquest:recipes/misc/bat_chestplate": {
     "criteria": {
+      "has_dripstone_block": "2024-12-20 07:39:27 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2137,6 +2139,7 @@
   },
   "knightquest:recipes/misc/bat_leggings": {
     "criteria": {
+      "has_dripstone_block": "2024-12-20 07:39:27 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2155,6 +2158,7 @@
   },
   "knightquest:recipes/misc/bat_helmet": {
     "criteria": {
+      "has_dripstone_block": "2024-12-20 07:39:27 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -3696,36 +3700,42 @@
   },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
@@ -3738,6 +3748,7 @@
   },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
@@ -3750,30 +3761,35 @@
   },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
@@ -3786,18 +3802,21 @@
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
@@ -3810,6 +3829,7 @@
   },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000",
       "has_gravel": "2024-12-20 05:56:01 +0000"
     },
     "done": false
@@ -4110,9 +4130,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_boots": {
+    "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-20 07:10:34 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/horn_chestplate": {
+    "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000"
     },
     "done": false
   },
@@ -4134,6 +4166,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 07:10:34 +0000"
@@ -4149,6 +4187,12 @@
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2024-12-20 07:11:26 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/horn_helmet": {
+    "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000"
     },
     "done": false
   },
@@ -4175,6 +4219,18 @@
       "coded_trigger": "2024-12-20 07:09:10 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-20 07:29:02 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/horn_leggings": {
+    "criteria": {
+      "has_sand": "2024-12-20 07:29:02 +0000"
+    },
+    "done": false
   },
   "croptopia:recipes/misc/ginger_seed": {
     "criteria": {
