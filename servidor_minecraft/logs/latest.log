@@ -1202,3 +1202,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 05:52:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Bad Cooking!]
 [20Dec2024 05:54:15.886] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [20Dec2024 05:54:15.886] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 05:59:15.881] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 05:59:15.881] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 06:04:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Chest for free!]
+[20Dec2024 06:04:15.885] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 06:04:15.885] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 06:04:16.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Eternal Tales: Quests]
+[20Dec2024 06:06:05.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Take Aim]
