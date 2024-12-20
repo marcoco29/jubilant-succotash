@@ -1917,3 +1917,97 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 21:51:12.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by marcouwu2005
 [20Dec2024 21:51:22.568] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
 [20Dec2024 21:51:22.589] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 21:51:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[20Dec2024 21:54:03.853] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:54:03.853] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:58:46.624] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 21:58:46.632] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 21:59:03.854] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:59:03.855] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:59:05.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Miner Zombie
+[20Dec2024 22:00:01.770] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 22:00:01.781] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 22:00:07.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by marcouwu2005
+[20Dec2024 22:01:00.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.48257779581695104
+[20Dec2024 22:01:00.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.0968436362400098
+[20Dec2024 22:01:00.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.6453163470414438
+[20Dec2024 22:01:00.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.6566549718954775
+[20Dec2024 22:01:00.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.277279894620051
+[20Dec2024 22:01:00.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4529310839157006
+[20Dec2024 22:01:00.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4511243774479681
+[20Dec2024 22:01:00.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.2524204383223605
+[20Dec2024 22:01:00.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5243452386823719
+[20Dec2024 22:01:00.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.28577438038360015
+[20Dec2024 22:01:00.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5887527697173027
+[20Dec2024 22:01:00.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.3151142021133637
+[20Dec2024 22:01:01.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.3283736644821147
+[20Dec2024 22:01:01.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.6706556299575368
+[20Dec2024 22:01:01.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.35248250841641493
+[20Dec2024 22:01:01.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.3634611548718567
+[20Dec2024 22:01:01.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.37373496567283837
+[20Dec2024 22:01:01.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.3831709125302041
+[20Dec2024 22:01:01.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.7759750106936281
+[20Dec2024 22:01:01.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4009749017620834
+[20Dec2024 22:01:01.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.8109719081687672
+[20Dec2024 22:01:01.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.416741524283907
+[20Dec2024 22:01:01.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4235572380709982
+[20Dec2024 22:01:01.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4309538978247929
+[20Dec2024 22:01:01.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.8688030198200067
+[20Dec2024 22:01:01.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.44362181735527884
+[20Dec2024 22:01:01.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4489887044946954
+[20Dec2024 22:01:01.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4551221873716713
+[20Dec2024 22:01:01.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4608260418799546
+[20Dec2024 22:01:01.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4654527205211707
+[20Dec2024 22:01:01.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4697472962386655
+[20Dec2024 22:01:01.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.9428542026080322
+[20Dec2024 22:01:01.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.4191240604170616
+[20Dec2024 22:01:02.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.48212640055658085
+[20Dec2024 22:01:02.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.48592428101301266
+[20Dec2024 22:01:02.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4895697505019143
+[20Dec2024 22:01:02.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.9814614913232163
+[20Dec2024 22:01:02.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.4965642763422693
+[20Dec2024 22:01:02.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.9950789314439135
+[20Dec2024 22:01:02.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5031847173170263
+[20Dec2024 22:01:02.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5063179970595684
+[20Dec2024 22:01:02.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.0141191444292872
+[20Dec2024 22:01:02.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5123711576527512
+[20Dec2024 22:01:02.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5152102743061278
+[20Dec2024 22:01:02.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5179907924875806
+[20Dec2024 22:01:02.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.036890845869948
+[20Dec2024 22:01:02.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5233934563420917
+[20Dec2024 22:01:02.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5259041398123827
+[20Dec2024 22:01:02.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5283312881247184
+[20Dec2024 22:01:02.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.530727544226238
+[20Dec2024 22:01:02.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.0617410296104026
+[20Dec2024 22:01:02.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.5930514430883704
+[20Dec2024 22:01:02.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5377322598694718
+[20Dec2024 22:01:03.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5398170741925696
+[20Dec2024 22:01:03.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.541852343160599
+[20Dec2024 22:01:03.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.0834331477933574
+[20Dec2024 22:01:03.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5457734514852746
+[20Dec2024 22:01:03.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5475406410473624
+[20Dec2024 22:01:03.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5492257649773364
+[20Dec2024 22:01:03.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.0973027196973817
+[20Dec2024 22:01:03.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5520839890377829
+[20Dec2024 22:01:03.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.1024619599534162
+[20Dec2024 22:01:03.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5541105632596555
+[20Dec2024 22:01:03.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5546978018571735
+[20Dec2024 22:01:03.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.1068567637908018
+[20Dec2024 22:01:03.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5549095722683433
+[20Dec2024 22:01:03.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5555852614161267
+[20Dec2024 22:01:03.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.1086878495862038
+[20Dec2024 22:01:03.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5556075839845107
+[20Dec2024 22:01:03.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5553985181800272
+[20Dec2024 22:01:03.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.107259058136151
+[20Dec2024 22:01:03.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5550773452755493
+[20Dec2024 22:01:04.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5545810670867013
+[20Dec2024 22:01:04.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.104783436893058
+[20Dec2024 22:01:04.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5521032824062786
+[20Dec2024 22:01:04.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.0988919122028165
+[20Dec2024 22:01:04.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 1.6394010204865026
+[20Dec2024 22:01:05.048] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 22:01:05.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 22:01:05.086] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 22:01:05.793] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=465, y=-57, z=343}
+[20Dec2024 22:01:30.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
+[20Dec2024 22:01:30.633] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved

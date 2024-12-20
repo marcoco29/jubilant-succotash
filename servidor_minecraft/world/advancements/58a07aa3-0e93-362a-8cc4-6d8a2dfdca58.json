@@ -2283,25 +2283,29 @@
   },
   "knightquest:recipes/misc/witch_boots": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 05:10:57 +0000"
+      "has_poisonous_potato": "2024-12-19 05:10:57 +0000",
+      "has_glass_bottle": "2024-12-20 21:52:15 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/witch_chestplate": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 05:10:57 +0000"
+      "has_poisonous_potato": "2024-12-19 05:10:57 +0000",
+      "has_glass_bottle": "2024-12-20 21:52:15 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/witch_helmet": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 05:10:57 +0000"
+      "has_poisonous_potato": "2024-12-19 05:10:57 +0000",
+      "has_glass_bottle": "2024-12-20 21:52:15 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/witch_leggings": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 05:10:57 +0000"
+      "has_poisonous_potato": "2024-12-19 05:10:57 +0000",
+      "has_glass_bottle": "2024-12-20 21:52:15 +0000"
     },
     "done": false
   },
@@ -6500,6 +6504,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-20 21:52:15 +0000"
     },
     "done": false
   },
