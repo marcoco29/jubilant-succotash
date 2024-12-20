@@ -1072,3 +1072,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 05:23:50.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kiri080
 [20Dec2024 05:24:15.911] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [20Dec2024 05:24:15.912] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 05:27:12.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Deceived Hopes]
+[20Dec2024 05:29:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Knight Quest]
+[20Dec2024 05:29:15.915] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 05:29:15.915] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 05:33:03.478] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 05:33:03.544] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 05:33:24.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Corpse Fly
+[20Dec2024 05:33:26.656] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 05:34:15.920] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 05:34:15.921] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 05:34:29.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[20Dec2024 05:34:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[20Dec2024 05:34:29.925] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kiri080
+[20Dec2024 05:35:40.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:36153] logged in with entity id 10890 at (-137.73598746806093, -40.0, 125.44095726925079)
+[20Dec2024 05:35:40.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[20Dec2024 05:35:40.366] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[20Dec2024 05:35:40.366] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[20Dec2024 05:35:40.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[20Dec2024 05:35:40.370] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[20Dec2024 05:35:40.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[20Dec2024 05:35:40.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[20Dec2024 05:35:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[20Dec2024 05:35:40.484] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[20Dec2024 05:35:41.957] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kiri080 (18)
+[20Dec2024 05:35:41.958] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kiri080
+[20Dec2024 05:36:26.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [You didn't Thinked Fast...]
