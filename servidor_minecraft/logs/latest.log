@@ -1714,3 +1714,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 20:37:45.779] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [20Dec2024 20:38:19.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> la sigueinte novhe vamos a ve rbieve
 [20Dec2024 20:40:13.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> oka
+[20Dec2024 20:42:45.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:42:45.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:45:25.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> vamos
+[20Dec2024 20:45:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> por ahi buscamos cuero
+[20Dec2024 20:46:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> go
+[20Dec2024 20:46:03.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> hay q hacer bolsas de dormir
+[20Dec2024 20:46:23.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> Q MEDA ES ESO
+[20Dec2024 20:46:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a
+[20Dec2024 20:46:42.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> y la moshila
+[20Dec2024 20:46:45.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:46:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> chavitpo
+[20Dec2024 20:46:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> te consegui mochila
+[20Dec2024 20:46:57.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> DAMEEE
+[20Dec2024 20:47:31.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> con q abria la mochila?
+[20Dec2024 20:47:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> JAJAJA
+[20Dec2024 20:47:36.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> nmms
+[20Dec2024 20:47:45.761] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:47:45.761] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:48:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> BAMOS
+[20Dec2024 20:48:47.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> guiame
+[20Dec2024 20:48:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> atras
+[20Dec2024 20:48:57.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> izquierda
+[20Dec2024 20:49:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> bastante
+[20Dec2024 20:49:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> ahi
+[20Dec2024 20:49:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> recto nomas
+[20Dec2024 20:49:53.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> cuando bajabamos
+[20Dec2024 20:50:14.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 20:50:23.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 20:50:28.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 20:50:52.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=69, z=-248} BlockPos{x=-242, y=68, z=-247}
+[20Dec2024 20:51:20.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-273, y=68, z=-230} BlockPos{x=-271, y=67, z=-226}
+[20Dec2024 20:51:24.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-265, y=67, z=-234} BlockPos{x=-264, y=67, z=-230}
+[20Dec2024 20:51:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> ya
+[20Dec2024 20:51:35.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> te acuerdas
+[20Dec2024 20:51:39.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> deq
+[20Dec2024 20:51:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> donde ahi calabazas?
+[20Dec2024 20:51:45.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> o aun quedan en casa?
+[20Dec2024 20:51:55.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> si hay cerca de la casa
+[20Dec2024 20:51:58.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> vamo
+[20Dec2024 20:52:00.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> go
+[20Dec2024 20:52:09.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> enciende la turbina
+[20Dec2024 20:52:32.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> uf
+[20Dec2024 20:52:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> mil tortugas x segundo
+[20Dec2024 20:52:45.768] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:52:45.768] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:52:46.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> JAJAAJAJAJA
+[20Dec2024 20:52:49.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> voy a dc+
+[20Dec2024 20:54:15.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 20:55:33.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 20:55:53.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 20:57:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zzzzzzz
+[20Dec2024 20:57:45.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:57:45.763] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:59:02.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved too quickly! -1.3083779828164168,-27.98289439118004,2.1365604150246895
+[20Dec2024 20:59:05.033] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 20:59:05.040] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 20:59:13.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> como asi peeriito
+[20Dec2024 20:59:24.284] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 20:59:24.292] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 20:59:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> YA VI COMO
+[20Dec2024 20:59:29.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> jasjsalask
+[20Dec2024 21:00:15.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> JULIO Q ES ESO
+[20Dec2024 21:02:45.768] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:02:45.768] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:07:45.782] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:07:45.783] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:10:09.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

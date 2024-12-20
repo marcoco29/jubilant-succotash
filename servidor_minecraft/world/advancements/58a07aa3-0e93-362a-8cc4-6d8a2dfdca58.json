@@ -848,7 +848,8 @@
     "criteria": {
       "has_cobblestone": "2024-12-19 04:03:57 +0000",
       "minecraft:planks": "2024-12-19 03:57:22 +0000",
-      "has_redstone": "2024-12-20 07:47:00 +0000"
+      "has_redstone": "2024-12-20 07:47:00 +0000",
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
     },
     "done": false
   },
@@ -1180,6 +1181,7 @@
   },
   "supplementaries:recipes/crank": {
     "criteria": {
+      "has_cobblestone_slab": "2024-12-20 21:02:21 +0000",
       "forge:rods/wooden": "2024-12-19 03:57:43 +0000"
     },
     "done": false
@@ -1411,9 +1413,10 @@
   },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_cobblestone": "2024-12-19 04:03:57 +0000"
+      "has_cobblestone": "2024-12-19 04:03:57 +0000",
+      "has_the_recipe": "2024-12-20 21:06:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
@@ -1773,6 +1776,7 @@
   },
   "knightquest:recipes/misc/chainmail_helmet2": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
       "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
       "has_wheat_seeds": "2024-12-19 04:42:58 +0000"
@@ -1881,6 +1885,7 @@
   },
   "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
       "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000"
     },
@@ -2057,6 +2062,7 @@
   },
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
       "has_feather": "2024-12-20 20:12:06 +0000",
       "has_charcoal": "2024-12-19 05:02:29 +0000"
     },
@@ -2636,7 +2642,8 @@
   },
   "galosphere:recipes/decorations/chandelier": {
     "criteria": {
-      "has_iron_nugget": "2024-12-19 05:37:36 +0000"
+      "has_iron_nugget": "2024-12-19 05:37:36 +0000",
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
     },
     "done": false
   },
@@ -2813,9 +2820,10 @@
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 21:00:56 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/cage": {
     "criteria": {
@@ -2831,9 +2839,10 @@
   },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 20:40:33 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
@@ -3133,6 +3142,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
       "has_iron_boots": "2024-12-20 05:57:05 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
@@ -3152,6 +3162,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
       "has_iron_boots": "2024-12-20 05:57:05 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
@@ -4291,7 +4302,8 @@
   },
   "supplementaries:recipes/altimeter": {
     "criteria": {
-      "has_redstone": "2024-12-20 07:47:00 +0000"
+      "has_redstone": "2024-12-20 07:47:00 +0000",
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
     },
     "done": false
   },
@@ -5235,75 +5247,16 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "knightquest:recipes/misc/polar_boots": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
+      "has_snowball": "2024-12-20 20:51:03 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+      "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
   },
@@ -5337,6 +5290,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5361,6 +5320,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/building_blocks/infused_blackstone": {
     "criteria": {
       "has_item": "2024-12-20 20:17:49 +0000"
@@ -5374,9 +5339,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "peanut_seed": "2024-12-20 21:05:59 +0000"
     },
     "done": false
   },
@@ -5388,9 +5365,10 @@
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_iron_block": "2024-12-20 20:17:50 +0000"
+      "has_iron_block": "2024-12-20 20:17:50 +0000",
+      "has_the_recipe": "2024-12-20 20:57:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "croptopia:gather_all": {
     "criteria": {
@@ -5405,6 +5383,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_peanuts": "2024-12-20 21:05:59 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/shaped_ajvar": {
     "criteria": {
       "has_bellpepper": "2024-12-20 20:24:19 +0000"
@@ -5417,9 +5407,27 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/enderman_helmet": {
+    "criteria": {
+      "has_grass_block": "2024-12-20 20:46:35 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/nail_sword": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
     },
     "done": false
   },
@@ -5429,9 +5437,33 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-20 20:57:19 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
       "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 20:51:30 +0000"
     },
     "done": false
   },
@@ -5447,9 +5479,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 21:07:36 +0000"
     },
     "done": false
   },
@@ -5471,6 +5515,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2024-12-20 20:18:46 +0000"
@@ -5489,9 +5539,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_grass_block": "2024-12-20 20:46:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
   },
@@ -5501,9 +5581,21 @@
     },
     "done": false
   },
+  "divinerpg:recipes/stonecutter/minibricks_from_stone": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/apple_boots": {
     "criteria": {
       "has_golden_apple": "2024-12-20 20:18:46 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_grass_block": "2024-12-20 20:46:35 +0000"
     },
     "done": false
   },
@@ -5513,9 +5605,46 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-20 20:57:07 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 21:07:36 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
+      "has_snowball": "2024-12-20 20:51:03 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
   },
@@ -5528,6 +5657,24 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:51:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
   },
@@ -5555,9 +5702,70 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/peanut_seed": {
+    "criteria": {
+      "has_peanut": "2024-12-20 21:05:59 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
+      "has_snowball": "2024-12-20 20:51:03 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-20 20:51:30 +0000"
     },
     "done": false
   },
@@ -5576,6 +5784,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
   },
@@ -5615,6 +5829,19 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_grass_block": "2024-12-20 20:46:35 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 20:47:02 +0000",
+      "has_snowball": "2024-12-20 20:51:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-20 20:36:32 +0000"
@@ -5624,6 +5851,19 @@
   "divinerpg:recipes/shapeless/rainbow_wool": {
     "criteria": {
       "has_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000",
+      "has_the_recipe": "2024-12-20 21:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-20 21:07:36 +0000"
     },
     "done": false
   },
@@ -5639,6 +5879,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/misc/iron_skull": {
     "criteria": {
       "has_item": "2024-12-20 20:17:49 +0000"
@@ -5651,9 +5897,22 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 20:51:30 +0000",
+      "has_the_recipe": "2024-12-20 21:07:26 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/soul_ingot": {
     "criteria": {
       "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
   },
@@ -5675,6 +5934,18 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
       "has_golden_apple": "2024-12-20 20:18:46 +0000"
@@ -5684,6 +5955,12 @@
   "croptopia:gather_plains": {
     "criteria": {
       "bellpepper_seed": "2024-12-20 20:26:38 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_stone": "2024-12-20 21:06:55 +0000"
     },
     "done": false
   },
@@ -5699,9 +5976,21 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 21:05:19 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
       "has_lost_soul": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:51:03 +0000"
     },
     "done": false
   },

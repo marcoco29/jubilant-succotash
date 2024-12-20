@@ -573,6 +573,7 @@
   },
   "supplementaries:recipes/crank": {
     "criteria": {
+      "has_cobblestone_slab": "2024-12-20 20:56:37 +0000",
       "forge:rods/wooden": "2024-12-19 04:00:52 +0000"
     },
     "done": false
@@ -1280,9 +1281,10 @@
   },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_cobblestone": "2024-12-19 04:05:27 +0000"
+      "has_cobblestone": "2024-12-19 04:05:27 +0000",
+      "has_the_recipe": "2024-12-20 20:56:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
@@ -1676,6 +1678,7 @@
   },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
+      "has_carved_pumpkin": "2024-12-20 21:02:02 +0000",
       "has_pumpkin": "2024-12-19 04:10:11 +0000"
     },
     "done": false
@@ -2364,9 +2367,10 @@
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 21:00:55 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/cage": {
     "criteria": {
@@ -2621,6 +2625,7 @@
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
+      "minecraft:enderman": "2024-12-20 20:46:34 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000"
     },
     "done": false
@@ -2631,6 +2636,7 @@
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
+      "minecraft:enderman": "2024-12-20 20:46:34 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000"
     },
     "done": false
@@ -2811,6 +2817,7 @@
   },
   "knightquest:recipes/misc/path_boots": {
     "criteria": {
+      "has_coarse_dirt": "2024-12-20 20:50:47 +0000",
       "has_leather": "2024-12-19 04:40:56 +0000"
     },
     "done": false
@@ -2823,12 +2830,14 @@
   },
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
+      "has_coarse_dirt": "2024-12-20 20:50:47 +0000",
       "has_leather": "2024-12-19 04:40:56 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
+      "has_coarse_dirt": "2024-12-20 20:50:47 +0000",
       "has_leather": "2024-12-19 04:40:56 +0000"
     },
     "done": false
@@ -2850,6 +2859,7 @@
   },
   "knightquest:recipes/misc/path_chestplate": {
     "criteria": {
+      "has_coarse_dirt": "2024-12-20 20:50:47 +0000",
       "has_leather": "2024-12-19 04:40:56 +0000"
     },
     "done": false
@@ -3069,9 +3079,10 @@
   },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_sugar_cane": "2024-12-19 04:49:20 +0000"
+      "has_sugar_cane": "2024-12-19 04:49:20 +0000",
+      "has_the_recipe": "2024-12-20 21:07:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "croptopia:recipes/food/molasses_from_sugar_cane": {
     "criteria": {
@@ -3804,6 +3815,7 @@
   },
   "divinerpg:recipes/shaped/snow_globe": {
     "criteria": {
+      "has_snow_block": "2024-12-20 21:00:23 +0000",
       "has_diamond": "2024-12-19 06:18:34 +0000"
     },
     "done": false
@@ -4768,6 +4780,7 @@
   },
   "supplementaries:recipes/candy": {
     "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000",
       "has_paper": "2024-12-19 06:42:43 +0000"
     },
     "done": false
@@ -4840,6 +4853,7 @@
   },
   "divinerpg:recipes/shaped/donut": {
     "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000",
       "has_wheat": "2024-12-20 05:38:55 +0000"
     },
     "done": false
@@ -5553,25 +5567,29 @@
   },
   "knightquest:recipes/misc/polar_boots": {
     "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
+      "has_snowball": "2024-12-20 20:50:22 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/polar_leggings": {
     "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
+      "has_snowball": "2024-12-20 20:50:22 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/polar_helmet": {
     "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
+      "has_snowball": "2024-12-20 20:50:22 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/polar_chestplate": {
     "criteria": {
-      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
+      "has_snowball": "2024-12-20 20:50:22 +0000"
     },
     "done": false
   },
@@ -6050,9 +6068,45 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-20 21:01:58 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_kiwi_sorbet": {
+    "criteria": {
+      "has_kiwi": "2024-12-20 20:38:21 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shapeless/aquatic_blaze_rod": {
     "criteria": {
       "has_aqua_ball": "2024-12-20 20:33:42 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/kiwi_seed": {
+    "criteria": {
+      "has_kiwi": "2024-12-20 20:38:21 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
     },
     "done": false
   },
@@ -6062,15 +6116,51 @@
     },
     "done": false
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/strings": {
     "criteria": {
       "has_flax": "2024-12-20 20:18:13 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:50:22 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flax_block": {
     "criteria": {
       "has_flax": "2024-12-20 20:18:13 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2024-12-20 21:07:14 +0000"
     },
     "done": false
   },
@@ -6085,6 +6175,19 @@
       "has_aqua_ball": "2024-12-20 20:33:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-20 21:02:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:50:22 +0000",
+      "has_the_recipe": "2024-12-20 21:00:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
