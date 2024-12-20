@@ -1881,3 +1881,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 21:39:15.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sonnfried'/48627, l='ServerLevel[world]', x=890.63, y=80.00, z=-122.64] died, message: 'Sonnfried was slain by Farmer Zombie'
 [20Dec2024 21:39:15.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sonnfried'/48627, l='ServerLevel[world]', x=890.63, y=80.00, z=-122.64] died: Sonnfried was slain by Farmer Zombie
 [20Dec2024 21:41:12.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:42:22.743] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Florenz}[style={}] has been infected
+[20Dec2024 21:42:23.106] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 21:42:23.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:42:23.160] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 21:42:31.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 blew up
+[20Dec2024 21:42:34.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20Dec2024 21:43:07.942] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Henning'/57220, l='ServerLevel[world]', x=929.24, y=73.00, z=-205.14] died, message: 'Henning was slain by Farmer Zombie'
+[20Dec2024 21:43:07.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Henning'/57220, l='ServerLevel[world]', x=929.24, y=73.00, z=-205.14] died: Henning was slain by Farmer Zombie
+[20Dec2024 21:43:18.382] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=465, y=-57, z=343}
+[20Dec2024 21:43:42.679] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands]] from pos BlockPos{x=1013, y=72, z=-549}
+[20Dec2024 21:43:42.719] [pool-7-thread-2/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw minecraft:bottom found in start pool minecraft:village/savanna/town_centers
+[20Dec2024 21:43:43.596] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1013, y=72, z=-549} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[20Dec2024 21:43:43.597] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=1013, y=72, z=-549}
+[20Dec2024 21:43:48.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 21:44:03.891] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:44:03.892] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:45:15.006] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[20Dec2024 21:46:45.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Bone Crusher]
+[20Dec2024 21:48:25.973] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 21:48:25.986] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 21:48:35.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[20Dec2024 21:48:45.937] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 21:48:45.963] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 21:49:03.865] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 21:49:03.865] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 21:49:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by marcouwu2005
+[20Dec2024 21:49:26.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/60860, l='ServerLevel[world]', x=1042.83, y=41.00, z=-477.49] died: marcouwu2005 was slain by marcouwu2005
+[20Dec2024 21:49:41.518] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 21:49:41.537] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 21:50:03.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Doctor Zombie
+[20Dec2024 21:50:15.569] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 21:50:15.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/61873, l='ServerLevel[world]', x=1040.16, y=41.00, z=-477.59] died: marcouwu2005 was slain by marcouwu2005
+[20Dec2024 21:50:15.593] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 21:51:12.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by marcouwu2005
+[20Dec2024 21:51:22.568] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 21:51:22.589] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved

@@ -1587,11 +1587,16 @@
     "criteria": {
       "shrubland": "2024-12-19 04:39:57 +0000",
       "highland": "2024-12-19 04:40:51 +0000",
+      "jacaranda_glade": "2024-12-20 21:43:21 +0000",
       "marsh": "2024-12-19 04:18:12 +0000",
       "maple_woods": "2024-12-19 04:42:12 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
+      "coniferous_forest": "2024-12-20 21:39:24 +0000",
       "redwood_forest": "2024-12-20 08:26:06 +0000",
+      "aspen_glade": "2024-12-20 21:42:17 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
+      "seasonal_forest": "2024-12-20 21:43:38 +0000",
+      "lavender_field": "2024-12-20 21:43:12 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
       "prairie": "2024-12-20 21:29:33 +0000",
       "crag": "2024-12-20 08:33:43 +0000"
@@ -1602,11 +1607,16 @@
     "criteria": {
       "shrubland": "2024-12-19 04:39:57 +0000",
       "highland": "2024-12-19 04:40:51 +0000",
+      "jacaranda_glade": "2024-12-20 21:43:21 +0000",
       "marsh": "2024-12-19 04:18:12 +0000",
       "maple_woods": "2024-12-19 04:42:12 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
+      "coniferous_forest": "2024-12-20 21:39:24 +0000",
       "redwood_forest": "2024-12-20 08:26:06 +0000",
+      "aspen_glade": "2024-12-20 21:42:17 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
+      "seasonal_forest": "2024-12-20 21:43:38 +0000",
+      "lavender_field": "2024-12-20 21:43:12 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
       "prairie": "2024-12-20 21:29:33 +0000",
       "crag": "2024-12-20 08:33:43 +0000"
@@ -2392,6 +2402,7 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-20 21:39:16 +0000",
       "minecraft:spider": "2024-12-19 05:36:20 +0000",
       "minecraft:zombie": "2024-12-20 05:28:55 +0000"
     },
@@ -2399,6 +2410,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-20 21:39:16 +0000",
       "minecraft:spider": "2024-12-19 05:36:20 +0000",
       "minecraft:zombie": "2024-12-20 05:28:55 +0000"
     },
@@ -2856,6 +2868,7 @@
   },
   "supplementaries:recipes/cage": {
     "criteria": {
+      "has_iron_bars": "2024-12-20 21:45:28 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
     "done": false
@@ -5455,6 +5468,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
+  },
   "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
       "has_item": "2024-12-20 21:22:09 +0000"
@@ -5486,6 +5505,12 @@
       "has_seeds": "2024-12-20 20:24:35 +0000"
     },
     "done": true
+  },
+  "divinerpg:recipes/stonecutter/minibricks_from_stone_bricks": {
+    "criteria": {
+      "has_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
@@ -5781,9 +5806,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 21:46:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-20 21:47:46 +0000"
     },
     "done": false
   },
@@ -5838,6 +5881,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-20 20:57:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-20 21:47:46 +0000"
     },
     "done": false
   },
@@ -6035,6 +6084,18 @@
     },
     "done": false
   },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2024-12-20 21:47:46 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/silverfish_boots": {
     "criteria": {
       "has_stone": "2024-12-20 21:06:55 +0000"
@@ -6133,6 +6194,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-20 20:36:32 +0000"
@@ -6151,9 +6218,21 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-20 21:47:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-20 21:31:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
     },
     "done": false
   },
@@ -6193,6 +6272,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/apple_helmet": {
     "criteria": {
       "has_golden_apple": "2024-12-20 20:18:46 +0000"
@@ -6229,6 +6320,12 @@
       "obtain_moonstone_shard": "2024-12-20 21:22:09 +0000"
     },
     "done": true
+  },
+  "divinerpg:recipes/shaped/minibricks": {
+    "criteria": {
+      "has_bricks": "2024-12-20 21:47:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
@@ -6276,6 +6373,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
     },
     "done": false
   },
@@ -6391,6 +6494,12 @@
   "knightquest:recipes/misc/silverfish_helmet": {
     "criteria": {
       "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 21:47:50 +0000"
     },
     "done": false
   },
