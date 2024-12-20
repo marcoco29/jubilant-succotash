@@ -1652,3 +1652,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 20:08:14.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Blue and shiny]
 [20Dec2024 20:08:28.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Diamonds!]
 [20Dec2024 20:08:54.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:10:23.378] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 20:10:23.452] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 20:10:31.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 20:12:45.773] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:12:45.773] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:12:53.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 20:14:48.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:15:36.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:15:49.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[20Dec2024 20:15:49.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[20Dec2024 20:15:49.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[20Dec2024 20:16:06.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:60625] logged in with entity id 11100 at (417.44050474622696, 157.9715118408203, 54.403532951474574)
+[20Dec2024 20:16:06.108] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[20Dec2024 20:16:06.109] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[20Dec2024 20:16:06.109] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[20Dec2024 20:16:06.109] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[20Dec2024 20:16:06.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[20Dec2024 20:16:06.115] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[20Dec2024 20:16:06.115] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[20Dec2024 20:16:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[20Dec2024 20:16:07.143] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[20Dec2024 20:16:07.156] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[20Dec2024 20:16:07.157] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[20Dec2024 20:16:39.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 20:17:15.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:17:15.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:17:39.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 20:17:45.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:17:45.784] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:17:54.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Suit Up]
+[20Dec2024 20:18:14.359] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 20:22:45.769] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:22:45.769] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:22:47.152] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Dec2024 20:22:47.152] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Dec2024 20:22:47.152] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Dec2024 20:22:47.152] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[20Dec2024 20:22:47.152] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[20Dec2024 20:22:47.153] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Dec2024 20:22:47.153] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Dec2024 20:22:47.153] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Dec2024 20:24:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [An Extra Seedy Place]
+[20Dec2024 20:27:01.717] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 20:27:01.740] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 20:27:45.771] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 20:27:45.771] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 20:28:22.116] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 20:28:22.134] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 20:28:42.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 drowned
+[20Dec2024 20:28:42.155] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 20:28:58.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/18445, l='ServerLevel[world]', x=-38.40, y=63.11, z=145.40] died: marcouwu2005 was slain by Kiri080

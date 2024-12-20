@@ -3939,7 +3939,8 @@
   },
   "supplementaries:recipes/sack": {
     "criteria": {
-      "has_string": "2024-12-19 06:18:48 +0000"
+      "has_string": "2024-12-19 06:18:48 +0000",
+      "forge:crops/flax": "2024-12-20 20:18:13 +0000"
     },
     "done": false
   },
@@ -4864,6 +4865,7 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-12-20 05:42:10 +0000",
+      "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -4871,6 +4873,7 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-12-20 05:42:10 +0000",
+      "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -6046,6 +6049,30 @@
       "root": "2024-12-20 08:21:26 +0000"
     },
     "done": true
+  },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-20 20:18:13 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2024-12-20 20:18:13 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2024-12-20 20:18:13 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-20 20:18:13 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

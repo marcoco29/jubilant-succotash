@@ -68,7 +68,8 @@
   },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
-      "has_vanilla_rod": "2024-12-18 17:01:15 +0000"
+      "has_vanilla_rod": "2024-12-18 17:01:15 +0000",
+      "has_diamond": "2024-12-20 20:08:28 +0000"
     },
     "done": false
   },
@@ -781,6 +782,7 @@
       "apple": "2024-12-19 05:00:43 +0000",
       "potato": "2024-12-19 03:56:55 +0000",
       "bread": "2024-12-19 05:10:21 +0000",
+      "golden_apple": "2024-12-20 20:21:51 +0000",
       "cookie": "2024-12-19 03:57:06 +0000",
       "beetroot": "2024-12-20 07:13:25 +0000",
       "carrot": "2024-12-20 06:32:16 +0000"
@@ -1171,6 +1173,7 @@
   },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000",
       "has_stick": "2024-12-19 03:57:43 +0000"
     },
     "done": false
@@ -1770,6 +1773,7 @@
   },
   "knightquest:recipes/misc/chainmail_helmet2": {
     "criteria": {
+      "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
       "has_wheat_seeds": "2024-12-19 04:42:58 +0000"
     },
@@ -1852,7 +1856,8 @@
   },
   "divinerpg:recipes/shaped/donut": {
     "criteria": {
-      "has_wheat": "2024-12-19 04:47:42 +0000"
+      "has_wheat": "2024-12-19 04:47:42 +0000",
+      "has_egg": "2024-12-20 20:12:06 +0000"
     },
     "done": false
   },
@@ -1876,6 +1881,7 @@
   },
   "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
+      "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000"
     },
     "done": false
@@ -2051,12 +2057,14 @@
   },
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000",
       "has_charcoal": "2024-12-19 05:02:29 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/steel_sword": {
     "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000",
       "has_iron_sword": "2024-12-20 07:11:26 +0000",
       "has_charcoal": "2024-12-19 05:02:29 +0000"
     },
@@ -3129,7 +3137,9 @@
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
       "has_iron_hoe": "2024-12-20 06:01:01 +0000",
+      "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_iron_sword": "2024-12-20 07:11:26 +0000",
+      "has_chainmail_chestplate": "2024-12-20 20:18:49 +0000",
       "has_iron_chestplate": "2024-12-20 05:57:25 +0000"
     },
     "done": false
@@ -3146,7 +3156,9 @@
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
       "has_iron_hoe": "2024-12-20 06:01:01 +0000",
+      "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_iron_sword": "2024-12-20 07:11:26 +0000",
+      "has_chainmail_chestplate": "2024-12-20 20:18:49 +0000",
       "has_iron_chestplate": "2024-12-20 05:57:25 +0000"
     },
     "done": false
@@ -3887,9 +3899,10 @@
     "criteria": {
       "iron_boots": "2024-12-20 05:57:05 +0000",
       "iron_chestplate": "2024-12-20 05:57:25 +0000",
-      "iron_leggings": "2024-12-20 05:57:24 +0000"
+      "iron_leggings": "2024-12-20 05:57:24 +0000",
+      "iron_helmet": "2024-12-20 20:17:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/bow_chestplate": {
     "criteria": {
@@ -4651,6 +4664,7 @@
   },
   "knightquest:recipes/misc/warlord_helmet": {
     "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000",
       "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
@@ -4669,6 +4683,7 @@
   },
   "knightquest:recipes/misc/warlord_boots": {
     "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000",
       "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
@@ -4699,12 +4714,14 @@
   },
   "knightquest:recipes/misc/warlord_leggings": {
     "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000",
       "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/warlord_chestplate": {
     "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000",
       "has_gold_ingot": "2024-12-20 08:16:16 +0000"
     },
     "done": false
@@ -4754,6 +4771,803 @@
   "croptopia:recipes/misc/tomato_juice": {
     "criteria": {
       "has_tomato": "2024-12-20 20:06:02 +0000"
+    },
+    "done": false
+  },
+  "eternal_tales:get_cobalt": {
+    "criteria": {
+      "get_cobalt_0": "2024-12-20 20:08:14 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shapeless/red_diamond_chunk": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_scythe_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/teleportation_crystal": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_dagger_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_claw_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/green_diamond_chunk": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/diamond_lamp": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_battle_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_round_shield_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_throwing_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/diamond_bricks": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/yellow_diamond_chunk": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_spear_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_javelin_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/snow_globe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/gray_diamond_chunk": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_1": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_2": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_3": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_machete_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_hammer_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/serenade_striker": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/blue_diamond_chunk": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_plate_shield_enchanted": {
+    "criteria": {
+      "has_diamond": "2024-12-20 20:08:28 +0000"
+    },
+    "done": false
+  },
+  "pizzacraft:crops": {
+    "criteria": {
+      "onion": "2024-12-20 20:09:45 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/campfire/boiled_egg": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000",
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-20 20:12:06 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000",
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/furnace/boiled_egg": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000",
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smoker/boiled_egg": {
+    "criteria": {
+      "has_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2024-12-20 20:12:06 +0000",
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-20 20:12:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2024-12-20 20:13:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-20 20:14:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-20 20:14:22 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 20:24:19 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/silver_bullet": {
+    "criteria": {
+      "has_lost_soul": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-20 20:26:38 +0000",
+      "zucchini_seed": "2024-12-20 20:24:35 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-20 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 20:24:19 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:18:46 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-20 20:24:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "zucchini_seed": "2024-12-20 20:24:35 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:18:46 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:18:46 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/rainbow_wool": {
+    "criteria": {
+      "has_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_javelin": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2024-12-20 20:18:46 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-20 20:26:38 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_dagger": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_hoe": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2024-12-20 20:17:49 +0000"
     },
     "done": false
   },
