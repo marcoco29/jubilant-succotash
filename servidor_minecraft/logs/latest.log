@@ -1263,3 +1263,21 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [20Dec2024 08:28:46.804] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [20Dec2024 08:29:06.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Miner Zombie
 [20Dec2024 08:29:45.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Miner Zombie
+[20Dec2024 08:30:42.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 08:31:06.240] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 08:31:06.241] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 08:31:24.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 08:31:34.493] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 08:31:34.516] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 08:31:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Miner Zombie
+[20Dec2024 08:34:17.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[20Dec2024 08:34:40.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:35:05.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[20Dec2024 08:35:08.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[20Dec2024 08:35:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[20Dec2024 08:35:08.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[20Dec2024 08:36:06.275] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 08:36:06.275] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 08:37:06.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[20Dec2024 08:37:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[20Dec2024 08:37:06.005] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kiri080

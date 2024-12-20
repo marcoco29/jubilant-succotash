@@ -2618,6 +2618,7 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
+      "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000"
@@ -2627,6 +2628,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
+      "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000"
@@ -3282,6 +3284,7 @@
       "beetroot": "2024-12-20 07:35:38 +0000",
       "sugar_cane": "2024-12-20 06:36:34 +0000",
       "wheat": "2024-12-20 06:34:01 +0000",
+      "melon": "2024-12-20 08:35:39 +0000",
       "carrot": "2024-12-20 07:35:41 +0000"
     },
     "done": false
@@ -5514,6 +5517,7 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2024-12-20 07:35:38 +0000",
+      "melon_stem": "2024-12-20 08:35:39 +0000",
       "pitcher_pod": "2024-12-20 06:23:34 +0000",
       "wheat": "2024-12-20 06:34:01 +0000"
     },
@@ -5528,6 +5532,12 @@
   "knightquest:recipes/misc/polar_boots": {
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
     },
     "done": false
   },
@@ -5585,6 +5595,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-12-20 07:09:02 +0000"
@@ -5615,6 +5631,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_all": {
     "criteria": {
       "bellpepper_seed": "2024-12-20 06:49:21 +0000",
@@ -5634,6 +5656,18 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-20 07:50:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
     },
     "done": false
   },
@@ -5673,6 +5707,12 @@
     },
     "done": false
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2024-12-20 07:28:59 +0000"
@@ -5709,9 +5749,21 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-20 07:28:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
     },
     "done": false
   },
@@ -5736,6 +5788,12 @@
   "galosphere:recipes/decorations/silver_lattice": {
     "criteria": {
       "has_silver_ingot": "2024-12-20 07:01:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
     },
     "done": false
   },
@@ -5842,6 +5900,12 @@
       "coffin": "2024-12-20 08:12:05 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+    },
+    "done": false
   },
   "divinerpg:recipes/smelting/arlemite_ingot_from_raw_arlemite": {
     "criteria": {
@@ -5964,6 +6028,12 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
+    },
+    "done": false
+  },
   "galosphere:recipes/misc/silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-20 07:01:36 +0000"
@@ -6015,6 +6085,12 @@
   "divinerpg:recipes/shaped/raw_arlemite_block": {
     "criteria": {
       "has_raw_arlemite": "2024-12-20 08:04:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 08:36:06 +0000"
     },
     "done": false
   },
