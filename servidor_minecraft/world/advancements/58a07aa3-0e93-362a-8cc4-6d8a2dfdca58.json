@@ -991,7 +991,8 @@
   },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
-      "minecraft:planks": "2024-12-19 03:57:22 +0000"
+      "minecraft:planks": "2024-12-19 03:57:22 +0000",
+      "has_emerald": "2024-12-20 21:32:29 +0000"
     },
     "done": false
   },
@@ -1592,6 +1593,7 @@
       "redwood_forest": "2024-12-20 08:26:06 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
+      "prairie": "2024-12-20 21:29:33 +0000",
       "crag": "2024-12-20 08:33:43 +0000"
     },
     "done": false
@@ -1606,6 +1608,7 @@
       "redwood_forest": "2024-12-20 08:26:06 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
+      "prairie": "2024-12-20 21:29:33 +0000",
       "crag": "2024-12-20 08:33:43 +0000"
     },
     "done": false
@@ -1690,6 +1693,7 @@
   "divinerpg:recipes/shaped/armor_pouch": {
     "criteria": {
       "has_wood": "2024-12-19 04:25:53 +0000",
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_string": "2024-12-19 05:36:23 +0000"
     },
     "done": false
@@ -1725,6 +1729,7 @@
       "shrubland": "2024-12-20 05:27:11 +0000",
       "bayou": "2024-12-20 20:06:54 +0000",
       "muddy_river": "2024-12-19 04:52:46 +0000",
+      "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "boreal_forest": "2024-12-19 04:52:45 +0000",
       "towering_cliffs": "2024-12-19 05:45:02 +0000",
@@ -1738,6 +1743,7 @@
       "shrubland": "2024-12-20 05:27:11 +0000",
       "bayou": "2024-12-20 20:06:54 +0000",
       "muddy_river": "2024-12-19 04:52:46 +0000",
+      "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "boreal_forest": "2024-12-19 04:52:45 +0000",
       "towering_cliffs": "2024-12-19 05:45:02 +0000",
@@ -1908,6 +1914,7 @@
   },
   "knightquest:recipes/misc/tunic_green_leggings": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000"
     },
@@ -1927,6 +1934,7 @@
   },
   "knightquest:recipes/misc/tunic_sea_leggings": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000"
     },
@@ -1934,6 +1942,7 @@
   },
   "knightquest:recipes/misc/tunic_blue_leggings": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000"
     },
@@ -1941,6 +1950,7 @@
   },
   "knightquest:recipes/misc/tunic_red_leggings": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000"
     },
@@ -1954,6 +1964,7 @@
   },
   "knightquest:recipes/misc/tunic_yellow_leggings": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000"
     },
@@ -1968,25 +1979,29 @@
   },
   "knightquest:recipes/misc/path_boots": {
     "criteria": {
-      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000",
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
-      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000",
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/path_helmet": {
     "criteria": {
-      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000",
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/path_chestplate": {
     "criteria": {
-      "has_coarse_dirt": "2024-12-19 04:55:10 +0000"
+      "has_coarse_dirt": "2024-12-19 04:55:10 +0000",
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
@@ -2106,12 +2121,14 @@
   },
   "knightquest:recipes/misc/conquistador_leggings": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/conquistador_boots": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2125,6 +2142,7 @@
   },
   "knightquest:recipes/misc/conquistador_helmet": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2184,6 +2202,7 @@
   },
   "knightquest:recipes/misc/conquistador_chestplate": {
     "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2744,9 +2763,10 @@
   },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 21:35:25 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
@@ -4456,19 +4476,22 @@
   },
   "knightquest:recipes/misc/bamboo_green_helmet": {
     "criteria": {
-      "has_slime_ball": "2024-12-20 08:07:52 +0000"
+      "has_slime_ball": "2024-12-20 08:07:52 +0000",
+      "has_emerald": "2024-12-20 21:32:29 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/bamboo_green_leggings": {
     "criteria": {
-      "has_slime_ball": "2024-12-20 08:07:52 +0000"
+      "has_slime_ball": "2024-12-20 08:07:52 +0000",
+      "has_emerald": "2024-12-20 21:32:29 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/bamboo_green_chestplate": {
     "criteria": {
-      "has_slime_ball": "2024-12-20 08:07:52 +0000"
+      "has_slime_ball": "2024-12-20 08:07:52 +0000",
+      "has_emerald": "2024-12-20 21:32:29 +0000"
     },
     "done": false
   },
@@ -4486,7 +4509,8 @@
   },
   "knightquest:recipes/misc/bamboo_green_boots": {
     "criteria": {
-      "has_slime_ball": "2024-12-20 08:07:52 +0000"
+      "has_slime_ball": "2024-12-20 08:07:52 +0000",
+      "has_emerald": "2024-12-20 21:32:29 +0000"
     },
     "done": false
   },
@@ -5268,6 +5292,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2024-12-20 21:06:55 +0000"
@@ -5304,6 +5334,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5334,6 +5370,12 @@
     },
     "done": false
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:37:13 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5343,6 +5385,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
@@ -5427,17 +5475,35 @@
     },
     "done": false
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2024-12-20 21:30:03 +0000"
+    },
+    "done": false
+  },
   "croptopia:getseeds": {
     "criteria": {
       "has_seeds": "2024-12-20 20:24:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/candied_nuts": {
     "criteria": {
       "has_sugar": "2024-12-20 21:08:57 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:37:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
@@ -5547,11 +5613,29 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 21:31:51 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_3": "2024-12-20 21:08:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-20 21:32:29 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-20 21:37:13 +0000"
+    },
+    "done": true
   },
   "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
@@ -5610,6 +5694,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-20 21:32:29 +0000"
     },
     "done": false
   },
@@ -5694,6 +5784,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-20 21:06:55 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
@@ -5843,6 +5939,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-20 21:33:20 +0000"
+    },
+    "done": false
+  },
   "blue_skies:recipes/combat/maple_spear": {
     "criteria": {
       "has_item": "2024-12-20 21:22:09 +0000"
@@ -5915,6 +6017,12 @@
     },
     "done": false
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2024-12-20 21:33:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 21:05:19 +0000"
@@ -5933,6 +6041,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
+    },
+    "done": false
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-20 21:22:40 +0000"
@@ -5948,6 +6062,12 @@
   "croptopia:recipes/food/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2024-12-20 21:08:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
@@ -5977,6 +6097,12 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/husk_helmet2": {
+    "criteria": {
+      "has_emerald": "2024-12-20 21:32:29 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5986,6 +6112,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/snow_walker": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
@@ -6016,6 +6148,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
@@ -6113,6 +6251,12 @@
   "divinerpg:recipes/shapeless/rainbow_wool": {
     "criteria": {
       "has_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-12-20 21:31:51 +0000"
     },
     "done": false
   },
