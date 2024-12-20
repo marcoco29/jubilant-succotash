@@ -8651,3 +8651,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 06:38:10.742] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
 [20Dec2024 06:38:24.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Shielder Zombie
 [20Dec2024 06:38:24.523] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-41, y:57, z:144, dim:minecraft:overworld]
+[20Dec2024 06:38:46.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/4392, l='ServerLevel[world]', x=-39.70, y=58.17, z=145.63] died: Kiri080 was slain by Kiri080
+[20Dec2024 06:40:58.092] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 06:40:58.110] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 06:41:06.247] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 06:41:06.247] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 06:41:06.247] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 06:41:06.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 06:41:06.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 06:41:06.768] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 06:41:06.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Adventurer Zombie
+[20Dec2024 06:41:06.954] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-39, y:64, z:140, dim:minecraft:overworld]
+[20Dec2024 06:41:27.198] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 06:41:27.213] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 06:41:43.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Kiri080
+[20Dec2024 06:41:43.954] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-40, y:64, z:129, dim:minecraft:overworld]
+[20Dec2024 06:41:54.792] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 06:41:54.806] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 06:42:12.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[20Dec2024 06:42:12.112] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-41, y:63, z:148, dim:minecraft:overworld]
+[20Dec2024 06:45:26.493] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 06:45:26.531] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 06:46:02.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Adventurer Zombie
+[20Dec2024 06:46:02.666] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-18, y:63, z:100, dim:minecraft:overworld]
+[20Dec2024 06:46:06.271] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 06:46:06.271] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 06:46:06.272] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 06:46:06.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 06:46:06.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 06:46:06.657] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating

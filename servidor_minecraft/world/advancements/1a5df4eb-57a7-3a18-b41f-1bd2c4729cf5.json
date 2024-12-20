@@ -1094,9 +1094,10 @@
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
+      "has_the_recipe": "2024-12-20 06:37:00 +0000",
       "has_lots_of_items": "2024-12-19 04:03:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
@@ -2986,6 +2987,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
       "has_iron_boots": "2024-12-19 05:12:15 +0000",
       "has_iron_leggings": "2024-12-19 06:17:57 +0000",
       "has_iron_pickaxe": "2024-12-19 05:01:32 +0000",
@@ -2998,6 +3000,7 @@
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
       "has_iron_boots": "2024-12-19 05:12:15 +0000",
       "has_iron_leggings": "2024-12-19 06:17:57 +0000",
       "has_iron_pickaxe": "2024-12-19 05:01:32 +0000",
@@ -3196,6 +3199,7 @@
   },
   "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
       "has_iron_helmet": "2024-12-19 06:33:31 +0000",
       "has_apple": "2024-12-19 04:54:54 +0000"
     },
@@ -3209,6 +3213,7 @@
   },
   "knightquest:recipes/misc/chainmail_helmet2": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
       "has_iron_helmet": "2024-12-19 06:33:31 +0000",
       "has_apple": "2024-12-19 04:54:54 +0000",
       "has_wheat_seeds": "2024-12-20 05:55:45 +0000"
@@ -3249,6 +3254,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2024-12-19 04:55:58 +0000",
+      "sugar_cane": "2024-12-20 06:36:34 +0000",
       "wheat": "2024-12-20 06:34:01 +0000"
     },
     "done": false
@@ -5438,6 +5444,7 @@
   },
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000",
       "has_charcoal": "2024-12-20 06:21:48 +0000"
     },
     "done": false
@@ -5466,6 +5473,48 @@
       "whitetail_advancement_0": "2024-12-20 06:24:07 +0000"
     },
     "done": true
+  },
+  "knightquest:recipes/misc/polar_boots": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 06:39:23 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_leggings": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 06:39:23 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_helmet": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/polar_chestplate": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 06:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 06:39:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
