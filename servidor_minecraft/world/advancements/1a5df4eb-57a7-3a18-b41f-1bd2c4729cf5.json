@@ -6050,6 +6050,12 @@
     },
     "done": true
   },
+  "divinerpg:recipes/shapeless/aquatic_blaze_rod": {
+    "criteria": {
+      "has_aqua_ball": "2024-12-20 20:33:42 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/doormat_2": {
     "criteria": {
       "forge:crops/flax": "2024-12-20 20:18:13 +0000"
@@ -6071,6 +6077,12 @@
   "supplementaries:recipes/rope": {
     "criteria": {
       "forge:crops/flax": "2024-12-20 20:18:13 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/aquatonic_bricks": {
+    "criteria": {
+      "has_aqua_ball": "2024-12-20 20:33:42 +0000"
     },
     "done": false
   },

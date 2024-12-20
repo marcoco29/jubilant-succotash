@@ -4146,9 +4146,10 @@
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_log": "2024-12-20 06:19:12 +0000"
+      "has_log": "2024-12-20 06:19:12 +0000",
+      "has_the_recipe": "2024-12-20 20:36:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
@@ -5234,6 +5235,78 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-20 20:37:45 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5258,6 +5331,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
@@ -5267,6 +5346,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
     },
     "done": false
   },
@@ -5281,6 +5366,13 @@
       "has_item": "2024-12-20 20:17:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 20:36:35 +0000",
+      "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
@@ -5373,9 +5465,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/apple_leggings": {
     "criteria": {
       "has_golden_apple": "2024-12-20 20:18:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
     },
     "done": false
   },
@@ -5469,9 +5573,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-20 20:19:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
     },
     "done": false
   },
@@ -5493,6 +5615,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shapeless/rainbow_wool": {
     "criteria": {
       "has_wool": "2024-12-20 20:19:12 +0000"
@@ -5502,6 +5630,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
     "criteria": {
       "has_iron_block": "2024-12-20 20:17:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 20:36:32 +0000"
     },
     "done": false
   },
