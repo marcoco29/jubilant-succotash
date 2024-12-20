@@ -1098,3 +1098,94 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 05:35:41.957] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kiri080 (18)
 [20Dec2024 05:35:41.958] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kiri080
 [20Dec2024 05:36:26.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [You didn't Thinked Fast...]
+[20Dec2024 05:37:29.802] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 05:37:29.822] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 05:37:45.208] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 05:37:45.220] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 05:37:46.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
+[20Dec2024 05:38:04.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Flusk Zombie
+[20Dec2024 05:38:15.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 was kicked for floating too long!
+[20Dec2024 05:38:15.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[20Dec2024 05:38:15.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[20Dec2024 05:38:15.808] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[20Dec2024 05:38:15.852] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 05:38:39.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:56519] logged in with entity id 12876 at (45.037869522101204, 107.28549238931866, 19.783839085640373)
+[20Dec2024 05:38:39.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[20Dec2024 05:38:39.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[20Dec2024 05:38:39.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[20Dec2024 05:38:39.139] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[20Dec2024 05:38:39.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[20Dec2024 05:38:39.144] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[20Dec2024 05:38:39.144] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[20Dec2024 05:38:39.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[20Dec2024 05:38:39.224] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[20Dec2024 05:38:39.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[20Dec2024 05:38:39.601] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[20Dec2024 05:39:05.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 was kicked for floating too long!
+[20Dec2024 05:39:05.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Flying is not enabled on this server
+[20Dec2024 05:39:05.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[20Dec2024 05:39:05.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[20Dec2024 05:39:15.868] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 05:39:15.868] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 05:39:22.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:46159] logged in with entity id 13206 at (49.019859019576266, 93.08592806171634, 20.465299952534508)
+[20Dec2024 05:39:22.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[20Dec2024 05:39:22.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[20Dec2024 05:39:22.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[20Dec2024 05:39:22.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[20Dec2024 05:39:22.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[20Dec2024 05:39:22.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[20Dec2024 05:39:22.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[20Dec2024 05:39:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[20Dec2024 05:39:22.098] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[20Dec2024 05:39:22.468] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[20Dec2024 05:39:22.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[20Dec2024 05:39:47.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 was kicked for floating too long!
+[20Dec2024 05:39:47.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Flying is not enabled on this server
+[20Dec2024 05:39:47.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[20Dec2024 05:39:47.211] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[20Dec2024 05:40:04.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:41037] logged in with entity id 13550 at (49.019859019576266, 79.06114081501097, 20.465299952534508)
+[20Dec2024 05:40:04.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[20Dec2024 05:40:04.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[20Dec2024 05:40:04.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[20Dec2024 05:40:04.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[20Dec2024 05:40:04.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[20Dec2024 05:40:04.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[20Dec2024 05:40:04.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[20Dec2024 05:40:04.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[20Dec2024 05:40:04.232] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[20Dec2024 05:40:04.604] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[20Dec2024 05:40:04.605] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[20Dec2024 05:40:28.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 was kicked for floating too long!
+[20Dec2024 05:40:28.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Flying is not enabled on this server
+[20Dec2024 05:40:28.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[20Dec2024 05:40:28.465] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcouwu2005
+[20Dec2024 05:40:42.629] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[20Dec2024 05:40:42.629] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[20Dec2024 05:40:42.629] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[20Dec2024 05:40:42.629] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[20Dec2024 05:40:42.629] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[20Dec2024 05:40:42.629] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[20Dec2024 05:40:42.630] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[20Dec2024 05:40:42.630] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[20Dec2024 05:40:43.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:50011] logged in with entity id 13899 at (49.019859019576266, 65.21113064920254, 20.465299952534508)
+[20Dec2024 05:40:43.772] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[20Dec2024 05:40:43.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[20Dec2024 05:40:43.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[20Dec2024 05:40:43.773] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[20Dec2024 05:40:43.775] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[20Dec2024 05:40:43.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[20Dec2024 05:40:43.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[20Dec2024 05:40:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[20Dec2024 05:40:43.846] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[20Dec2024 05:40:44.256] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of marcouwu2005 (18)
+[20Dec2024 05:40:44.257] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to marcouwu2005
+[20Dec2024 05:42:09.948] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[20Dec2024 05:42:09.969] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[20Dec2024 05:42:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Adventurer Zombie
+[20Dec2024 05:42:50.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/15390, l='ServerLevel[world]', x=-125.25, y=-45.00, z=36.26] died: Kiri080 was slain by Kiri080
+[20Dec2024 05:44:03.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[20Dec2024 05:44:07.310] [Server thread/WARN] [tombstone/]: The death event of the player marcouwu2005 was canceled by another mod
+[20Dec2024 05:44:07.368] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[20Dec2024 05:44:15.897] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 05:44:15.897] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 05:44:42.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Sprinter
