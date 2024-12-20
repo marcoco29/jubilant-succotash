@@ -8967,3 +8967,15 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [20Dec2024 08:37:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
 [20Dec2024 08:37:06.005] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Kiri080
 [20Dec2024 08:37:06.005] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kiri080
+[20Dec2024 08:41:06.207] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 08:41:06.207] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 08:41:06.208] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 08:41:06.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 08:41:06.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 08:41:06.469] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[20Dec2024 08:46:06.196] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[20Dec2024 08:46:06.196] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[20Dec2024 08:46:06.196] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[20Dec2024 08:46:06.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 08:46:06.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 08:46:06.448] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
