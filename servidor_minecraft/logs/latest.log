@@ -1100,3 +1100,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 00:58:50.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18544ms or 370 ticks behind
 [21Dec2024 01:00:30.726] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [21Dec2024 01:00:30.727] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Dec2024 01:05:30.731] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Dec2024 01:05:30.732] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Dec2024 01:09:55.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:50089] logged in with entity id 5753 at (2.717767263874225, 101.0, -8.132226309854564)
+[21Dec2024 01:09:55.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[21Dec2024 01:09:55.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[21Dec2024 01:09:55.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[21Dec2024 01:09:55.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[21Dec2024 01:09:55.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[21Dec2024 01:09:55.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[21Dec2024 01:09:55.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[21Dec2024 01:09:55.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[21Dec2024 01:09:55.694] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[21Dec2024 01:09:59.358] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ari_fl08 (18)
+[21Dec2024 01:09:59.359] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ari_fl08
+[21Dec2024 01:10:30.734] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Dec2024 01:10:30.735] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
