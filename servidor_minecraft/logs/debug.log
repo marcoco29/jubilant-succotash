@@ -8990,3 +8990,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Dec2024 01:49:45.373] [Server thread/WARN] [tombstone/]: The death event of the player ari_fl08 was canceled by another mod
 [21Dec2024 01:49:45.404] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
 [21Dec2024 01:50:07.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 hit the ground too hard
+[21Dec2024 01:50:49.497] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[21Dec2024 01:50:49.498] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Dec2024 01:50:49.498] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Dec2024 01:50:49.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:50:49.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:50:49.920] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[21Dec2024 01:51:37.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has reached the goal [Here They Come]
+[21Dec2024 01:52:05.040] [Server thread/WARN] [tombstone/]: The death event of the player ari_fl08 was canceled by another mod
+[21Dec2024 01:52:05.064] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
+[21Dec2024 01:52:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Miner Zombie
+[21Dec2024 01:52:15.504] [Server thread/DEBUG] [tombstone/]: A new grave of the player ari_fl08 was created at position [x:50, y:70, z:-13, dim:minecraft:overworld]
+[21Dec2024 01:52:23.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Dec2024 01:52:48.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Sweet Dreams]
+[21Dec2024 01:53:20.987] [Server thread/WARN] [tombstone/]: The death event of the player Kiri080 was canceled by another mod
+[21Dec2024 01:53:21.015] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[21Dec2024 01:53:52.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Doctor Zombie
+[21Dec2024 01:53:52.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-38, y:64, z:131, dim:minecraft:overworld]
+[21Dec2024 01:55:49.483] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[21Dec2024 01:55:49.483] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Dec2024 01:55:49.484] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Dec2024 01:55:49.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:55:49.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:55:49.820] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[21Dec2024 01:56:26.172] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Dec2024 01:58:42.102] [Server thread/WARN] [tombstone/]: The death event of the player ari_fl08 was canceled by another mod
+[21Dec2024 01:58:42.113] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
+[21Dec2024 01:59:20.852] [Server thread/WARN] [tombstone/]: The death event of the player ari_fl08 was canceled by another mod
+[21Dec2024 01:59:20.862] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
+[21Dec2024 02:00:40.255] [Server thread/WARN] [tombstone/]: The death event of the player ari_fl08 was canceled by another mod
+[21Dec2024 02:00:40.259] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
+[21Dec2024 02:00:49.475] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[21Dec2024 02:00:49.476] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[21Dec2024 02:00:49.476] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[21Dec2024 02:00:49.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 02:00:49.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 02:00:49.788] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating

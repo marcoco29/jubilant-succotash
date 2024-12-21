@@ -960,6 +960,7 @@
   },
   "supplementaries:recipes/slingshot": {
     "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000",
       "forge:rods/wooden": "2024-12-19 04:59:56 +0000"
     },
     "done": false
@@ -2270,9 +2271,76 @@
     },
     "done": false
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 01:54:21 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/aquatic_blaze_rod": {
+    "criteria": {
+      "has_aqua_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "overgrown_greens": "2024-12-21 01:47:44 +0000",
+      "redwood_forest": "2024-12-21 01:47:43 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/horn_chestplate": {
     "criteria": {
       "has_sand": "2024-12-21 01:45:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 01:53:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 01:54:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-21 01:54:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bamboo_green_helmet": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 01:54:21 +0000"
     },
     "done": false
   },
@@ -2282,15 +2350,39 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/bamboo_green_leggings": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 01:51:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-21 01:44:56 +0000"
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-21 01:51:38 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/horn_helmet": {
     "criteria": {
       "has_sand": "2024-12-21 01:45:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-21 01:54:31 +0000"
     },
     "done": false
   },
@@ -2300,9 +2392,58 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_green_chestplate": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/aquatonic_bricks": {
+    "criteria": {
+      "has_aqua_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-12-21 01:51:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-21 01:45:26 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "overgrown_greens": "2024-12-21 01:47:44 +0000",
+      "redwood_forest": "2024-12-21 01:47:43 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 01:54:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/slime_sword": {
+    "criteria": {
+      "has_slime": "2024-12-21 01:54:00 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/bamboo_green_boots": {
+    "criteria": {
+      "has_slime_ball": "2024-12-21 01:54:00 +0000"
     },
     "done": false
   },
