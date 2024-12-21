@@ -3028,6 +3028,7 @@
       "has_iron_hoe": "2024-12-20 08:21:26 +0000",
       "has_iron_helmet": "2024-12-19 06:33:31 +0000",
       "has_iron_sword": "2024-12-19 05:47:51 +0000",
+      "has_chainmail_chestplate": "2024-12-21 01:24:46 +0000",
       "has_iron_chestplate": "2024-12-19 05:48:02 +0000"
     },
     "done": false
@@ -3043,6 +3044,7 @@
       "has_iron_hoe": "2024-12-20 08:21:26 +0000",
       "has_iron_helmet": "2024-12-19 06:33:31 +0000",
       "has_iron_sword": "2024-12-19 05:47:51 +0000",
+      "has_chainmail_chestplate": "2024-12-21 01:24:46 +0000",
       "has_iron_chestplate": "2024-12-19 05:48:02 +0000"
     },
     "done": false
@@ -6193,6 +6195,12 @@
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_3": "2024-12-20 21:07:55 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/terran_stone": {
+    "criteria": {
+      "has_shards": "2024-12-21 01:43:44 +0000"
     },
     "done": false
   },
