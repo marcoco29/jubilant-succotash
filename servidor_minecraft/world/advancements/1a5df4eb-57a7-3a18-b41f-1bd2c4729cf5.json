@@ -965,6 +965,7 @@
   },
   "knightquest:recipes/misc/strawhat_leggings": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_white_wool": "2024-12-19 05:40:06 +0000",
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
     },
@@ -986,6 +987,7 @@
   },
   "knightquest:recipes/misc/strawhat_boots": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_white_wool": "2024-12-19 05:40:06 +0000",
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
     },
@@ -1005,6 +1007,7 @@
   },
   "knightquest:recipes/misc/strawhat_helmet": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_white_wool": "2024-12-19 05:40:06 +0000",
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
     },
@@ -1039,6 +1042,7 @@
   },
   "knightquest:recipes/misc/strawhat_chestplate": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_white_wool": "2024-12-19 05:40:06 +0000",
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
     },
@@ -1531,6 +1535,7 @@
   },
   "supplementaries:recipes/clock_block": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "minecraft:planks": "2024-12-19 04:06:14 +0000"
     },
     "done": false
@@ -1606,9 +1611,10 @@
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
+      "has_potato": "2024-12-23 08:21:38 +0000",
       "has_the_recipe": "2024-12-19 04:07:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
@@ -1850,13 +1856,15 @@
   },
   "knightquest:recipes/misc/witch_boots": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000",
+      "has_glass_bottle": "2024-12-23 08:38:16 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/witch_chestplate": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000",
+      "has_glass_bottle": "2024-12-23 08:38:16 +0000"
     },
     "done": false
   },
@@ -1868,13 +1876,15 @@
   },
   "knightquest:recipes/misc/witch_helmet": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000",
+      "has_glass_bottle": "2024-12-23 08:38:16 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/witch_leggings": {
     "criteria": {
-      "has_poisonous_potato": "2024-12-19 04:22:21 +0000"
+      "has_poisonous_potato": "2024-12-19 04:22:21 +0000",
+      "has_glass_bottle": "2024-12-23 08:38:16 +0000"
     },
     "done": false
   },
@@ -2374,6 +2384,7 @@
   },
   "supplementaries:recipes/cage": {
     "criteria": {
+      "has_iron_bars": "2024-12-23 08:18:36 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
     "done": false
@@ -2399,6 +2410,7 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_string": "2024-12-19 06:18:48 +0000",
+      "has_tnt": "2024-12-23 08:21:31 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
     "done": false
@@ -2623,10 +2635,14 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
+      "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
+      "minecraft:wither_skeleton": "2024-12-23 09:30:24 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
-      "minecraft:zombie": "2024-12-20 05:43:02 +0000"
+      "minecraft:stray": "2024-12-23 09:02:44 +0000",
+      "minecraft:zombie": "2024-12-20 05:43:02 +0000",
+      "minecraft:zombie_villager": "2024-12-23 08:40:27 +0000"
     },
     "done": false
   },
@@ -2634,10 +2650,14 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
+      "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
+      "minecraft:wither_skeleton": "2024-12-23 09:30:24 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
-      "minecraft:zombie": "2024-12-20 05:43:02 +0000"
+      "minecraft:stray": "2024-12-23 09:02:44 +0000",
+      "minecraft:zombie": "2024-12-20 05:43:02 +0000",
+      "minecraft:zombie_villager": "2024-12-23 08:40:27 +0000"
     },
     "done": false
   },
@@ -2689,6 +2709,7 @@
   },
   "knightquest:recipes/misc/pirate_boots": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_bone": "2024-12-19 04:29:32 +0000"
     },
     "done": false
@@ -2733,6 +2754,7 @@
   },
   "knightquest:recipes/misc/pirate_helmet": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_bone": "2024-12-19 04:29:32 +0000"
     },
     "done": false
@@ -2746,6 +2768,7 @@
   },
   "knightquest:recipes/misc/pirate_chestplate": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_bone": "2024-12-19 04:29:32 +0000"
     },
     "done": false
@@ -2766,6 +2789,7 @@
   },
   "knightquest:recipes/misc/pirate_leggings": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_bone": "2024-12-19 04:29:32 +0000"
     },
     "done": false
@@ -2824,9 +2848,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_leather": "2024-12-19 04:40:56 +0000"
+      "has_leather": "2024-12-19 04:40:56 +0000",
+      "has_the_recipe": "2024-12-23 08:26:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/path_leggings": {
     "criteria": {
@@ -3028,6 +3053,7 @@
       "has_iron_hoe": "2024-12-20 08:21:26 +0000",
       "has_iron_helmet": "2024-12-19 06:33:31 +0000",
       "has_iron_sword": "2024-12-19 05:47:51 +0000",
+      "has_chainmail_leggings": "2024-12-23 08:24:26 +0000",
       "has_chainmail_chestplate": "2024-12-21 01:24:46 +0000",
       "has_iron_chestplate": "2024-12-19 05:48:02 +0000"
     },
@@ -3044,6 +3070,7 @@
       "has_iron_hoe": "2024-12-20 08:21:26 +0000",
       "has_iron_helmet": "2024-12-19 06:33:31 +0000",
       "has_iron_sword": "2024-12-19 05:47:51 +0000",
+      "has_chainmail_leggings": "2024-12-23 08:24:26 +0000",
       "has_chainmail_chestplate": "2024-12-21 01:24:46 +0000",
       "has_iron_chestplate": "2024-12-19 05:48:02 +0000"
     },
@@ -3836,6 +3863,7 @@
   },
   "knightquest:recipes/misc/conquistador3_helmet": {
     "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000",
       "has_diamond": "2024-12-19 06:18:34 +0000"
     },
     "done": false
@@ -4698,6 +4726,7 @@
   },
   "knightquest:recipes/misc/creeper_boots": {
     "criteria": {
+      "has_tnt": "2024-12-23 08:21:31 +0000",
       "has_gunpowder": "2024-12-19 06:42:34 +0000"
     },
     "done": false
@@ -4722,6 +4751,7 @@
   },
   "knightquest:recipes/misc/creeper_chestplate": {
     "criteria": {
+      "has_tnt": "2024-12-23 08:21:31 +0000",
       "has_gunpowder": "2024-12-19 06:42:34 +0000"
     },
     "done": false
@@ -4734,12 +4764,14 @@
   },
   "knightquest:recipes/misc/creeper_leggings": {
     "criteria": {
+      "has_tnt": "2024-12-23 08:21:31 +0000",
       "has_gunpowder": "2024-12-19 06:42:34 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/creeper_helmet": {
     "criteria": {
+      "has_tnt": "2024-12-23 08:21:31 +0000",
       "has_gunpowder": "2024-12-19 06:42:34 +0000"
     },
     "done": false
@@ -4882,6 +4914,7 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-12-20 05:42:10 +0000",
+      "has_golden_leggings": "2024-12-23 08:38:28 +0000",
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
@@ -4890,6 +4923,7 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-12-20 05:42:10 +0000",
+      "has_golden_leggings": "2024-12-23 08:38:28 +0000",
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
@@ -4909,7 +4943,8 @@
   },
   "knightquest:recipes/misc/conquistador2_helmet": {
     "criteria": {
-      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
+      "has_iron_nugget": "2024-12-20 05:45:08 +0000",
+      "has_clock": "2024-12-23 08:24:32 +0000"
     },
     "done": false
   },
@@ -5361,7 +5396,8 @@
   },
   "knightquest:recipes/misc/warlord_helmet": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 05:58:02 +0000"
+      "has_gold_ingot": "2024-12-20 05:58:02 +0000",
+      "has_clock": "2024-12-23 08:24:32 +0000"
     },
     "done": false
   },
@@ -5379,7 +5415,8 @@
   },
   "knightquest:recipes/misc/warlord_boots": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 05:58:02 +0000"
+      "has_gold_ingot": "2024-12-20 05:58:02 +0000",
+      "has_clock": "2024-12-23 08:24:32 +0000"
     },
     "done": false
   },
@@ -5409,13 +5446,15 @@
   },
   "knightquest:recipes/misc/warlord_leggings": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 05:58:02 +0000"
+      "has_gold_ingot": "2024-12-20 05:58:02 +0000",
+      "has_clock": "2024-12-23 08:24:32 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/warlord_chestplate": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 05:58:02 +0000"
+      "has_gold_ingot": "2024-12-20 05:58:02 +0000",
+      "has_clock": "2024-12-23 08:24:32 +0000"
     },
     "done": false
   },
@@ -5689,9 +5728,10 @@
   },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
+      "has_the_recipe": "2024-12-23 08:28:12 +0000",
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
@@ -6209,6 +6249,529 @@
       "coded_trigger": "2024-12-23 08:01:29 +0000"
     },
     "done": true
+  },
+  "knightquest:recipes/misc/apple_leggings": {
+    "criteria": {
+      "has_golden_apple": "2024-12-23 08:18:43 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_boots": {
+    "criteria": {
+      "has_golden_apple": "2024-12-23 08:18:43 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_helmet": {
+    "criteria": {
+      "has_golden_apple": "2024-12-23 08:18:43 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/apple_chestplate": {
+    "criteria": {
+      "has_golden_apple": "2024-12-23 08:18:43 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-23 08:20:28 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cooked_beef": {
+    "criteria": {
+      "has_cooked_beef": "2024-12-23 08:21:34 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-23 08:21:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-23 08:21:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-23 08:21:38 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-23 08:21:38 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-23 08:21:56 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-23 08:22:46 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/mysterious_clock": {
+    "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/twilight_clock": {
+    "criteria": {
+      "has_clock": "2024-12-23 08:24:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-23 08:24:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-23 08:24:52 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000",
+      "has_the_recipe": "2024-12-23 08:49:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 08:28:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 08:28:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 08:28:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 08:28:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 08:28:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-23 08:28:13 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-23 08:33:10 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-23 08:38:16 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-23 08:40:41 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-12-23 08:57:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-23 09:36:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-23 09:20:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-23 09:21:19 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2024-12-23 09:21:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-23 09:32:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
