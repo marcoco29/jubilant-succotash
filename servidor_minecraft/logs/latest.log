@@ -8195,3 +8195,150 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 03:46:44.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
 [26Dec2024 03:46:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
 [26Dec2024 03:46:44.172] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[26Dec2024 03:47:29.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[26Dec2024 03:47:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[26Dec2024 03:49:24.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:44687] logged in with entity id 82353 at (467.49720925624206, 76.42184448242188, -312.35609661771133)
+[26Dec2024 03:49:24.683] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[26Dec2024 03:49:24.683] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[26Dec2024 03:49:24.684] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[26Dec2024 03:49:24.684] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[26Dec2024 03:49:24.685] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[26Dec2024 03:49:24.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[26Dec2024 03:49:24.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[26Dec2024 03:49:24.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[26Dec2024 03:49:24.771] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[26Dec2024 03:49:28.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[26Dec2024 03:49:28.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[26Dec2024 03:51:38.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:58179] logged in with entity id 83710 at (489.5704439220982, 90.03022766113281, -339.640875995288)
+[26Dec2024 03:51:38.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[26Dec2024 03:51:38.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[26Dec2024 03:51:38.837] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[26Dec2024 03:51:38.838] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[26Dec2024 03:51:38.840] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[26Dec2024 03:51:38.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[26Dec2024 03:51:38.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[26Dec2024 03:51:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[26Dec2024 03:51:38.938] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[26Dec2024 03:52:51.684] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:51.685] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:sculk_bee_nest_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:sculk_summoner_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:sculk_summoner_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.981] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.982] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.982] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.982] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.982] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.982] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.982] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.982] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.984] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.984] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.984] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:52.984] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.022] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:sculk_summoner_block_entity
+[26Dec2024 03:52:53.022] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.023] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.024] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.024] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.024] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.024] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.024] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:sculk_summoner_block_entity
+[26Dec2024 03:52:53.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:53.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:53.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_bee_infector
+[26Dec2024 03:52:53.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_bee_infector
+[26Dec2024 03:52:53.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_bee_harvester
+[26Dec2024 03:52:53.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_bee_harvester
+[26Dec2024 03:52:53.027] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_phantom_corpse
+[26Dec2024 03:52:53.027] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.027] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:53.027] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:53.027] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_phantom_corpse
+[26Dec2024 03:52:53.027] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:53.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_phantom_corpse
+[26Dec2024 03:52:53.029] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_phantom_corpse
+[26Dec2024 03:52:53.030] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:53.031] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:54.978] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:sculk_summoner_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.980] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.981] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.981] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.981] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.981] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.981] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:54.983] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_phantom_corpse
+[26Dec2024 03:52:54.983] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:52:56.230] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:56.231] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:52:56.231] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:04.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Dec2024 03:53:09.283] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.283] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.284] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.284] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.284] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.284] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.284] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.864] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.864] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:09.864] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:41.727] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:41.727] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:41.727] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:43.305] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:43.305] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:43.305] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:53:54.840] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[26Dec2024 03:53:55.889] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[26Dec2024 03:53:58.033] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:54:00.664] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[26Dec2024 03:54:01.789] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[26Dec2024 03:54:04.193] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[26Dec2024 03:54:08.793] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[26Dec2024 03:54:56.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:55:08.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 03:55:33.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Adventurer Zombie
+[26Dec2024 03:55:33.879] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[26Dec2024 03:55:52.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[26Dec2024 03:55:52.513] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[26Dec2024 03:55:53.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/87940, l='ServerLevel[world]', x=-54.59, y=68.00, z=113.50] died: Kiri080 was slain by Kiri080
+[26Dec2024 03:56:13.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/88382, l='ServerLevel[world]', x=-49.31, y=66.54, z=112.48] died: marcouwu2005 was slain by Kiri080
+[26Dec2024 03:56:38.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Pray to the Goddess]
