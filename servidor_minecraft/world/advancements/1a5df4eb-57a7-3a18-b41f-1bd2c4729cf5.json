@@ -7449,6 +7449,12 @@
     },
     "done": false
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-26 03:19:22 +0000"
+    },
+    "done": true
+  },
   "divinerpg:recipes/shaped/realmite_shovel": {
     "criteria": {
       "has_ingot": "2024-12-26 03:11:18 +0000"

@@ -8093,3 +8093,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 03:12:48.219] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
 [26Dec2024 03:13:00.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/66488, l='ServerLevel[world]', x=68.07, y=-5.00, z=-251.08] died: Kiri080 was slain by Kiri080
 [26Dec2024 03:16:19.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:17:36.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[26Dec2024 03:17:36.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[26Dec2024 03:19:22.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:52251] logged in with entity id 68420 at (50.54615159047847, -5.125, -236.32011878286139)
+[26Dec2024 03:19:22.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[26Dec2024 03:19:22.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[26Dec2024 03:19:22.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[26Dec2024 03:19:22.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[26Dec2024 03:19:22.194] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[26Dec2024 03:19:22.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[26Dec2024 03:19:22.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[26Dec2024 03:19:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[26Dec2024 03:19:22.302] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[26Dec2024 03:19:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Chest Slayer]
+[26Dec2024 03:20:59.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:21:04.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:21:04.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 03:21:11.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:22:30.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Dec2024 03:22:37.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:22:39.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 03:23:40.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:23:54.424] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:sculk_summoner_block_entity
+[26Dec2024 03:23:54.425] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:23:54.425] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:23:54.426] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id sculkhorde:infested_log_block_entity
+[26Dec2024 03:23:54.427] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:sculk_phantom_corpse
+[26Dec2024 03:23:54.427] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id sculkhorde:cursor_surface_infector
+[26Dec2024 03:24:23.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[26Dec2024 03:24:23.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[26Dec2024 03:26:36.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:40121] logged in with entity id 71538 at (299.207390231949, 87.95996856689453, -284.67104418943535)
+[26Dec2024 03:26:36.303] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[26Dec2024 03:26:36.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[26Dec2024 03:26:36.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[26Dec2024 03:26:36.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[26Dec2024 03:26:36.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[26Dec2024 03:26:36.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[26Dec2024 03:26:36.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[26Dec2024 03:26:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[26Dec2024 03:26:36.404] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
