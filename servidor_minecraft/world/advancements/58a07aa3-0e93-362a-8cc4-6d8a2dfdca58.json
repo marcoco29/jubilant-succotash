@@ -3094,6 +3094,7 @@
   },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
+      "has_cyan_candle": "2024-12-26 02:26:32 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
     "done": false
@@ -3661,7 +3662,8 @@
   },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
-      "has_iron_nugget": "2024-12-19 06:43:16 +0000"
+      "has_iron_nugget": "2024-12-19 06:43:16 +0000",
+      "has_soul_torch": "2024-12-26 02:26:19 +0000"
     },
     "done": false
   },
@@ -4091,7 +4093,8 @@
   },
   "knightquest:recipes/misc/deepslate_helmet": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000"
+      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000",
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
     },
     "done": false
   },
@@ -4169,7 +4172,8 @@
   },
   "knightquest:recipes/misc/deepslate_boots": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000"
+      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000",
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
     },
     "done": false
   },
@@ -4193,7 +4197,8 @@
   },
   "knightquest:recipes/misc/deepslate_chestplate": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000"
+      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000",
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
     },
     "done": false
   },
@@ -4223,7 +4228,8 @@
   },
   "knightquest:recipes/misc/deepslate_leggings": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000"
+      "has_cobbled_deepslate": "2024-12-20 06:15:13 +0000",
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
     },
     "done": false
   },
@@ -5883,6 +5889,7 @@
   },
   "galosphere:recipes/tools/glow_flare": {
     "criteria": {
+      "has_glow_ink_sac": "2024-12-26 02:40:16 +0000",
       "has_copper_ingot": "2024-12-20 21:05:19 +0000"
     },
     "done": false
@@ -6398,7 +6405,8 @@
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "cabbage_seeds": "2024-12-20 21:28:01 +0000"
+      "cabbage_seeds": "2024-12-20 21:28:01 +0000",
+      "tomato_seeds": "2024-12-26 02:23:20 +0000"
     },
     "done": false
   },
@@ -6434,6 +6442,7 @@
   },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
+      "has_glow_ink_sac": "2024-12-26 02:40:16 +0000",
       "has_item_frame": "2024-12-20 21:31:51 +0000"
     },
     "done": false
@@ -8004,15 +8013,165 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-26 02:26:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2024-12-26 02:28:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-26 02:25:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-26 02:20:11 +0000"
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-26 02:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/pirate2_helmet": {
     "criteria": {
       "has_red_carpet": "2024-12-26 02:07:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-26 02:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-26 02:22:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
     },
     "done": false
   },
