@@ -995,6 +995,7 @@
   },
   "knightquest:recipes/misc/cleaver_heavy_axe": {
     "criteria": {
+      "has_diamond_axe": "2024-12-26 02:55:05 +0000",
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
     },
     "done": false
@@ -1057,6 +1058,7 @@
   },
   "knightquest:recipes/misc/cleaver": {
     "criteria": {
+      "has_diamond_axe": "2024-12-26 02:55:05 +0000",
       "has_ink_sac": "2024-12-19 04:02:41 +0000"
     },
     "done": false
@@ -7336,6 +7338,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2024-12-26 02:48:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-26 02:50:17 +0000"
@@ -7369,12 +7377,6 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 02:50:17 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2024-12-26 02:48:56 +0000"
     },
     "done": false
   },

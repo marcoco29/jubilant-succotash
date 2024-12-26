@@ -8014,63 +8014,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "knightquest:recipes/misc/pirate2_helmet": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2024-12-26 02:26:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2024-12-26 02:28:00 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/trail_mix": {
-    "criteria": {
-      "has_raisins": "2024-12-26 02:49:39 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2024-12-26 02:25:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+      "has_red_carpet": "2024-12-26 02:07:39 +0000"
     },
     "done": false
   },
@@ -8080,11 +8026,59 @@
     },
     "done": true
   },
+  "ancient_elements:beneath_the_bedrock": {
+    "criteria": {
+      "beneath_the_bedrock": "2024-12-26 02:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-26 02:22:11 +0000"
+    },
+    "done": false
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-26 02:22:46 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-26 02:25:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-26 02:26:19 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2024-12-26 02:28:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
@@ -8095,6 +8089,36 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
     },
     "done": false
   },
@@ -8116,33 +8140,9 @@
     },
     "done": false
   },
-  "knightquest:recipes/misc/pirate2_helmet": {
-    "criteria": {
-      "has_red_carpet": "2024-12-26 02:07:39 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
-    },
-    "done": false
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2024-12-26 02:39:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/raisin_oatmeal_cookie": {
-    "criteria": {
-      "has_raisins": "2024-12-26 02:49:39 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/rum_raisin_ice_cream": {
-    "criteria": {
-      "has_raisin": "2024-12-26 02:49:39 +0000"
     },
     "done": false
   },
@@ -8155,24 +8155,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-26 02:38:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2024-12-26 02:22:11 +0000"
     },
     "done": false
   },
@@ -8194,11 +8176,29 @@
     },
     "done": false
   },
-  "ancient_elements:beneath_the_bedrock": {
+  "graveyard:graveyard/corruption": {
     "criteria": {
-      "beneath_the_bedrock": "2024-12-26 02:21:57 +0000"
+      "corruption": "2024-12-26 02:39:25 +0000"
     },
     "done": true
+  },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_raisins": "2024-12-26 02:49:39 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/raisin_oatmeal_cookie": {
+    "criteria": {
+      "has_raisins": "2024-12-26 02:49:39 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/rum_raisin_ice_cream": {
+    "criteria": {
+      "has_raisin": "2024-12-26 02:49:39 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
