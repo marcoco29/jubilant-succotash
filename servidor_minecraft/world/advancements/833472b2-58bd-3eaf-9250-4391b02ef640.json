@@ -2229,7 +2229,8 @@
   "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
       "has_iron_axe": "2024-12-25 23:09:13 +0000",
-      "has_iron_helmet": "2024-12-21 01:19:27 +0000"
+      "has_iron_helmet": "2024-12-21 01:19:27 +0000",
+      "has_apple": "2024-12-26 01:15:48 +0000"
     },
     "done": false
   },
@@ -2243,7 +2244,8 @@
   "knightquest:recipes/misc/chainmail_helmet2": {
     "criteria": {
       "has_iron_axe": "2024-12-25 23:09:13 +0000",
-      "has_iron_helmet": "2024-12-21 01:19:27 +0000"
+      "has_iron_helmet": "2024-12-21 01:19:27 +0000",
+      "has_apple": "2024-12-26 01:15:48 +0000"
     },
     "done": false
   },
@@ -2319,6 +2321,8 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
+      "highland": "2024-12-26 01:32:02 +0000",
+      "marsh": "2024-12-26 01:17:19 +0000",
       "overgrown_greens": "2024-12-21 01:47:44 +0000",
       "redwood_forest": "2024-12-21 01:47:43 +0000"
     },
@@ -2326,6 +2330,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2024-12-26 01:32:02 +0000",
+      "marsh": "2024-12-26 01:17:19 +0000",
       "overgrown_greens": "2024-12-21 01:47:44 +0000",
       "redwood_forest": "2024-12-21 01:47:43 +0000"
     },
@@ -2559,6 +2565,88 @@
       "coded_trigger": "2024-12-26 01:07:32 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-12-26 01:15:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2024-12-26 01:15:48 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "blackwood_taiga": "2024-12-26 01:27:10 +0000",
+      "old_growth_bayou": "2024-12-26 01:26:17 +0000",
+      "lupine_plains": "2024-12-26 01:28:00 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "blackwood_taiga": "2024-12-26 01:27:10 +0000",
+      "old_growth_bayou": "2024-12-26 01:26:17 +0000",
+      "lupine_plains": "2024-12-26 01:28:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

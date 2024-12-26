@@ -1759,7 +1759,8 @@
       "boreal_forest": "2024-12-19 04:52:45 +0000",
       "towering_cliffs": "2024-12-19 05:45:02 +0000",
       "temperate_grove": "2024-12-20 05:26:49 +0000",
-      "old_growth_bayou": "2024-12-19 04:28:06 +0000"
+      "old_growth_bayou": "2024-12-19 04:28:06 +0000",
+      "lupine_plains": "2024-12-26 01:27:59 +0000"
     },
     "done": false
   },
@@ -1774,7 +1775,8 @@
       "boreal_forest": "2024-12-19 04:52:45 +0000",
       "towering_cliffs": "2024-12-19 05:45:02 +0000",
       "temperate_grove": "2024-12-20 05:26:49 +0000",
-      "old_growth_bayou": "2024-12-19 04:28:06 +0000"
+      "old_growth_bayou": "2024-12-19 04:28:06 +0000",
+      "lupine_plains": "2024-12-26 01:27:59 +0000"
     },
     "done": false
   },
@@ -7924,75 +7926,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
+      "has_oak_sapling": "2024-12-26 01:23:47 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 01:12:34 +0000"
+      "has_spruce_sapling": "2024-12-26 01:24:05 +0000"
     },
     "done": false
   },
