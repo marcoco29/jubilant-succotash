@@ -1732,6 +1732,7 @@
       "spider_eye": "2024-12-19 06:31:00 +0000",
       "cooked_cod": "2024-12-19 04:44:48 +0000",
       "bread": "2024-12-19 05:12:49 +0000",
+      "golden_apple": "2024-12-26 06:29:50 +0000",
       "rotten_flesh": "2024-12-20 05:31:36 +0000",
       "glow_berries": "2024-12-20 05:46:50 +0000",
       "beetroot": "2024-12-20 07:50:51 +0000",
@@ -5674,8 +5675,10 @@
     "criteria": {
       "bellpepper_seed": "2024-12-20 06:49:21 +0000",
       "blackbean_seed": "2024-12-20 07:58:29 +0000",
+      "olive_seed": "2024-12-26 06:34:07 +0000",
       "kiwi_seed": "2024-12-20 07:58:29 +0000",
       "grape_seed": "2024-12-20 06:49:30 +0000",
+      "currant_seed": "2024-12-26 06:33:55 +0000",
       "zucchini_seed": "2024-12-20 06:49:21 +0000"
     },
     "done": false
@@ -5689,7 +5692,8 @@
   "croptopia:gather_savanna": {
     "criteria": {
       "zucchini_seed": "2024-12-20 06:49:21 +0000",
-      "kiwi_seed": "2024-12-20 07:58:29 +0000"
+      "kiwi_seed": "2024-12-20 07:58:29 +0000",
+      "olive_seed": "2024-12-26 06:34:07 +0000"
     },
     "done": false
   },
@@ -7671,6 +7675,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/olive_oil": {
+    "criteria": {
+      "has_olives": "2024-12-26 06:34:02 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/soul_sand": {
     "criteria": {
       "has_soul_sand": "2024-12-26 05:44:42 +0000"
@@ -7695,6 +7705,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/misc/currant_seed": {
+    "criteria": {
+      "has_currant": "2024-12-26 06:33:56 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
@@ -7716,6 +7732,18 @@
   "knightquest:recipes/misc/silver_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_olive": "2024-12-26 06:34:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/surpreme_pizza": {
+    "criteria": {
+      "has_olive": "2024-12-26 06:34:02 +0000"
     },
     "done": false
   },
@@ -7782,6 +7810,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/olive_seed": {
+    "criteria": {
+      "has_olive": "2024-12-26 06:34:02 +0000"
     },
     "done": false
   },
@@ -7944,6 +7978,12 @@
   "ad_astra:recipes/misc/black_flag": {
     "criteria": {
       "has_black_flag": "2024-12-26 06:19:44 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "currant_seed": "2024-12-26 06:33:55 +0000"
     },
     "done": false
   },
