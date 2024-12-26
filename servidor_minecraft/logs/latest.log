@@ -2477,3 +2477,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 01:56:17.314] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
 [26Dec2024 01:58:00.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [An Extra Seedy Place]
 [26Dec2024 02:01:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has made the advancement [Ashes 'n Bones]
+[26Dec2024 02:05:54.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Internal Exception: java.util.NoSuchElementException: No value present
+[26Dec2024 02:05:54.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[26Dec2024 02:05:54.704] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 02:06:09.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:59889] logged in with entity id 31081 at (-45.054141015741344, 64.0, 138.40122634238548)
+[26Dec2024 02:06:09.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[26Dec2024 02:06:09.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[26Dec2024 02:06:09.188] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[26Dec2024 02:06:09.188] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[26Dec2024 02:06:09.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[26Dec2024 02:06:09.191] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[26Dec2024 02:06:09.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[26Dec2024 02:06:09.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[26Dec2024 02:06:09.286] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[26Dec2024 02:12:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Cave Centipede
+[26Dec2024 02:12:47.231] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[26Dec2024 02:13:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Adventurer Zombie
+[26Dec2024 02:13:51.288] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved

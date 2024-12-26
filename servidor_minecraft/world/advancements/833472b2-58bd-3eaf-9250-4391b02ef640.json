@@ -2239,6 +2239,7 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-21 01:20:55 +0000",
+      "iron_leggings": "2024-12-26 02:03:09 +0000",
       "iron_helmet": "2024-12-21 01:19:27 +0000"
     },
     "done": false
@@ -2255,6 +2256,7 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2024-12-25 23:09:13 +0000",
+      "has_iron_leggings": "2024-12-26 02:03:09 +0000",
       "has_iron_pickaxe": "2024-12-26 01:54:33 +0000",
       "has_iron_helmet": "2024-12-21 01:19:27 +0000",
       "has_iron_chestplate": "2024-12-21 01:20:55 +0000"
@@ -2264,6 +2266,7 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2024-12-25 23:09:13 +0000",
+      "has_iron_leggings": "2024-12-26 02:03:09 +0000",
       "has_iron_pickaxe": "2024-12-26 01:54:33 +0000",
       "has_iron_helmet": "2024-12-21 01:19:27 +0000",
       "has_iron_chestplate": "2024-12-21 01:20:55 +0000"
@@ -2591,7 +2594,8 @@
   },
   "knightquest:recipes/misc/tunic_green_leggings": {
     "criteria": {
-      "has_apple": "2024-12-26 01:15:48 +0000"
+      "has_apple": "2024-12-26 01:15:48 +0000",
+      "has_iron_leggings": "2024-12-26 02:03:09 +0000"
     },
     "done": false
   },
@@ -2603,19 +2607,22 @@
   },
   "knightquest:recipes/misc/tunic_sea_leggings": {
     "criteria": {
-      "has_apple": "2024-12-26 01:15:48 +0000"
+      "has_apple": "2024-12-26 01:15:48 +0000",
+      "has_iron_leggings": "2024-12-26 02:03:09 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/tunic_blue_leggings": {
     "criteria": {
-      "has_apple": "2024-12-26 01:15:48 +0000"
+      "has_apple": "2024-12-26 01:15:48 +0000",
+      "has_iron_leggings": "2024-12-26 02:03:09 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/tunic_red_leggings": {
     "criteria": {
-      "has_apple": "2024-12-26 01:15:48 +0000"
+      "has_apple": "2024-12-26 01:15:48 +0000",
+      "has_iron_leggings": "2024-12-26 02:03:09 +0000"
     },
     "done": false
   },
@@ -2627,7 +2634,8 @@
   },
   "knightquest:recipes/misc/tunic_yellow_leggings": {
     "criteria": {
-      "has_apple": "2024-12-26 01:15:48 +0000"
+      "has_apple": "2024-12-26 01:15:48 +0000",
+      "has_iron_leggings": "2024-12-26 02:03:09 +0000"
     },
     "done": false
   },
@@ -2659,6 +2667,13 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-26 02:03:02 +0000",
+      "diamond_boots": "2024-12-26 02:03:03 +0000"
     },
     "done": false
   },
@@ -2710,6 +2725,12 @@
   "croptopia:recipes/misc/kiwi_seed": {
     "criteria": {
       "has_kiwi": "2024-12-26 01:58:45 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_raisins": "2024-12-26 02:07:55 +0000"
     },
     "done": false
   },
@@ -2911,6 +2932,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 02:05:47 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "raisins": "2024-12-26 02:07:55 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/misc/peanut_seed": {
     "criteria": {
       "has_peanut": "2024-12-26 01:58:18 +0000"
@@ -2983,6 +3016,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/raisin_oatmeal_cookie": {
+    "criteria": {
+      "has_raisins": "2024-12-26 02:07:55 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shaped/zombie_pumpkin": {
     "criteria": {
       "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
@@ -2998,6 +3037,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/rum_raisin_ice_cream": {
+    "criteria": {
+      "has_raisin": "2024-12-26 02:07:55 +0000"
     },
     "done": false
   },
@@ -3022,6 +3067,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2024-12-26 02:05:47 +0000"
     },
     "done": false
   },
