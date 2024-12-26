@@ -6164,7 +6164,8 @@
   },
   "croptopia:recipes/candied_nuts": {
     "criteria": {
-      "has_sugar": "2024-12-20 21:08:57 +0000"
+      "has_sugar": "2024-12-20 21:08:57 +0000",
+      "has_nut": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },
@@ -6202,7 +6203,8 @@
   },
   "croptopia:recipes/nougat": {
     "criteria": {
-      "has_sugar": "2024-12-20 21:08:57 +0000"
+      "has_sugar": "2024-12-20 21:08:57 +0000",
+      "has_nuts": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },
@@ -8196,7 +8198,8 @@
   },
   "croptopia:recipes/trail_mix": {
     "criteria": {
-      "has_raisins": "2024-12-26 02:49:39 +0000"
+      "has_raisins": "2024-12-26 02:49:39 +0000",
+      "has_nuts": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },
@@ -8308,75 +8311,33 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "croptopia:recipes/roasted_nuts_from_campfire": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
+      "has_nut": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "croptopia:recipes/nutty_cookie": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
+      "has_nuts": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "croptopia:recipes/misc/walnut_sapling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
+      "has_walnut": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "croptopia:recipes/roasted_nuts": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
+      "has_nut": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "croptopia:recipes/roasted_smoking": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
+      "has_nut": "2024-12-26 03:43:10 +0000"
     },
     "done": false
   },

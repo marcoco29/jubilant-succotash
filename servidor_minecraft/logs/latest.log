@@ -8159,3 +8159,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 03:33:11.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/74159, l='ServerLevel[world]', x=346.63, y=69.00, z=-353.48] died: Kiri080 was slain by Kiri080
 [26Dec2024 03:36:37.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
 [26Dec2024 03:36:37.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[26Dec2024 03:37:38.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Nightmare Stalker
+[26Dec2024 03:37:38.579] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[26Dec2024 03:38:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Nightmare Stalker
+[26Dec2024 03:38:02.816] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[26Dec2024 03:38:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Nightmare Stalker
+[26Dec2024 03:38:16.329] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[26Dec2024 03:38:19.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:58069] logged in with entity id 77678 at (375.7262084800087, 75.49520087700593, -330.92844753524616)
+[26Dec2024 03:38:19.273] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[26Dec2024 03:38:19.273] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[26Dec2024 03:38:19.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[26Dec2024 03:38:19.274] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[26Dec2024 03:38:19.275] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[26Dec2024 03:38:19.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[26Dec2024 03:38:19.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[26Dec2024 03:38:19.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[26Dec2024 03:38:19.332] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[26Dec2024 03:38:27.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Fighting Nightmares]
+[26Dec2024 03:39:28.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [If Not Friend... Why Friend Shaped?]
+[26Dec2024 03:40:39.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:43:14.490] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_slushlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=635, y=70, z=-565}
+[26Dec2024 03:44:32.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:44:37.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:45:14.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:45:26.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[26Dec2024 03:45:26.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[26Dec2024 03:45:51.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 03:46:44.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:46721] logged in with entity id 81175 at (475.40870198934937, 89.79703521728516, -312.70925596810486)
+[26Dec2024 03:46:44.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[26Dec2024 03:46:44.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[26Dec2024 03:46:44.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[26Dec2024 03:46:44.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[26Dec2024 03:46:44.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[26Dec2024 03:46:44.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[26Dec2024 03:46:44.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[26Dec2024 03:46:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[26Dec2024 03:46:44.172] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
