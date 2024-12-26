@@ -6748,18 +6748,21 @@
   },
   "knightquest:recipes/misc/veteran_boots": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000",
       "has_diamond_sword": "2024-12-24 19:45:26 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/veteran_helmet": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000",
       "has_diamond_sword": "2024-12-24 19:45:26 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/veteran_leggings": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000",
       "has_diamond_sword": "2024-12-24 19:45:26 +0000"
     },
     "done": false
@@ -6772,6 +6775,7 @@
   },
   "knightquest:recipes/misc/veteran_chestplate": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000",
       "has_diamond_sword": "2024-12-24 19:45:26 +0000"
     },
     "done": false
@@ -7564,12 +7568,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-26 05:24:11 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2024-12-26 04:22:47 +0000"
@@ -7609,6 +7607,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
     },
     "done": false
   },
@@ -7660,9 +7664,21 @@
     },
     "done": false
   },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/silver_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
     },
     "done": false
   },
@@ -7675,6 +7691,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
     },
     "done": false
   },
@@ -7741,6 +7763,30 @@
   "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-12-26 05:30:14 +0000"
+    },
+    "done": false
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-26 05:30:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-26 05:41:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
     },
     "done": false
   },

@@ -1234,9 +1234,10 @@
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_stick": "2024-12-19 03:57:43 +0000"
+      "has_stick": "2024-12-19 03:57:43 +0000",
+      "has_the_recipe": "2024-12-26 05:36:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
@@ -1987,7 +1988,8 @@
     "criteria": {
       "has_leather": "2024-12-20 21:31:51 +0000",
       "has_apple": "2024-12-19 04:54:52 +0000",
-      "has_iron_leggings": "2024-12-20 05:57:24 +0000"
+      "has_iron_leggings": "2024-12-20 05:57:24 +0000",
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
     },
     "done": false
   },
@@ -2954,7 +2956,8 @@
   },
   "divinerpg:recipes/shaped/blue_steel": {
     "criteria": {
-      "has_ingot": "2024-12-19 05:37:36 +0000"
+      "has_ingot": "2024-12-19 05:37:36 +0000",
+      "has_dye": "2024-12-26 05:32:36 +0000"
     },
     "done": false
   },
@@ -4638,7 +4641,8 @@
   },
   "knightquest:recipes/misc/bamboo_blue_leggings": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000",
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
     },
     "done": false
   },
@@ -4694,7 +4698,8 @@
   },
   "knightquest:recipes/misc/bamboo_blue_chestplate": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000",
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
     },
     "done": false
   },
@@ -4736,7 +4741,8 @@
   },
   "knightquest:recipes/misc/bamboo_blue_boots": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000",
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
     },
     "done": false
   },
@@ -4808,7 +4814,8 @@
   },
   "knightquest:recipes/misc/bamboo_blue_helmet": {
     "criteria": {
-      "has_gold_ingot": "2024-12-20 08:16:16 +0000"
+      "has_gold_ingot": "2024-12-20 08:16:16 +0000",
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
     },
     "done": false
   },
@@ -8292,9 +8299,10 @@
   },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
+      "has_the_recipe": "2024-12-26 05:32:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/husk_boots": {
     "criteria": {
@@ -8368,6 +8376,96 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 05:44:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-26 04:35:42 +0000"
@@ -8380,15 +8478,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shaped/ice_stone": {
     "criteria": {
       "has_shards": "2024-12-26 04:30:33 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-26 04:36:18 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/small_blue_industrial_lamp": {
+    "criteria": {
+      "has_small_blue_industrial_lamp": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "forge:dyes/blue": "2024-12-26 05:32:36 +0000"
     },
     "done": false
   },
@@ -8417,11 +8545,53 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/blue_industrial_lamp": {
+    "criteria": {
+      "has_blue_industrial_lamp": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/blue_vane": {
+    "criteria": {
+      "has_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shaped/frosted_allure": {
     "criteria": {
       "has_ice_shards": "2024-12-26 04:30:33 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-26 05:37:08 +0000"
+    },
+    "done": true
   },
   "divinerpg:recipes/shaped/glacon_pumpkin": {
     "criteria": {
