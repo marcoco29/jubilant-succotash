@@ -15438,3 +15438,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 04:36:04.040] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [26Dec2024 04:36:04.044] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [26Dec2024 04:36:05.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[26Dec2024 04:36:31.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Dec2024 04:36:35.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 04:37:01.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Dec2024 04:37:26.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[26Dec2024 04:38:48.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 04:39:03.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[26Dec2024 04:39:03.672] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[26Dec2024 04:42:42.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by marcouwu2005
+[26Dec2024 04:42:42.949] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 8 in "main" inventory handler
+[26Dec2024 04:42:42.992] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[26Dec2024 04:42:52.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/12915, l='ServerLevel[world]', x=-43.50, y=64.00, z=129.88] died: marcouwu2005 burned to death
+[26Dec2024 04:42:55.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/14131, l='ServerLevel[world]', x=-45.57, y=64.00, z=129.50] died: marcouwu2005 was slain by marcouwu2005
+[26Dec2024 04:52:29.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Acolyte
+[26Dec2024 04:52:29.254] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved

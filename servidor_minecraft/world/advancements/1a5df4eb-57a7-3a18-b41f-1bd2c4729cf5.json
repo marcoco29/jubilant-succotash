@@ -2407,9 +2407,10 @@
   },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
+      "has_the_recipe": "2024-12-26 04:35:08 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
@@ -6494,9 +6495,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
-      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000",
+      "has_the_recipe": "2024-12-26 04:39:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
@@ -6512,9 +6514,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
-      "has_upgrade_base": "2024-12-23 08:26:44 +0000"
+      "has_upgrade_base": "2024-12-23 08:26:44 +0000",
+      "has_the_recipe": "2024-12-26 04:47:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
@@ -7567,6 +7570,204 @@
       "has_ingredient": "2024-12-26 04:23:04 +0000"
     },
     "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-26 04:40:11 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-26 04:39:14 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_javelin": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_dagger": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_hoe": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
