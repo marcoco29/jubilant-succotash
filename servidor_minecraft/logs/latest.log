@@ -2494,3 +2494,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 02:12:47.231] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [26Dec2024 02:13:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Adventurer Zombie
 [26Dec2024 02:13:51.288] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
+[26Dec2024 02:15:35.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Marine Zombie
+[26Dec2024 02:15:35.279] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
+[26Dec2024 02:17:15.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 was slain by Flusk Zombie
+[26Dec2024 02:17:15.500] [Server thread/INFO] [tombstone/]: The player ari_fl08 has successfully been saved
+[26Dec2024 02:17:35.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['ari_fl08'/35713, l='ServerLevel[world]', x=-5.19, y=64.00, z=70.02] died: ari_fl08 was slain by ari_fl08
+[26Dec2024 02:17:44.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 lost connection: Disconnected
+[26Dec2024 02:17:44.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 left the game
+[26Dec2024 02:18:31.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:40271] logged in with entity id 36131 at (-7.405765235424042, 63.0, 69.36413766816258)
+[26Dec2024 02:18:31.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[26Dec2024 02:18:31.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[26Dec2024 02:18:31.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[26Dec2024 02:18:31.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[26Dec2024 02:18:31.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[26Dec2024 02:18:31.244] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[26Dec2024 02:18:31.244] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[26Dec2024 02:18:31.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[26Dec2024 02:18:31.373] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[26Dec2024 02:20:11.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Sneak 100]
+[26Dec2024 02:21:57.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Beneath The Bedrock]
+[26Dec2024 02:22:46.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Amateur Archaeologist]

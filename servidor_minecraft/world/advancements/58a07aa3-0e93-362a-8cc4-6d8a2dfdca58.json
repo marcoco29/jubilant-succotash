@@ -4924,9 +4924,10 @@
   },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
+      "has_the_recipe": "2024-12-26 02:17:51 +0000",
       "has_diamond": "2024-12-20 20:08:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
@@ -8003,11 +8004,23 @@
     },
     "done": false
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-26 02:20:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/pirate2_helmet": {
     "criteria": {
       "has_red_carpet": "2024-12-26 02:07:39 +0000"
     },
     "done": false
+  },
+  "ancient_elements:beneath_the_bedrock": {
+    "criteria": {
+      "beneath_the_bedrock": "2024-12-26 02:21:57 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
