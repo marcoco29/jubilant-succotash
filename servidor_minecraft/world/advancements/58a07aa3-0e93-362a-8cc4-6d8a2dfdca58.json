@@ -2442,7 +2442,8 @@
       "minecraft:slime": "2024-12-23 18:04:38 +0000",
       "minecraft:enderman": "2024-12-20 22:49:30 +0000",
       "minecraft:stray": "2024-12-23 08:47:08 +0000",
-      "minecraft:zombie": "2024-12-20 05:28:55 +0000"
+      "minecraft:zombie": "2024-12-20 05:28:55 +0000",
+      "minecraft:zombie_villager": "2024-12-26 03:33:08 +0000"
     },
     "done": false
   },
@@ -2456,7 +2457,8 @@
       "minecraft:slime": "2024-12-23 18:04:38 +0000",
       "minecraft:enderman": "2024-12-20 22:49:30 +0000",
       "minecraft:stray": "2024-12-23 08:47:08 +0000",
-      "minecraft:zombie": "2024-12-20 05:28:55 +0000"
+      "minecraft:zombie": "2024-12-20 05:28:55 +0000",
+      "minecraft:zombie_villager": "2024-12-26 03:33:08 +0000"
     },
     "done": false
   },
@@ -3242,6 +3244,7 @@
       "has_iron_shovel": "2024-12-23 08:24:39 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
+      "has_chainmail_helmet": "2024-12-26 03:34:29 +0000",
       "has_iron_hoe": "2024-12-20 06:01:01 +0000",
       "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_iron_sword": "2024-12-20 07:11:26 +0000",
@@ -3265,6 +3268,7 @@
       "has_iron_shovel": "2024-12-23 08:24:39 +0000",
       "has_iron_leggings": "2024-12-20 05:57:24 +0000",
       "has_iron_pickaxe": "2024-12-19 06:12:11 +0000",
+      "has_chainmail_helmet": "2024-12-26 03:34:29 +0000",
       "has_iron_hoe": "2024-12-20 06:01:01 +0000",
       "has_iron_helmet": "2024-12-20 20:17:54 +0000",
       "has_iron_sword": "2024-12-20 07:11:26 +0000",
@@ -8306,73 +8310,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-26 03:24:10 +0000"
+      "log_spam_fixer": "2024-12-26 03:36:10 +0000"
     },
     "done": false
   },
