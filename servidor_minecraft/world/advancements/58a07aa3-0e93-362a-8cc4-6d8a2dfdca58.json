@@ -8374,6 +8374,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 05:09:47 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shaped/ice_stone": {
     "criteria": {
       "has_shards": "2024-12-26 04:30:33 +0000"
@@ -8383,6 +8389,19 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-26 04:36:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-26 05:09:47 +0000",
+      "has_the_recipe": "2024-12-26 05:10:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2024-12-26 05:09:47 +0000"
     },
     "done": false
   },

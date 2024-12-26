@@ -1671,9 +1671,10 @@
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_coal": "2024-12-19 04:07:31 +0000"
+      "has_coal": "2024-12-19 04:07:31 +0000",
+      "has_the_recipe": "2024-12-26 05:00:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/bamboo_helmet": {
     "criteria": {
@@ -1815,6 +1816,7 @@
       "spider_nest": "2024-12-19 04:20:39 +0000",
       "redwood_forest": "2024-12-19 06:01:43 +0000",
       "grassland": "2024-12-19 04:43:22 +0000",
+      "glowing_grotto": "2024-12-26 05:18:48 +0000",
       "crag": "2024-12-19 06:00:55 +0000"
     },
     "done": false
@@ -1830,6 +1832,7 @@
       "spider_nest": "2024-12-19 04:20:39 +0000",
       "redwood_forest": "2024-12-19 06:01:43 +0000",
       "grassland": "2024-12-19 04:43:22 +0000",
+      "glowing_grotto": "2024-12-26 05:18:48 +0000",
       "crag": "2024-12-19 06:00:55 +0000"
     },
     "done": false
@@ -2653,6 +2656,7 @@
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
       "minecraft:stray": "2024-12-23 09:02:44 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000",
+      "minecraft:drowned": "2024-12-26 05:09:39 +0000",
       "minecraft:zombie_villager": "2024-12-23 08:40:27 +0000"
     },
     "done": false
@@ -2668,6 +2672,7 @@
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
       "minecraft:stray": "2024-12-23 09:02:44 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000",
+      "minecraft:drowned": "2024-12-26 05:09:39 +0000",
       "minecraft:zombie_villager": "2024-12-23 08:40:27 +0000"
     },
     "done": false
@@ -7559,6 +7564,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-26 05:24:11 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2024-12-26 04:22:47 +0000"
@@ -7652,6 +7663,12 @@
   "knightquest:recipes/misc/silver_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/building_blocks/eternal_tales/sign_post_petrified": {
+    "criteria": {
+      "has_planks": "2024-12-26 05:15:44 +0000"
     },
     "done": false
   },
