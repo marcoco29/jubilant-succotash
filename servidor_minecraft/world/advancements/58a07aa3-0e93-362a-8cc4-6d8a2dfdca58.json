@@ -1313,6 +1313,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-26 04:21:58 +0000",
       "minecraft:river": "2024-12-19 04:02:40 +0000",
       "minecraft:lukewarm_ocean": "2024-12-20 21:27:07 +0000",
       "minecraft:dripstone_caves": "2024-12-19 04:10:14 +0000",
@@ -1594,12 +1595,15 @@
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
+      "muskeg": "2024-12-26 04:29:55 +0000",
       "shrubland": "2024-12-19 04:39:57 +0000",
+      "snowblossom_grove": "2024-12-26 04:21:57 +0000",
       "highland": "2024-12-19 04:40:51 +0000",
       "jacaranda_glade": "2024-12-20 21:43:21 +0000",
       "marsh": "2024-12-19 04:18:12 +0000",
       "maple_woods": "2024-12-19 04:42:12 +0000",
       "orchard": "2024-12-23 17:15:51 +0000",
+      "field": "2024-12-26 04:19:05 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
       "coniferous_forest": "2024-12-20 21:39:24 +0000",
       "spider_nest": "2024-12-26 01:51:17 +0000",
@@ -1610,20 +1614,25 @@
       "pasture": "2024-12-23 08:58:49 +0000",
       "lavender_field": "2024-12-20 21:43:12 +0000",
       "fir_clearing": "2024-12-23 09:01:58 +0000",
+      "pumpkin_patch": "2024-12-26 04:21:54 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
       "prairie": "2024-12-20 21:29:33 +0000",
-      "crag": "2024-12-20 08:33:43 +0000"
+      "crag": "2024-12-20 08:33:43 +0000",
+      "snowy_maple_woods": "2024-12-26 04:22:13 +0000"
     },
     "done": false
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-26 04:29:55 +0000",
       "shrubland": "2024-12-19 04:39:57 +0000",
+      "snowblossom_grove": "2024-12-26 04:21:57 +0000",
       "highland": "2024-12-19 04:40:51 +0000",
       "jacaranda_glade": "2024-12-20 21:43:21 +0000",
       "marsh": "2024-12-19 04:18:12 +0000",
       "maple_woods": "2024-12-19 04:42:12 +0000",
       "orchard": "2024-12-23 17:15:51 +0000",
+      "field": "2024-12-26 04:19:05 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
       "coniferous_forest": "2024-12-20 21:39:24 +0000",
       "spider_nest": "2024-12-26 01:51:17 +0000",
@@ -1634,9 +1643,11 @@
       "pasture": "2024-12-23 08:58:49 +0000",
       "lavender_field": "2024-12-20 21:43:12 +0000",
       "fir_clearing": "2024-12-23 09:01:58 +0000",
+      "pumpkin_patch": "2024-12-26 04:21:54 +0000",
       "grassland": "2024-12-19 04:43:26 +0000",
       "prairie": "2024-12-20 21:29:33 +0000",
-      "crag": "2024-12-20 08:33:43 +0000"
+      "crag": "2024-12-20 08:33:43 +0000",
+      "snowy_maple_woods": "2024-12-26 04:22:13 +0000"
     },
     "done": false
   },
@@ -8341,12 +8352,6 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-26 04:14:09 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-12-26 03:58:52 +0000"
@@ -8358,6 +8363,36 @@
       "has_diamond_ore": "2024-12-26 03:58:52 +0000"
     },
     "done": false
+  },
+  "divinerpg:recipes/shaped/ice_stone": {
+    "criteria": {
+      "has_shards": "2024-12-26 04:30:33 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/shiverspine_ladder": {
+    "criteria": {
+      "has_shards": "2024-12-26 04:30:33 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/frosted_allure": {
+    "criteria": {
+      "has_ice_shards": "2024-12-26 04:30:33 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/glacon_pumpkin": {
+    "criteria": {
+      "has_shards": "2024-12-26 04:30:33 +0000"
+    },
+    "done": false
+  },
+  "eternal_tales:open_gift": {
+    "criteria": {
+      "open_gift_0": "2024-12-26 04:31:10 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -1364,9 +1364,10 @@
   },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_cobblestone": "2024-12-19 04:05:27 +0000"
+      "has_cobblestone": "2024-12-19 04:05:27 +0000",
+      "has_the_recipe": "2024-12-26 04:20:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
@@ -7540,6 +7541,30 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-26 03:56:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-26 04:20:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2024-12-26 04:20:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-26 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-26 04:23:04 +0000"
     },
     "done": true
   },
