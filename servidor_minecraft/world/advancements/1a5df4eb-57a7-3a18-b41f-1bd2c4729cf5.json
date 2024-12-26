@@ -5121,6 +5121,7 @@
   },
   "supplementaries:recipes/pedestal": {
     "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-26 06:02:31 +0000",
       "has_stone_bricks": "2024-12-20 05:50:48 +0000"
     },
     "done": false
@@ -7629,6 +7630,12 @@
     },
     "done": false
   },
+  "divinerpg:recipes/shaped/raw_realmite_block": {
+    "criteria": {
+      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
@@ -7671,6 +7678,12 @@
     },
     "done": false
   },
+  "divinerpg:recipes/blasting/realmite_ingot_from_raw_realmite": {
+    "criteria": {
+      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
@@ -7686,6 +7699,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-26 05:44:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smelting/realmite_ingot_from_raw_realmite": {
+    "criteria": {
+      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
     },
     "done": false
   },

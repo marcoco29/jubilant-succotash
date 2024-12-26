@@ -7391,9 +7391,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
-      "has_upgrade_base": "2024-12-23 09:06:20 +0000"
+      "has_upgrade_base": "2024-12-23 09:06:20 +0000",
+      "has_the_recipe": "2024-12-26 05:58:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
@@ -7607,7 +7608,8 @@
   },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_flint": "2024-12-23 09:28:10 +0000"
+      "has_flint": "2024-12-23 09:28:10 +0000",
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
     },
     "done": false
   },
@@ -8383,9 +8385,27 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/darkstone": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
     },
     "done": false
   },
@@ -8395,15 +8415,51 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
   "ancient_elements:drillmaster_extraordinaire": {
     "criteria": {
       "drillmaster_extraordinaire": "2024-12-26 05:53:48 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-26 04:35:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
     },
     "done": false
   },
@@ -8431,6 +8487,18 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/purple_vane": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-26 04:36:18 +0000"
@@ -8442,6 +8510,18 @@
       "has_small_blue_industrial_lamp": "2024-12-26 05:32:36 +0000"
     },
     "done": false
+  },
+  "divinerpg:recipes/shapeless/yellow_vane": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
+    },
+    "done": false
+  },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2024-12-26 06:04:40 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
@@ -8480,6 +8560,24 @@
     },
     "done": false
   },
+  "divinerpg:recipes/shapeless/red_vane": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-26 05:58:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-26 06:09:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-26 05:32:36 +0000"
@@ -8498,9 +8596,33 @@
     },
     "done": false
   },
+  "divinerpg:recipes/shapeless/cyan_vane": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-26 06:02:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-26 05:32:36 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
     },
     "done": false
   },
@@ -8512,13 +8634,44 @@
   },
   "divinerpg:recipes/shapeless/blue_vane": {
     "criteria": {
-      "has_dye": "2024-12-26 05:32:36 +0000"
+      "has_dye": "2024-12-26 05:32:36 +0000",
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
     },
     "done": false
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-26 06:05:44 +0000"
+    },
+    "done": true
   },
   "divinerpg:recipes/shaped/frosted_allure": {
     "criteria": {
       "has_ice_shards": "2024-12-26 04:30:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-26 06:09:45 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-26 06:05:44 +0000"
     },
     "done": false
   },
@@ -8531,6 +8684,12 @@
   "divinerpg:recipes/shaped/glacon_pumpkin": {
     "criteria": {
       "has_shards": "2024-12-26 04:30:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-26 06:02:41 +0000"
     },
     "done": false
   },
