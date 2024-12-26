@@ -1339,6 +1339,7 @@
   "croptopia:gather_food": {
     "criteria": {
       "calamari": "2024-12-19 04:02:42 +0000",
+      "raisins": "2024-12-26 02:49:39 +0000",
       "glowing_calamari": "2024-12-23 18:08:17 +0000"
     },
     "done": false
@@ -8049,6 +8050,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_raisins": "2024-12-26 02:49:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 02:38:48 +0000"
@@ -8126,6 +8133,18 @@
       "corruption": "2024-12-26 02:39:25 +0000"
     },
     "done": true
+  },
+  "croptopia:recipes/raisin_oatmeal_cookie": {
+    "criteria": {
+      "has_raisins": "2024-12-26 02:49:39 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/rum_raisin_ice_cream": {
+    "criteria": {
+      "has_raisin": "2024-12-26 02:49:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
