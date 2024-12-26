@@ -1068,3 +1068,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 07:01:48.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
 [26Dec2024 07:01:48.941] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
 [26Dec2024 07:02:43.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 07:03:26.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Ambush]
+[26Dec2024 07:03:28.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Voluntary Exile]
+[26Dec2024 07:04:00.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=64, z=125} BlockPos{x=-13, y=63, z=126}
+[26Dec2024 07:04:00.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=64, z=125} BlockPos{x=-13, y=63, z=126}
+[26Dec2024 07:04:00.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=64, z=126} BlockPos{x=-9, y=63, z=127}
+[26Dec2024 07:04:01.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=64, z=127} BlockPos{x=-5, y=63, z=127}
+[26Dec2024 07:04:02.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=64, z=131} BlockPos{x=-8, y=63, z=131}
+[26Dec2024 07:04:02.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=64, z=132} BlockPos{x=-8, y=63, z=131}
+[26Dec2024 07:04:02.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=64, z=132} BlockPos{x=-8, y=63, z=131}
+[26Dec2024 07:04:02.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=64, z=133} BlockPos{x=-5, y=63, z=133}
+[26Dec2024 07:04:03.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=64, z=134} BlockPos{x=-7, y=63, z=134}
+[26Dec2024 07:04:03.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=64, z=134} BlockPos{x=-7, y=63, z=134}
+[26Dec2024 07:04:14.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 07:08:06.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 07:08:49.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 07:09:34.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 07:09:48.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=64, z=114} BlockPos{x=-39, y=62, z=114}
+[26Dec2024 07:09:48.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=64, z=114} BlockPos{x=-39, y=62, z=114}
+[26Dec2024 07:09:48.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=64, z=114} BlockPos{x=-39, y=62, z=114}
+[26Dec2024 07:09:48.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=64, z=111} BlockPos{x=-42, y=63, z=110}
+[26Dec2024 07:09:48.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=64, z=111} BlockPos{x=-42, y=63, z=110}
+[26Dec2024 07:09:48.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=64, z=111} BlockPos{x=-42, y=63, z=110}
+[26Dec2024 07:09:49.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=64, z=110} BlockPos{x=-42, y=63, z=110}
+[26Dec2024 07:10:33.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=62, z=95} BlockPos{x=-20, y=60, z=94}
+[26Dec2024 07:10:57.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Hero of Hyrule]
+[26Dec2024 07:12:30.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[26Dec2024 07:12:31.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cargo Airship (vehicle of Kiri080) moved wrongly! 0.27561859117111

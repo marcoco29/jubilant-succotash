@@ -2086,6 +2086,7 @@
   },
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
+      "has_beans": "2024-12-26 07:04:09 +0000",
       "has_pork": "2024-12-19 04:58:57 +0000"
     },
     "done": false
@@ -2522,7 +2523,8 @@
   },
   "supplementaries:recipes/sack": {
     "criteria": {
-      "has_string": "2024-12-19 05:36:23 +0000"
+      "has_string": "2024-12-19 05:36:23 +0000",
+      "forge:crops/flax": "2024-12-26 07:04:32 +0000"
     },
     "done": false
   },
@@ -5721,6 +5723,8 @@
     "criteria": {
       "turnip_seed": "2024-12-25 22:19:37 +0000",
       "bellpepper_seed": "2024-12-20 20:26:38 +0000",
+      "blackbean_seed": "2024-12-26 07:04:44 +0000",
+      "kiwi_seed": "2024-12-26 07:03:09 +0000",
       "grape_seed": "2024-12-26 01:57:24 +0000",
       "barley_seed": "2024-12-25 22:19:37 +0000",
       "zucchini_seed": "2024-12-20 20:24:35 +0000"
@@ -5735,7 +5739,8 @@
   },
   "croptopia:gather_savanna": {
     "criteria": {
-      "zucchini_seed": "2024-12-20 20:24:35 +0000"
+      "zucchini_seed": "2024-12-20 20:24:35 +0000",
+      "kiwi_seed": "2024-12-26 07:03:09 +0000"
     },
     "done": false
   },
@@ -7264,6 +7269,7 @@
   },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
+      "has_beans": "2024-12-26 07:04:09 +0000",
       "has_beef": "2024-12-23 09:02:21 +0000"
     },
     "done": false
@@ -8031,6 +8037,7 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "blackbean_seed": "2024-12-26 07:04:44 +0000",
       "grape_seed": "2024-12-26 01:57:24 +0000"
     },
     "done": false
@@ -8697,6 +8704,114 @@
   "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2024-12-26 06:09:45 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-26 07:07:59 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_kiwi_sorbet": {
+    "criteria": {
+      "has_kiwi": "2024-12-26 07:03:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2024-12-26 07:07:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-26 07:03:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/kiwi_seed": {
+    "criteria": {
+      "has_kiwi": "2024-12-26 07:03:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/blackbean_seed": {
+    "criteria": {
+      "has_blackbean": "2024-12-26 07:04:09 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-26 07:04:32 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2024-12-26 07:04:32 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_baked_beans": {
+    "criteria": {
+      "has_beans": "2024-12-26 07:04:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/refried_beans": {
+    "criteria": {
+      "has_beans": "2024-12-26 07:04:09 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/cooked_beef": {
+    "criteria": {
+      "has_cooked_beef": "2024-12-26 07:08:41 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_beans": "2024-12-26 07:04:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/baked_beans_from_blackbean": {
+    "criteria": {
+      "has_blackbean": "2024-12-26 07:04:09 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2024-12-26 07:04:32 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-26 07:04:32 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/tostada": {
+    "criteria": {
+      "has_beans": "2024-12-26 07:04:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/baked_beans_from_smoking_blackbean": {
+    "criteria": {
+      "has_blackbean": "2024-12-26 07:04:09 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2024-12-26 07:09:05 +0000"
     },
     "done": false
   },
