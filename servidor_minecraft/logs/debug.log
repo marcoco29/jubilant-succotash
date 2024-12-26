@@ -19845,3 +19845,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 03:55:53.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/87940, l='ServerLevel[world]', x=-54.59, y=68.00, z=113.50] died: Kiri080 was slain by Kiri080
 [26Dec2024 03:56:13.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/88382, l='ServerLevel[world]', x=-49.31, y=66.54, z=112.48] died: marcouwu2005 was slain by Kiri080
 [26Dec2024 03:56:38.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Pray to the Goddess]
+[26Dec2024 03:59:10.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 03:59:10.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 04:00:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Sheep
+[26Dec2024 04:00:41.846] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-47, y:62, z:135, dim:minecraft:overworld]
+[26Dec2024 04:00:41.849] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[26Dec2024 04:00:41.880] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[26Dec2024 04:04:10.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:04:10.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

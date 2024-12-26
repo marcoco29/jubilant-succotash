@@ -8341,5 +8341,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-26 03:58:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-26 03:58:52 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
