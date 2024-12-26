@@ -1601,6 +1601,7 @@
       "orchard": "2024-12-23 17:15:51 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
       "coniferous_forest": "2024-12-20 21:39:24 +0000",
+      "spider_nest": "2024-12-26 01:51:17 +0000",
       "redwood_forest": "2024-12-20 08:26:06 +0000",
       "aspen_glade": "2024-12-20 21:42:17 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
@@ -1624,6 +1625,7 @@
       "orchard": "2024-12-23 17:15:51 +0000",
       "overgrown_greens": "2024-12-19 04:44:24 +0000",
       "coniferous_forest": "2024-12-20 21:39:24 +0000",
+      "spider_nest": "2024-12-26 01:51:17 +0000",
       "redwood_forest": "2024-12-20 08:26:06 +0000",
       "aspen_glade": "2024-12-20 21:42:17 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
@@ -2002,7 +2004,8 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-19 04:54:52 +0000",
-      "has_banana": "2024-12-19 06:19:46 +0000"
+      "has_banana": "2024-12-19 06:19:46 +0000",
+      "has_grapes": "2024-12-26 01:57:24 +0000"
     },
     "done": false
   },
@@ -5675,6 +5678,7 @@
     "criteria": {
       "turnip_seed": "2024-12-25 22:19:37 +0000",
       "bellpepper_seed": "2024-12-20 20:26:38 +0000",
+      "grape_seed": "2024-12-26 01:57:24 +0000",
       "barley_seed": "2024-12-25 22:19:37 +0000",
       "zucchini_seed": "2024-12-20 20:24:35 +0000"
     },
@@ -7935,6 +7939,138 @@
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2024-12-26 01:24:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/raisins_from_grape": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "grape_seed": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2024-12-26 01:57:24 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-26 01:45:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:57:24 +0000"
     },
     "done": false
   },

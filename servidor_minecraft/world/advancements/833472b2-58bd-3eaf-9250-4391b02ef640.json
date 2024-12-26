@@ -1590,13 +1590,15 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2024-12-21 01:16:20 +0000"
+      "sweet_berries": "2024-12-21 01:16:20 +0000",
+      "carrot": "2024-12-26 01:58:28 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2024-12-21 01:16:22 +0000"
+      "sweet_berries": "2024-12-21 01:16:22 +0000",
+      "bread": "2024-12-26 02:01:57 +0000"
     },
     "done": false
   },
@@ -2245,13 +2247,15 @@
     "criteria": {
       "has_iron_axe": "2024-12-25 23:09:13 +0000",
       "has_iron_helmet": "2024-12-21 01:19:27 +0000",
-      "has_apple": "2024-12-26 01:15:48 +0000"
+      "has_apple": "2024-12-26 01:15:48 +0000",
+      "has_wheat_seeds": "2024-12-26 02:00:17 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2024-12-25 23:09:13 +0000",
+      "has_iron_pickaxe": "2024-12-26 01:54:33 +0000",
       "has_iron_helmet": "2024-12-21 01:19:27 +0000",
       "has_iron_chestplate": "2024-12-21 01:20:55 +0000"
     },
@@ -2260,6 +2264,7 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2024-12-25 23:09:13 +0000",
+      "has_iron_pickaxe": "2024-12-26 01:54:33 +0000",
       "has_iron_helmet": "2024-12-21 01:19:27 +0000",
       "has_iron_chestplate": "2024-12-21 01:20:55 +0000"
     },
@@ -2628,7 +2633,161 @@
   },
   "croptopia:recipes/fruit_salad": {
     "criteria": {
-      "has_apple": "2024-12-26 01:15:48 +0000"
+      "has_apple": "2024-12-26 01:15:48 +0000",
+      "has_grapes": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_kiwi_sorbet": {
+    "criteria": {
+      "has_kiwi": "2024-12-26 01:58:45 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2024-12-26 01:58:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-26 02:00:42 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/raisins_from_grape": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-26 02:01:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "peanut_seed": "2024-12-26 01:58:17 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-26 01:58:00 +0000",
+      "kiwi_seed": "2024-12-26 01:58:45 +0000",
+      "grape_seed": "2024-12-26 01:58:16 +0000",
+      "zucchini_seed": "2024-12-26 02:01:12 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-26 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-26 02:00:42 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/kiwi_seed": {
+    "criteria": {
+      "has_kiwi": "2024-12-26 01:58:45 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_peanuts": "2024-12-26 01:58:18 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2024-12-26 01:58:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-26 01:54:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/zombie_helmet2": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-26 02:00:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-26 02:01:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-26 02:01:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2024-12-26 01:58:04 +0000"
     },
     "done": false
   },
@@ -2640,11 +2799,253 @@
     },
     "done": false
   },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "zucchini_seed": "2024-12-26 02:01:12 +0000",
+      "kiwi_seed": "2024-12-26 01:58:45 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "blackwood_taiga": "2024-12-26 01:27:10 +0000",
       "old_growth_bayou": "2024-12-26 01:26:17 +0000",
       "lupine_plains": "2024-12-26 01:28:00 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-26 02:00:42 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 02:00:42 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-26 01:50:08 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2024-12-26 02:00:53 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-26 01:50:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-26 01:50:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-26 02:00:17 +0000",
+      "has_the_recipe": "2024-12-26 02:01:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/peanut_seed": {
+    "criteria": {
+      "has_peanut": "2024-12-26 01:58:18 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "grape_seed": "2024-12-26 01:58:16 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2024-12-26 02:00:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-26 02:00:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/donut": {
+    "criteria": {
+      "has_wheat": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-26 02:00:53 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-26 02:00:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-26 02:01:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2024-12-26 01:58:14 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/zombie_pumpkin": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-26 02:00:17 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-26 01:57:51 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/zucchini_seed": {
+    "criteria": {
+      "has_zucchini": "2024-12-26 01:59:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "bellpepper_seed": "2024-12-26 01:58:00 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-26 01:34:27 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_grape": "2024-12-26 01:58:14 +0000"
     },
     "done": false
   },
