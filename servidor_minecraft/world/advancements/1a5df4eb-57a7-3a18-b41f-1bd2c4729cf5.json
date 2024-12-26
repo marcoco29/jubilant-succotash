@@ -5675,6 +5675,9 @@
     "criteria": {
       "bellpepper_seed": "2024-12-20 06:49:21 +0000",
       "blackbean_seed": "2024-12-20 07:58:29 +0000",
+      "yam_seed": "2024-12-26 06:34:24 +0000",
+      "tea_seed": "2024-12-26 06:36:05 +0000",
+      "basil_seed": "2024-12-26 06:36:18 +0000",
       "olive_seed": "2024-12-26 06:34:07 +0000",
       "kiwi_seed": "2024-12-20 07:58:29 +0000",
       "grape_seed": "2024-12-20 06:49:30 +0000",
@@ -5691,6 +5694,7 @@
   },
   "croptopia:gather_savanna": {
     "criteria": {
+      "yam_seed": "2024-12-26 06:34:24 +0000",
       "zucchini_seed": "2024-12-20 06:49:21 +0000",
       "kiwi_seed": "2024-12-20 07:58:29 +0000",
       "olive_seed": "2024-12-26 06:34:07 +0000"
@@ -5706,12 +5710,14 @@
   "croptopia:gather_forest": {
     "criteria": {
       "blackbean_seed": "2024-12-20 07:58:29 +0000",
+      "tea_seed": "2024-12-26 06:36:05 +0000",
       "grape_seed": "2024-12-20 06:49:30 +0000"
     },
     "done": false
   },
   "croptopia:gather_jungle": {
     "criteria": {
+      "basil_seed": "2024-12-26 06:36:18 +0000",
       "peanut_seed": "2024-12-20 06:49:33 +0000"
     },
     "done": false
@@ -7591,12 +7597,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2024-12-26 06:18:48 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
@@ -7627,39 +7627,15 @@
     },
     "done": false
   },
-  "knightquest:recipes/misc/hollow_leggings": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/raw_realmite_block": {
-    "criteria": {
-      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
     },
     "done": false
   },
@@ -7672,18 +7648,6 @@
   "knightquest:recipes/misc/nail_sword": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/olive_oil": {
-    "criteria": {
-      "has_olives": "2024-12-26 06:34:02 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/burnt/burnt/soul_sand": {
-    "criteria": {
-      "has_soul_sand": "2024-12-26 05:44:42 +0000"
     },
     "done": false
   },
@@ -7705,27 +7669,9 @@
     },
     "done": false
   },
-  "croptopia:recipes/misc/currant_seed": {
-    "criteria": {
-      "has_currant": "2024-12-26 06:33:56 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/blasting/realmite_ingot_from_raw_realmite": {
-    "criteria": {
-      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/hollow_chestplate": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
     },
     "done": false
   },
@@ -7735,63 +7681,9 @@
     },
     "done": false
   },
-  "croptopia:recipes/caesar_salad": {
-    "criteria": {
-      "has_olive": "2024-12-26 06:34:02 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/surpreme_pizza": {
-    "criteria": {
-      "has_olive": "2024-12-26 06:34:02 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-12-26 05:44:42 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
-    "criteria": {
-      "has_emerald_block": "2024-12-26 06:18:48 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/smelting/realmite_ingot_from_raw_realmite": {
-    "criteria": {
-      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/hollow_boots": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/building_blocks/eternal_tales/sign_post_petrified": {
-    "criteria": {
-      "has_planks": "2024-12-26 05:15:44 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
     },
     "done": false
   },
@@ -7801,21 +7693,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2024-12-26 06:19:44 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/olive_seed": {
-    "criteria": {
-      "has_olive": "2024-12-26 06:34:02 +0000"
     },
     "done": false
   },
@@ -7849,87 +7729,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-26 05:44:42 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2024-12-26 04:40:11 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_upgrade_base": "2024-12-26 04:39:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2024-12-26 06:19:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2024-12-26 06:18:27 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/burnt/burnt/emerald_block": {
-    "criteria": {
-      "has_emerald_block": "2024-12-26 06:18:48 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
     },
     "done": false
   },
-  "knightquest:recipes/misc/pirate2_helmet": {
-    "criteria": {
-      "has_black_carpet": "2024-12-26 06:19:55 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
-    },
-    "done": false
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "skeleton_creeper": "2024-12-26 05:30:14 +0000"
-    },
-    "done": false
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2024-12-26 05:30:14 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2024-12-26 05:41:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/hollow_helmet": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2024-12-26 06:19:44 +0000"
     },
     "done": false
   },
@@ -7945,45 +7753,15 @@
     },
     "done": false
   },
-  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
-    "criteria": {
-      "has_emerald_block": "2024-12-26 06:18:48 +0000"
-    },
-    "done": false
-  },
   "knightquest:recipes/misc/silver_leggings": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/misc/lost_soul": {
-    "criteria": {
-      "has_item": "2024-12-26 05:44:42 +0000"
-    },
-    "done": false
-  },
-  "ad_astra:recipes/misc/black_flag": {
-    "criteria": {
-      "has_black_flag": "2024-12-26 06:19:44 +0000"
-    },
-    "done": false
-  },
-  "croptopia:gather_swamp": {
-    "criteria": {
-      "currant_seed": "2024-12-26 06:33:55 +0000"
     },
     "done": false
   },
@@ -8002,6 +7780,342 @@
   "knightquest:recipes/misc/silver_boots": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-26 04:39:14 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-26 04:40:11 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/building_blocks/eternal_tales/sign_post_petrified": {
+    "criteria": {
+      "has_planks": "2024-12-26 05:15:44 +0000"
+    },
+    "done": false
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2024-12-26 05:30:14 +0000"
+    },
+    "done": false
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-26 05:30:14 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-26 05:41:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2024-12-26 05:44:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-26 05:44:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-26 05:44:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-26 05:44:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/raw_realmite_block": {
+    "criteria": {
+      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/blasting/realmite_ingot_from_raw_realmite": {
+    "criteria": {
+      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smelting/realmite_ingot_from_raw_realmite": {
+    "criteria": {
+      "has_raw_realmite": "2024-12-26 06:03:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-26 06:18:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 06:19:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 06:19:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 06:19:44 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2024-12-26 06:19:44 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_black_carpet": "2024-12-26 06:19:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "currant_seed": "2024-12-26 06:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/currant_seed": {
+    "criteria": {
+      "has_currant": "2024-12-26 06:33:56 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/olive_oil": {
+    "criteria": {
+      "has_olives": "2024-12-26 06:34:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_olive": "2024-12-26 06:34:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/surpreme_pizza": {
+    "criteria": {
+      "has_olive": "2024-12-26 06:34:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/olive_seed": {
+    "criteria": {
+      "has_olive": "2024-12-26 06:34:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_baked_yam": {
+    "criteria": {
+      "has_yam": "2024-12-26 06:34:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/yam_seed": {
+    "criteria": {
+      "has_yam": "2024-12-26 06:34:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/baked_yam_from_yam": {
+    "criteria": {
+      "has_yam": "2024-12-26 06:34:24 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/baked_yam_from_smoking_yam": {
+    "criteria": {
+      "has_yam": "2024-12-26 06:34:24 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-26 06:35:15 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/jungle_stone": {
+    "criteria": {
+      "has_shards": "2024-12-26 06:35:33 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/vile_storm": {
+    "criteria": {
+      "has_shards": "2024-12-26 06:35:33 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/jungle_spider_pumpkin": {
+    "criteria": {
+      "has_shards": "2024-12-26 06:35:33 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/misc/fiery_bean_seeds": {
+    "criteria": {
+      "has_item": "2024-12-26 06:36:00 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_tea": {
+    "criteria": {
+      "has_tea_seed": "2024-12-26 06:36:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/tea_seed": {
+    "criteria": {
+      "has_tea_leaves": "2024-12-26 06:36:02 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2024-12-26 06:36:15 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2024-12-26 06:36:15 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-26 06:36:15 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-26 06:36:15 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-26 06:36:15 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_eggplant_parmesan": {
+    "criteria": {
+      "has_basil": "2024-12-26 06:36:17 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/basil_seed": {
+    "criteria": {
+      "has_basil": "2024-12-26 06:36:17 +0000"
     },
     "done": false
   },
