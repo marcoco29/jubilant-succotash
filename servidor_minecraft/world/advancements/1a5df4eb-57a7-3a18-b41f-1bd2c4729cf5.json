@@ -5102,9 +5102,10 @@
   },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
+      "has_recipe": "2024-12-26 06:57:07 +0000",
       "has_cracked_stone_bricks": "2024-12-20 05:50:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
@@ -6674,9 +6675,10 @@
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
+      "has_recipe": "2024-12-26 06:57:07 +0000",
       "has_cobweb": "2024-12-23 08:57:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
@@ -6692,9 +6694,10 @@
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
+      "has_recipe": "2024-12-26 06:57:07 +0000",
       "has_compass": "2024-12-23 09:21:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -8118,6 +8121,84 @@
       "has_basil": "2024-12-26 06:36:17 +0000"
     },
     "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-26 07:01:20 +0000"
+    },
+    "done": false
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2024-12-26 06:50:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

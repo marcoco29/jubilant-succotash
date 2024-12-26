@@ -8333,9 +8333,10 @@
   },
   "minecraft:recipes/misc/coal": {
     "criteria": {
+      "has_the_recipe": "2024-12-26 06:51:03 +0000",
       "has_coal_block": "2024-12-26 03:14:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "croptopia:recipes/roasted_nuts_from_campfire": {
     "criteria": {

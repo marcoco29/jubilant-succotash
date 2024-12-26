@@ -1052,3 +1052,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Dec2024 06:47:39.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
 [26Dec2024 06:47:39.293] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
 [26Dec2024 06:50:45.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Hero of Hyrule]
+[26Dec2024 06:58:22.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[26Dec2024 07:01:33.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[26Dec2024 07:01:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[26Dec2024 07:01:33.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Player Kiri080 tried to attack an invalid entity
+[26Dec2024 07:01:33.341] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 07:01:48.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:49893] logged in with entity id 9860 at (-38.93205541858216, 55.0, 160.30000001192093)
+[26Dec2024 07:01:48.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[26Dec2024 07:01:48.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[26Dec2024 07:01:48.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[26Dec2024 07:01:48.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[26Dec2024 07:01:48.747] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[26Dec2024 07:01:48.757] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[26Dec2024 07:01:48.761] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[26Dec2024 07:01:48.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[26Dec2024 07:01:48.941] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[26Dec2024 07:02:43.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
