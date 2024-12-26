@@ -1,4 +1,4 @@
-enabled = false
-developers = []
 broadcastLogs = true
+developers = []
+enabled = false
 
