@@ -486,6 +486,7 @@
   },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
+      "has_black_wool": "2024-12-26 06:19:44 +0000",
       "has_stick": "2024-12-19 04:00:52 +0000"
     },
     "done": false
@@ -610,6 +611,7 @@
   },
   "supplementaries:recipes/slingshot": {
     "criteria": {
+      "has_rabbit_hide": "2024-12-26 06:18:27 +0000",
       "has_string": "2024-12-19 06:18:48 +0000",
       "has_slime_ball": "2024-12-20 05:51:54 +0000",
       "forge:rods/wooden": "2024-12-19 04:00:52 +0000"
@@ -4942,6 +4944,7 @@
       "has_golden_leggings": "2024-12-23 08:38:28 +0000",
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_pickaxe": "2024-12-26 03:03:41 +0000",
+      "has_golden_boots": "2024-12-26 06:14:13 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -4952,6 +4955,7 @@
       "has_golden_leggings": "2024-12-23 08:38:28 +0000",
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_pickaxe": "2024-12-26 03:03:41 +0000",
+      "has_golden_boots": "2024-12-26 06:14:13 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -6641,7 +6645,8 @@
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "tomato_seeds": "2024-12-23 08:33:10 +0000"
+      "tomato_seeds": "2024-12-23 08:33:10 +0000",
+      "cabbage_seeds": "2024-12-26 06:14:30 +0000"
     },
     "done": false
   },
@@ -7582,6 +7587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
@@ -7624,9 +7635,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
     },
     "done": false
   },
@@ -7702,6 +7725,12 @@
     },
     "done": false
   },
+  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/smelting/realmite_ingot_from_raw_realmite": {
     "criteria": {
       "has_raw_realmite": "2024-12-26 06:03:42 +0000"
@@ -7711,6 +7740,12 @@
   "knightquest:recipes/misc/hollow_boots": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-26 05:33:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
     },
     "done": false
   },
@@ -7735,6 +7770,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 06:19:44 +0000"
     },
     "done": false
   },
@@ -7792,9 +7833,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 06:19:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-26 06:18:27 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/pirate2_helmet": {
+    "criteria": {
+      "has_black_carpet": "2024-12-26 06:19:55 +0000"
     },
     "done": false
   },
@@ -7828,6 +7893,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-26 06:19:44 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_hammer": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
@@ -7840,9 +7911,21 @@
     },
     "done": false
   },
+  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2024-12-26 06:18:48 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/silver_leggings": {
     "criteria": {
       "has_iron_block": "2024-12-26 04:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-26 06:22:47 +0000"
     },
     "done": false
   },
@@ -7855,6 +7938,12 @@
   "soulsweapons:recipes/misc/lost_soul": {
     "criteria": {
       "has_item": "2024-12-26 05:44:42 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2024-12-26 06:19:44 +0000"
     },
     "done": false
   },
