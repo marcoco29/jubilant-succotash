@@ -4236,7 +4236,8 @@
   },
   "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
-      "has_dark_oak_log": "2024-12-20 06:19:12 +0000"
+      "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
     },
     "done": false
   },
@@ -4248,19 +4249,22 @@
   },
   "knightquest:recipes/misc/evoker_boots": {
     "criteria": {
-      "has_dark_oak_log": "2024-12-20 06:19:12 +0000"
+      "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/evoker_chestplate": {
     "criteria": {
-      "has_dark_oak_log": "2024-12-20 06:19:12 +0000"
+      "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/evoker_helmet": {
     "criteria": {
-      "has_dark_oak_log": "2024-12-20 06:19:12 +0000"
+      "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
     },
     "done": false
   },
@@ -4357,12 +4361,14 @@
   },
   "knightquest:recipes/misc/horn_boots": {
     "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
       "has_sand": "2024-12-20 07:29:02 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/horn_chestplate": {
     "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
       "has_sand": "2024-12-20 07:29:02 +0000"
     },
     "done": false
@@ -4375,6 +4381,7 @@
   },
   "knightquest:recipes/misc/horn_helmet": {
     "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
       "has_sand": "2024-12-20 07:29:02 +0000"
     },
     "done": false
@@ -4387,6 +4394,7 @@
   },
   "knightquest:recipes/misc/horn_leggings": {
     "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
       "has_sand": "2024-12-20 07:29:02 +0000"
     },
     "done": false
@@ -8197,6 +8205,96 @@
   "croptopia:recipes/rum_raisin_ice_cream": {
     "criteria": {
       "has_raisin": "2024-12-26 02:49:39 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-26 03:08:34 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-26 03:08:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-26 03:08:34 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/lapis_lazuli_bricks": {
+    "criteria": {
+      "has_lapis": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/lapis_lazuli_lamp": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-26 03:08:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-26 03:08:34 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/blue_stone": {
+    "criteria": {
+      "has_lapis": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/husk_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
     },
     "done": false
   },

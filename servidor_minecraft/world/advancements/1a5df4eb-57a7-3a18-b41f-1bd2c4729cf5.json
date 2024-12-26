@@ -3816,6 +3816,7 @@
   },
   "divinerpg:recipes/shapeless/yellow_diamond_chunk": {
     "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000",
       "has_diamond": "2024-12-19 06:18:34 +0000"
     },
     "done": false
@@ -4929,6 +4930,7 @@
       "has_golden_helmet": "2024-12-20 05:42:10 +0000",
       "has_golden_leggings": "2024-12-23 08:38:28 +0000",
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
+      "has_golden_pickaxe": "2024-12-26 03:03:41 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -4938,6 +4940,7 @@
       "has_golden_helmet": "2024-12-20 05:42:10 +0000",
       "has_golden_leggings": "2024-12-23 08:38:28 +0000",
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
+      "has_golden_pickaxe": "2024-12-26 03:03:41 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -7401,6 +7404,108 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-26 02:50:17 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_chestplate": {
+    "criteria": {
+      "has_realmite_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_axe": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_pickaxe": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/palavence": {
+    "criteria": {
+      "has_realmite_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_bricks": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/realmite_nugget": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_boots": {
+    "criteria": {
+      "has_realmite_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_shovel": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_shield": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_lamp": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_leggings": {
+    "criteria": {
+      "has_realmite_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_hoe": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_block": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-26 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/realmite_helmet": {
+    "criteria": {
+      "has_realmite_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_sword": {
+    "criteria": {
+      "has_realmite_ingot": "2024-12-26 03:11:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/realmite_minibricks": {
+    "criteria": {
+      "has_ingot": "2024-12-26 03:11:18 +0000"
     },
     "done": false
   },
